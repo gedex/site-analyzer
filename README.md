@@ -62,9 +62,11 @@ aw example.com -v
 
 ## License
 
-This project uses technology fingerprints from [Wappalyzer](https://github.com/tomnomnom/wappalyzer), which are available under various open-source licenses.
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
-The analyzer code itself is provided as-is for educational and research purposes.
+This includes both:
+- The analyzer code
+- Technology fingerprints from [Wappalyzer](https://github.com/tomnomnom/wappalyzer) (also GPL-3.0)
 
 ## Credits
 

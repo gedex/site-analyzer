@@ -173,7 +173,7 @@ cargo login
 name = "site-analyzer"
 version = "0.1.0"
 edition = "2021"
-license = "MIT"
+license = "GPL-3.0"
 description = "Fast website technology detection tool"
 homepage = "https://github.com/yourusername/site-analyzer"
 repository = "https://github.com/yourusername/site-analyzer"
