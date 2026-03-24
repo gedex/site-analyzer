@@ -1,0 +1,10 @@
+{
+  "cats": [
+    67
+  ],
+  "icon": "iubenda.png",
+  "scripts": [
+    "iubenda\\.com/cookie-solution/confs/js/"
+  ],
+  "website": "https://www.iubenda.com/"
+}

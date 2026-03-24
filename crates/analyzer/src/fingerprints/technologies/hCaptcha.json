@@ -1,0 +1,9 @@
+{
+  "cats": [
+    16
+  ],
+  "html": "<style[^>]+[^<]+#cf-hcaptcha-container[^<]+</style>",
+  "icon": "hcaptcha-symbol-256.png",
+  "scripts": "https://hcaptcha.com/([\\d]+?)/api.js\\;version:\\1",
+  "website": "https://www.hcaptcha.com/"
+}

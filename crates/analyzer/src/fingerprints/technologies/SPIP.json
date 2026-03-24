@@ -1,0 +1,15 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "Composed-By": "SPIP ([\\d.]+) @\\;version:\\1",
+    "X-Spip-Cache": ""
+  },
+  "icon": "spip.svg",
+  "implies": "PHP",
+  "meta": {
+    "generator": "(?:^|\\s)SPIP(?:\\s([\\d.]+(?:\\s\\[\\d+\\])?))?\\;version:\\1"
+  },
+  "website": "http://www.spip.net"
+}

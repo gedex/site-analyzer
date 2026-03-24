@@ -1,0 +1,16 @@
+{
+  "cats": [
+    44
+  ],
+  "headers": {
+    "X-Jenkins": "([\\d.]+)\\;version:\\1"
+  },
+  "html": "<span class=\"jenkins_ver\"><a href=\"https://jenkins\\.io/\">Jenkins ver\\. ([\\d.]+)\\;version:\\1",
+  "icon": "Jenkins.png",
+  "implies": "Java",
+  "js": {
+    "jenkinsCIGlobal": "",
+    "jenkinsRules": ""
+  },
+  "website": "https://jenkins.io/"
+}

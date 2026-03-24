@@ -1,0 +1,11 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "Advert Stream.png",
+  "js": {
+    "advst_is_above_the_fold": ""
+  },
+  "scripts": "(?:ad\\.advertstream\\.com|adxcore\\.com)",
+  "website": "http://www.advertstream.com"
+}

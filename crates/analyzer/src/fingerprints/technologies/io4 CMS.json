@@ -1,0 +1,10 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "io4 CMS.png",
+  "meta": {
+    "generator": "GO[ |]+CMS Enterprise"
+  },
+  "website": "http://notenbomer.nl/Producten/Content_management/io4_|_cms"
+}

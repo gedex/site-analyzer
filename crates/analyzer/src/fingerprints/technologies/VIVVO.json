@@ -1,0 +1,13 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "VivvoSessionId": ""
+  },
+  "icon": "VIVVO.png",
+  "js": {
+    "vivvo": ""
+  },
+  "website": "http://vivvo.net"
+}

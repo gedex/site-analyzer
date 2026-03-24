@@ -1,0 +1,8 @@
+{
+  "cats": [
+    68
+  ],
+  "icon": "Facil-iti.png",
+  "scripts": "ws\\.facil-iti\\.com/tag/faciliti-tag\\.min\\.js",
+  "website": "https://www.facil-iti.com/"
+}

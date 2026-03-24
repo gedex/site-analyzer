@@ -1,0 +1,11 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:acme:thttpd",
+  "headers": {
+    "Server": "\\bthttpd(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "thttpd.png",
+  "website": "https://acme.com/software/thttpd"
+}

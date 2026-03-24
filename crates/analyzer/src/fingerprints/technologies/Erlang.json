@@ -1,0 +1,11 @@
+{
+  "cats": [
+    27
+  ],
+  "cpe": "cpe:/a:erlang:erlang%2fotp",
+  "headers": {
+    "Server": "Erlang( OTP/(?:[\\d.ABR-]+))?\\;version:\\1"
+  },
+  "icon": "Erlang.png",
+  "website": "http://www.erlang.org"
+}

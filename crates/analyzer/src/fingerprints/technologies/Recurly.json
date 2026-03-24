@@ -1,0 +1,13 @@
+{
+  "cats": [
+    41
+  ],
+  "html": "<input[^>]+data-recurly",
+  "icon": "Recurly.png",
+  "js": {
+    "recurly.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "js\\.recurly\\.com",
+  "description": "Recurly provides enterprise-class subscription billing and recurring payment management for thousands of businesses worldwide.",
+  "website": "https://recurly.com"
+}

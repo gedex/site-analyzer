@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:mochiweb_project:mochiweb",
+  "headers": {
+    "Server": "MochiWeb(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "website": "https://github.com/mochi/mochiweb"
+}

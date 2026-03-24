@@ -1,0 +1,16 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:contao:contao_cms",
+  "html": [
+    "<!--[^>]+powered by (?:TYPOlight|Contao)[^>]*-->",
+    "<link[^>]+(?:typolight|contao)\\.css"
+  ],
+  "icon": "Contao.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "^Contao Open Source CMS$"
+  },
+  "website": "http://contao.org"
+}

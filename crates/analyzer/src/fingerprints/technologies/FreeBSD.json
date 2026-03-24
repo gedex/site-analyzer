@@ -1,0 +1,11 @@
+{
+  "cats": [
+    28
+  ],
+  "cpe": "cpe:/o:freebsd:freebsd",
+  "headers": {
+    "Server": "FreeBSD(?: ([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "FreeBSD.png",
+  "website": "http://freebsd.org"
+}

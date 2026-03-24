@@ -1,0 +1,10 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "projesoft.png",
+  "scripts": [
+    "projesoft\\.js"
+  ],
+  "website": "https://www.projesoft.com.tr"
+}

@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "phpSQLiteCMS.png",
+  "implies": [
+    "PHP",
+    "SQLite"
+  ],
+  "meta": {
+    "generator": "^phpSQLiteCMS(?: (.+))?$\\;version:\\1"
+  },
+  "website": "http://phpsqlitecms.net"
+}

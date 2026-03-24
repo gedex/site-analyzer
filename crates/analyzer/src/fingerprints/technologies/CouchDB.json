@@ -1,0 +1,11 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:apache:couchdb",
+  "headers": {
+    "Server": "CouchDB/([\\d.]+)\\;version:\\1"
+  },
+  "icon": "CouchDB.png",
+  "website": "http://couchdb.apache.org"
+}

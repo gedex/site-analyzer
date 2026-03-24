@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "Xitami(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "Xitami.png",
+  "website": "http://xitami.com"
+}

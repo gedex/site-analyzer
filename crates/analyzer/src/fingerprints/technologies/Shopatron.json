@@ -1,0 +1,18 @@
+{
+  "cats": [
+    6
+  ],
+  "html": [
+    "<body class=\"shopatron",
+    "<img[^>]+mediacdn\\.shopatron\\.com\\;confidence:50"
+  ],
+  "icon": "Shopatron.png",
+  "js": {
+    "shptUrl": ""
+  },
+  "meta": {
+    "keywords": "Shopatron"
+  },
+  "scripts": "mediacdn\\.shopatron\\.com",
+  "website": "http://ecommerce.shopatron.com"
+}

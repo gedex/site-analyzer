@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "debut\\/?([\\d\\.]+)?\\;version:\\1"
+  },
+  "icon": "debut.png",
+  "website": "http://www.brother.com"
+}

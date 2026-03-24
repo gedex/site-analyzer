@@ -1,0 +1,13 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<link [^>]+Cargo feed",
+  "icon": "Cargo.png",
+  "implies": "PHP",
+  "meta": {
+    "cargo_title": ""
+  },
+  "scripts": "/cargo\\.",
+  "website": "http://cargocollective.com"
+}

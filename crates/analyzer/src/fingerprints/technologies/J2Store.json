@@ -1,0 +1,11 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "j2store.png",
+  "implies": "Joomla",
+  "js": {
+    "j2storeURL": ""
+  },
+  "website": "https://www.j2store.org/"
+}

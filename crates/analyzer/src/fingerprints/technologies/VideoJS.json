@@ -1,0 +1,17 @@
+{
+  "cats": [
+    14
+  ],
+  "html": "<div[^>]+class=\"video-js+\">",
+  "icon": "VideoJS.svg",
+  "js": {
+    "VideoJS": "",
+    "videojs": "",
+    "videojs.VERSION": "^(.+)$\\;version:\\1"
+  },
+  "scripts": [
+    "zencdn\\.net/c/video\\.js",
+    "cdnjs\\.cloudflare\\.com\\/ajax\\/libs\\/video\\.js\\/([\\d\\.]+)\\/\\;version:\\1"
+  ],
+  "website": "http://videojs.com"
+}

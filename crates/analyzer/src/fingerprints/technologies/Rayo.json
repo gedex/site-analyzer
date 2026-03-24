@@ -1,0 +1,17 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Rayo.png",
+  "implies": [
+    "AngularJS",
+    "Microsoft ASP.NET"
+  ],
+  "js": {
+    "Rayo": ""
+  },
+  "meta": {
+    "generator": "^Rayo"
+  },
+  "website": "http://www.rayo.ir"
+}

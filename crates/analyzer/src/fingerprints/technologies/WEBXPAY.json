@@ -1,0 +1,11 @@
+{
+  "cats": [
+    6
+  ],
+  "html": "Powered by <a href=\"https://www\\.webxpay\\.com\">WEBXPAY<",
+  "icon": "WEBXPAY.png",
+  "js": {
+    "WEBXPAY": ""
+  },
+  "website": "https://webxpay.com"
+}

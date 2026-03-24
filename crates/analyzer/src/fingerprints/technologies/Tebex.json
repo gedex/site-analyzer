@@ -1,0 +1,8 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "Tebex.png",
+  "scripts": "https://server\\.tebex\\.io/tebexAccounts/tebexaccounts\\.js",
+  "website": "https://www.tebex.io/"
+}

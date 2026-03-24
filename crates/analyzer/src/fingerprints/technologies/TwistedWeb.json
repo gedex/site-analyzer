@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "TwistedWeb(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "TwistedWeb.png",
+  "website": "http://twistedmatrix.com/trac/wiki/TwistedWeb"
+}

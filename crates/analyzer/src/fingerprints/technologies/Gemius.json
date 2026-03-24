@@ -1,0 +1,19 @@
+{
+  "cats": [
+    10
+  ],
+  "html": "<a [^>]*onclick=\"gemius_hit",
+  "icon": "Gemius.png",
+  "js": {
+    "gemius_hit": "",
+    "gemius_init": "",
+    "gemius_pending": "",
+    "pp_gemius_hit": ""
+  },
+  "scripts": [
+    "hit\\.gemius\\.pl/xgemius\\.js",
+    "hit\\.gemius\\.pl\\;confidence:80",
+    "xgemius\\.js\\;confidence:30"
+  ],
+  "website": "https://www.gemius.com"
+}

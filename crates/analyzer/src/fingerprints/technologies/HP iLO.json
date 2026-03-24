@@ -1,0 +1,11 @@
+{
+  "cats": [
+    22,
+    46
+  ],
+  "headers": {
+    "Server": "HP-iLO-Server(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "HP.svg",
+  "website": "http://hp.com"
+}

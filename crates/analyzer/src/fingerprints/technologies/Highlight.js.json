@@ -1,0 +1,12 @@
+{
+  "cats": [
+    19
+  ],
+  "icon": "Highlight.js.png",
+  "js": {
+    "hljs.highlightBlock": "",
+    "hljs.listLanguages": ""
+  },
+  "scripts": "/(?:([\\d.])+/)?highlight(?:\\.min)?\\.js\\;version:\\1",
+  "website": "https://highlightjs.org/"
+}

@@ -1,0 +1,15 @@
+{
+  "cats": [
+    1,
+    6
+  ],
+  "cookies": {
+    "botble_session": ""
+  },
+  "headers": {
+    "CMS-Version": "^(.+)$\\;version:\\1\\;confidence:0"
+  },
+  "icon": "Botble-CMS.png",
+  "implies": "Laravel",
+  "website": "https://botble.com"
+}

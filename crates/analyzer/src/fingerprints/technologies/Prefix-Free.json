@@ -1,0 +1,11 @@
+{
+  "cats": [
+    19
+  ],
+  "icon": "Prefix-Free.png",
+  "js": {
+    "PrefixFree": ""
+  },
+  "scripts": "prefixfree\\.js",
+  "website": "https://leaverou.github.io/prefixfree/"
+}

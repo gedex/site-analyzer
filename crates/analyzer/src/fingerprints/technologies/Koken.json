@@ -1,0 +1,22 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "koken_referrer": ""
+  },
+  "html": [
+    "<html lang=\"en\" class=\"k-source-essays k-lens-essays\">",
+    "<!--\\s+KOKEN DEBUGGING"
+  ],
+  "icon": "Koken.png",
+  "implies": [
+    "PHP",
+    "MySQL"
+  ],
+  "meta": {
+    "generator": "Koken ([\\d.]+)\\;version:\\1"
+  },
+  "scripts": "koken(?:\\.js\\?([\\d.]+)|/storage)\\;version:\\1",
+  "website": "http://koken.me"
+}

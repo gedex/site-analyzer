@@ -1,0 +1,13 @@
+{
+  "cats": [
+    59
+  ],
+  "icon": "Modernizr.svg",
+  "js": {
+    "Modernizr._version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": [
+    "([\\d.]+)?/modernizr(?:\\.([\\d.]+))?.*\\.js\\;version:\\1?\\1:\\2"
+  ],
+  "website": "https://modernizr.com"
+}

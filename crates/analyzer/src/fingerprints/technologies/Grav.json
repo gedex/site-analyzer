@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Grav.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "GravCMS(?:\\s([\\d.]+))?\\;version:\\1"
+  },
+  "website": "http://getgrav.org"
+}

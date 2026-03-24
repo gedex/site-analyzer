@@ -1,0 +1,18 @@
+{
+  "cats": [
+    1,
+    6
+  ],
+  "cookies": {
+    "eZSESSID": ""
+  },
+  "headers": {
+    "X-Powered-By": "^eZ Publish"
+  },
+  "icon": "eZ.svg",
+  "implies": "PHP",
+  "meta": {
+    "generator": "eZ Publish"
+  },
+  "website": "https://github.com/ezsystems/ezpublish-legacy"
+}

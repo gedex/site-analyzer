@@ -1,0 +1,13 @@
+{
+  "cats": [
+    1,
+    18
+  ],
+  "html": "<!--[^>]+This website is powered by Koala Web Framework CMS",
+  "icon": "Koala Framework.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "^Koala Web Framework CMS"
+  },
+  "website": "http://koala-framework.org"
+}

@@ -1,0 +1,9 @@
+{
+  "cats": [
+    59
+  ],
+  "html": "<link [^>]+(?:/([\\d.]+)/)?slick-theme\\.css\\;version:\\1",
+  "implies": "jQuery",
+  "scripts": "(?:/([\\d.]+))?/slick(?:\\.min)?\\.js\\;version:\\1",
+  "website": "https://kenwheeler.github.io/slick"
+}

@@ -1,0 +1,12 @@
+{
+  "cats": [
+    5
+  ],
+  "icon": "Outbrain.png",
+  "js": {
+    "OB_releaseVer": "^(.+)$\\;version:\\1",
+    "OutbrainPermaLink": ""
+  },
+  "scripts": "widgets\\.outbrain\\.com/outbrain\\.js",
+  "website": "https://www.outbrain.com"
+}

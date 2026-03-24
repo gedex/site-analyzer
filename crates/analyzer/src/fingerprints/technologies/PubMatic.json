@@ -1,0 +1,8 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "PubMatic.png",
+  "scripts": "https?://[^/]*\\.pubmatic\\.com",
+  "website": "http://www.pubmatic.com/"
+}

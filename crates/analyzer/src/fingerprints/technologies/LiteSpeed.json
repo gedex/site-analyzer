@@ -1,0 +1,11 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:litespeedtech:litespeed_web_server",
+  "headers": {
+    "Server": "^LiteSpeed$"
+  },
+  "icon": "LiteSpeed.svg",
+  "website": "http://litespeedtech.com"
+}

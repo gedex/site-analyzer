@@ -1,0 +1,20 @@
+{
+  "cats": [
+    1,
+    2,
+    4,
+    8
+  ],
+  "html": "<[^>]*type=[^>]text\\/vnd\\.tiddlywiki",
+  "icon": "TiddlyWiki.png",
+  "js": {
+    "tiddler": ""
+  },
+  "meta": {
+    "application-name": "^TiddlyWiki$",
+    "copyright": "^TiddlyWiki created by Jeremy Ruston",
+    "generator": "^TiddlyWiki$",
+    "tiddlywiki-version": "^(.+)$\\;version:\\1"
+  },
+  "website": "http://tiddlywiki.com"
+}

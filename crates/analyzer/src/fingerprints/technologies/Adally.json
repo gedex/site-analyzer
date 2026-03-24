@@ -1,0 +1,8 @@
+{
+  "cats": [
+    68
+  ],
+  "icon": "Adally.png",
+  "scripts": "cloudfront\\.net/.*/adally\\.js",
+  "website": "https://adally.com/"
+}

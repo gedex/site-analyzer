@@ -1,0 +1,11 @@
+{
+  "cats": [
+    19
+  ],
+  "headers": {
+    "server": "^AmazonS3$"
+  },
+  "icon": "aws-s3.svg",
+  "implies": "Amazon Web Services",
+  "website": "http://aws.amazon.com/s3/"
+}

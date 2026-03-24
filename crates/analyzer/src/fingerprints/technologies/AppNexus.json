@@ -1,0 +1,9 @@
+{
+  "cats": [
+    36
+  ],
+  "html": "<(?:iframe|img)[^>]+adnxs\\.(?:net|com)",
+  "icon": "AppNexus.svg",
+  "scripts": "adnxs\\.(?:net|com)",
+  "website": "http://appnexus.com"
+}

@@ -1,0 +1,8 @@
+{
+  "cats": [
+    6
+  ],
+  "html": "Shopsystem von <a href=[^>]+store-systems\\.de\"|\\.mws_boxTop",
+  "icon": "Store Systems.png",
+  "website": "http://store-systems.de"
+}

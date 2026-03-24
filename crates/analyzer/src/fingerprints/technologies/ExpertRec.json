@@ -1,0 +1,8 @@
+{
+  "cats": [
+    29
+  ],
+  "icon": "ExpertRec.png",
+  "scripts": "cse\\.expertrec\\.com/api/js/ci_common\\.js\\?id=.*$",
+  "website": "https://expertrec.com"
+}

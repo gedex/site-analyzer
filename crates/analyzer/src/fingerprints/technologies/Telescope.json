@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Telescope.png",
+  "implies": [
+    "Meteor",
+    "React"
+  ],
+  "js": {
+    "Telescope": ""
+  },
+  "website": "http://telescopeapp.org"
+}

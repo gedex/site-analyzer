@@ -1,0 +1,9 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "(?:<a href=\"[^>]+wolfcms\\.org[^>]+>Wolf CMS(?:</a>)? inside|Thank you for using <a[^>]+>Wolf CMS)",
+  "icon": "Wolf CMS.png",
+  "implies": "PHP",
+  "website": "http://www.wolfcms.org"
+}

@@ -1,0 +1,12 @@
+{
+  "cats": [
+    27,
+    12
+  ],
+  "icon": "elm.svg",
+  "js": {
+    "Elm.Main.embed": "\\;version:0.18",
+    "Elm.Main.init": "\\;version:0.19"
+  },
+  "website": "https://elm-lang.org/"
+}

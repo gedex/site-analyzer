@@ -1,0 +1,11 @@
+{
+  "cats": [
+    20
+  ],
+  "cpe": "cpe:/a:adobe:golive",
+  "icon": "Adobe GoLive.png",
+  "meta": {
+    "generator": "Adobe GoLive(?:\\s([\\d.]+))?\\;version:\\1"
+  },
+  "website": "http://www.adobe.com/products/golive"
+}

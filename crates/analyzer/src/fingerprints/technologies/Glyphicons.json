@@ -1,0 +1,8 @@
+{
+  "cats": [
+    17
+  ],
+  "html": "(?:<link[^>]* href=[^>]+glyphicons(?:\\.min)?\\.css|<img[^>]* src=[^>]+glyphicons)",
+  "icon": "Glyphicons.png",
+  "website": "http://glyphicons.com"
+}

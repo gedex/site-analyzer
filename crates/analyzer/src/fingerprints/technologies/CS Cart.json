@@ -1,0 +1,15 @@
+{
+  "cats": [
+    6
+  ],
+  "html": [
+    "&nbsp;Powered by (?:<a href=[^>]+cs-cart\\.com|CS-Cart)",
+    "\\.cm-noscript[^>]+</style>"
+  ],
+  "icon": "CS Cart.png",
+  "implies": "PHP",
+  "js": {
+    "fn_compare_strings": ""
+  },
+  "website": "http://www.cs-cart.com"
+}

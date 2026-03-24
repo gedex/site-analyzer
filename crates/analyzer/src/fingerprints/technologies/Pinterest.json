@@ -1,0 +1,8 @@
+{
+  "cats": [
+    5
+  ],
+  "icon": "Pinterest.svg",
+  "scripts": "//assets\\.pinterest\\.com/js/pinit\\.js",
+  "website": "http://pinterest.com"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Redaxscript.svg",
+  "implies": "PHP",
+  "meta": {
+    "generator": "^Redaxscript ([\\d\\.]+)\\;version:\\1"
+  },
+  "website": "https://redaxscript.com"
+}

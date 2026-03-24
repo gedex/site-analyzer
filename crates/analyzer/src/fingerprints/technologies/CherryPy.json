@@ -1,0 +1,13 @@
+{
+  "cats": [
+    18,
+    22
+  ],
+  "cpe": "cpe:/a:cherrypy:cherrypy",
+  "headers": {
+    "Server": "CherryPy\\/?([\\d\\.]+)?\\;version:\\1"
+  },
+  "icon": "CherryPy.png",
+  "implies": "Python",
+  "website": "http://www.cherrypy.org"
+}

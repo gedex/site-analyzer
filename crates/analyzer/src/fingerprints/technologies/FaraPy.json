@@ -1,0 +1,9 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<!-- Powered by FaraPy.",
+  "icon": "FaraPy.png",
+  "implies": "Python",
+  "website": "https://faral.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "AlloyUI.png",
+  "implies": [
+    "Bootstrap",
+    "YUI"
+  ],
+  "js": {
+    "AUI": ""
+  },
+  "scripts": "^https?://cdn\\.alloyui\\.com/",
+  "website": "http://www.alloyui.com"
+}

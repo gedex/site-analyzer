@@ -1,0 +1,17 @@
+{
+  "cats": [
+    69
+  ],
+  "html": [
+    "<meta[^>]*google-signin-client_id",
+    "<meta[^>]*google-signin-scope",
+    "<iframe[^>]*accounts\\.google\\.com/o/oauth2",
+    "<a[^>]*accounts\\.google\\.com/o/oauth2"
+  ],
+  "icon": "Google.svg",
+  "scripts": [
+    "apis\\.google\\.com/js/platform\\.js",
+    "accounts\\.google\\.com/gsi/client"
+  ],
+  "website": "https://developers.google.com/identity/sign-in/web"
+}

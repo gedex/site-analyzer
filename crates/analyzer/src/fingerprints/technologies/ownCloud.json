@@ -1,0 +1,12 @@
+{
+  "cats": [
+    19
+  ],
+  "html": "<a href=\"https://owncloud\\.com\" target=\"_blank\">ownCloud Inc\\.</a><br/>Your Cloud, Your Data, Your Way!",
+  "icon": "ownCloud.png",
+  "implies": "PHP",
+  "meta": {
+    "apple-itunes-app": "app-id=543672169"
+  },
+  "website": "https://owncloud.org"
+}

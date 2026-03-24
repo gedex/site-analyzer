@@ -1,0 +1,20 @@
+{
+  "cats": [
+    44
+  ],
+  "html": "<span class=\"versionTag\"><span class=\"vWord\">Version</span> ([\\d\\.]+)\\;version:\\1",
+  "icon": "TeamCity.svg",
+  "implies": [
+    "Apache Tomcat",
+    "Java",
+    "jQuery",
+    "Moment.js",
+    "Prototype",
+    "React",
+    "Underscore.js"
+  ],
+  "meta": {
+    "application-name": "TeamCity"
+  },
+  "website": "https://www.jetbrains.com/teamcity/"
+}

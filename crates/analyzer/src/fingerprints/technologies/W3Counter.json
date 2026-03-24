@@ -1,0 +1,8 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "W3Counter.png",
+  "scripts": "w3counter\\.com/tracker\\.js",
+  "website": "http://www.w3counter.com"
+}

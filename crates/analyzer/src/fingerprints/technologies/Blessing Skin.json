@@ -1,0 +1,11 @@
+{
+  "cats": [
+    7
+  ],
+  "icon": "Blessing Skin.png",
+  "implies": "Laravel",
+  "js": {
+    "blessing.version": "^(.+)$\\;version:\\1"
+  },
+  "website": "https://github.com/bs-community/blessing-skin-server"
+}

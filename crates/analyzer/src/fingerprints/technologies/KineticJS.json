@@ -1,0 +1,12 @@
+{
+  "cats": [
+    25
+  ],
+  "icon": "KineticJS.png",
+  "js": {
+    "Kinetic": "",
+    "Kinetic.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "kinetic(?:-v?([\\d.]+))?(?:\\.min)?\\.js\\;version:\\1",
+  "website": "https://github.com/ericdrowell/KineticJS/"
+}

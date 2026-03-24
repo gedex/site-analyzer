@@ -1,0 +1,17 @@
+{
+  "cats": [
+    10
+  ],
+  "html": [
+    "<!-- (?:Begin|End) Inspectlet Embed Code -->"
+  ],
+  "icon": "inspectlet.png",
+  "js": {
+    "__insp": "",
+    "__inspld": ""
+  },
+  "scripts": [
+    "cdn\\.inspectlet\\.com"
+  ],
+  "website": "https://www.inspectlet.com/"
+}

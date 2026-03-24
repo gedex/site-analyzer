@@ -1,0 +1,12 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:oracle:glassfish_server",
+  "headers": {
+    "Server": "GlassFish(?: Server)?(?: Open Source Edition)?(?: ?/?([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "GlassFish.png",
+  "implies": "Java",
+  "website": "http://glassfish.java.net"
+}

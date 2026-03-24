@@ -1,0 +1,20 @@
+{
+  "cats": [
+    64
+  ],
+  "cookies": {
+    "F5_HT_shrinked": "",
+    "F5_ST": "",
+    "F5_fullWT": "",
+    "LastMRH_Session": "",
+    "MRHSHint": "",
+    "MRHSequence": "",
+    "MRHSession": "",
+    "TIN": ""
+  },
+  "headers": {
+    "server": "^big-?ip$"
+  },
+  "icon": "F5.png",
+  "website": "https://www.f5.com/products/big-ip-services"
+}

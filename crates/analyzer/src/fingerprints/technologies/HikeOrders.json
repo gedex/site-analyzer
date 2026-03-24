@@ -1,0 +1,8 @@
+{
+  "cats": [
+    68
+  ],
+  "icon": "HikeOrders.png",
+  "scripts": "hikeorders\\.com/main/assets/js/hko-accessibility\\.min\\.js",
+  "website": "https://hikeorders.com/"
+}

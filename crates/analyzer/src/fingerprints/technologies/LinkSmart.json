@@ -1,0 +1,13 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "LinkSmart.png",
+  "js": {
+    "LS_JSON": "",
+    "LinkSmart": "",
+    "_mb_site_guid": ""
+  },
+  "scripts": "^https?://cdn\\.linksmart\\.com/linksmart_([\\d.]+?)(?:\\.min)?\\.js\\;version:\\1",
+  "website": "http://linksmart.com"
+}

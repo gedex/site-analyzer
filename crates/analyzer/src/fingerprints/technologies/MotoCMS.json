@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<link [^>]*href=\"[^>]*\\/mt-content\\/[^>]*\\.css",
+  "icon": "MotoCMS.svg",
+  "implies": [
+    "PHP",
+    "AngularJS",
+    "jQuery"
+  ],
+  "scripts": "/mt-includes/js/website(?:assets)?\\.(?:min)?\\.js",
+  "website": "http://motocms.com"
+}

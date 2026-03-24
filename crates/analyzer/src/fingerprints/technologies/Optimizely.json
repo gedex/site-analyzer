@@ -1,0 +1,11 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Optimizely.png",
+  "js": {
+    "optimizely": ""
+  },
+  "scripts": "optimizely\\.com.*\\.js",
+  "website": "https://www.optimizely.com"
+}

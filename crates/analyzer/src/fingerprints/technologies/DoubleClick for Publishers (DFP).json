@@ -1,0 +1,8 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "DoubleClick.svg",
+  "scripts": "googletagservices\\.com/tag/js/gpt(?:_mobile)?\\.js",
+  "website": "http://www.google.com/dfp"
+}

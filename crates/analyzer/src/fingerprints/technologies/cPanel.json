@@ -1,0 +1,15 @@
+{
+  "cats": [
+    9
+  ],
+  "cookies": {
+    "cprelogin": "",
+    "cpsession": ""
+  },
+  "headers": {
+    "Server": "cpsrvd/([\\d.]+)\\;version:\\1"
+  },
+  "html": "<!-- cPanel",
+  "icon": "cPanel.png",
+  "website": "http://www.cpanel.net"
+}

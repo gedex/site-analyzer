@@ -1,0 +1,9 @@
+{
+  "cats": [
+    47
+  ],
+  "cpe": "cpe:/a:kubernetes:kubernetes",
+  "html": "<html ng-app=\"kubernetesDashboard\">",
+  "icon": "Kubernetes.svg",
+  "website": "https://kubernetes.io/"
+}

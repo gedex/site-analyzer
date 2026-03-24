@@ -1,0 +1,8 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "VisualPath.png",
+  "scripts": "visualpath[^/]*\\.trackset\\.it/[^/]+/track/include\\.js",
+  "website": "http://www.trackset.com/web-analytics-software/visualpath"
+}

@@ -1,0 +1,16 @@
+{
+  "cats": [
+    18,
+    22
+  ],
+  "headers": {
+    "X-Powered-By": "actionhero API"
+  },
+  "icon": "actionhero.js.png",
+  "implies": "Node.js",
+  "js": {
+    "actionheroClient": ""
+  },
+  "scripts": "actionheroClient\\.js",
+  "website": "http://www.actionherojs.com"
+}

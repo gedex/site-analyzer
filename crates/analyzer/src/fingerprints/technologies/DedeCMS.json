@@ -1,0 +1,13 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:dedecms:dedecms",
+  "icon": "DedeCMS.png",
+  "implies": "PHP",
+  "js": {
+    "DedeContainer": ""
+  },
+  "scripts": "dedeajax",
+  "website": "http://dedecms.com"
+}

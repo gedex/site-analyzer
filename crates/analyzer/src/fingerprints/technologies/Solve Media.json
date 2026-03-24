@@ -1,0 +1,15 @@
+{
+  "cats": [
+    16,
+    36
+  ],
+  "icon": "Solve Media.png",
+  "js": {
+    "ACPuzzle": "",
+    "_ACPuzzle": "",
+    "_adcopy-puzzle-image-image": "",
+    "adcopy-puzzle-image-image": ""
+  },
+  "scripts": "^https?://api\\.solvemedia\\.com/",
+  "website": "http://solvemedia.com"
+}

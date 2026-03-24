@@ -1,0 +1,8 @@
+{
+  "cats": [
+    32
+  ],
+  "icon": "Pushnami.svg",
+  "scripts": "api\\.pushnami\\.com",
+  "website": "https://pushnami.com"
+}

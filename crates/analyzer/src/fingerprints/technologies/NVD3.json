@@ -1,0 +1,14 @@
+{
+  "cats": [
+    25
+  ],
+  "html": "<link[^>]* href=[^>]+nv\\.d3(?:\\.min)?\\.css",
+  "icon": "NVD3.png",
+  "implies": "D3",
+  "js": {
+    "nv.addGraph": "",
+    "nv.version": "^(.+)$\\;confidence:0\\;version:\\1"
+  },
+  "scripts": "nv\\.d3(?:\\.min)?\\.js",
+  "website": "http://nvd3.org"
+}

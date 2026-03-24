@@ -1,0 +1,14 @@
+{
+  "cats": [
+    2
+  ],
+  "icon": "Discourse.png",
+  "implies": "Ruby on Rails",
+  "js": {
+    "Discourse": ""
+  },
+  "meta": {
+    "generator": "Discourse(?: ?/?([\\d.]+\\d))?\\;version:\\1"
+  },
+  "website": "https://discourse.org"
+}

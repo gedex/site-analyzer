@@ -1,0 +1,8 @@
+{
+  "cats": [
+    52
+  ],
+  "icon": "LivePerson.png",
+  "scripts": "^https?://lptag\\.liveperson\\.net/tag/tag\\.js",
+  "website": "https://www.liveperson.com/"
+}

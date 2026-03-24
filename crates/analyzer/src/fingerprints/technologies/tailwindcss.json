@@ -1,0 +1,10 @@
+{
+  "cats": [
+    66
+  ],
+  "html": [
+    "<link[^>]+?href=\"[^\"]+tailwindcss(?:\\.min)?\\.css"
+  ],
+  "icon": "tailwindcss.svg",
+  "website": "https://tailwindcss.com/"
+}

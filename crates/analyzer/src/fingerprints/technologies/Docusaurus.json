@@ -1,0 +1,17 @@
+{
+  "cats": [
+    4
+  ],
+  "icon": "docusaurus.svg",
+  "implies": [
+    "React",
+    "webpack"
+  ],
+  "js": {
+    "search.indexName": ""
+  },
+  "meta": {
+    "generator": "^Docusaurus$"
+  },
+  "website": "https://docusaurus.io/"
+}

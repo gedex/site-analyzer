@@ -1,0 +1,12 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "New Relic.png",
+  "js": {
+    "NREUM": "",
+    "newrelic": ""
+  },
+  "description": "New Relic is a Software as a Service offering that focuses on performance and availability monitoring.",
+  "website": "https://newrelic.com"
+}

@@ -1,0 +1,18 @@
+{
+  "cats": [
+    6
+  ],
+  "html": [
+    "<script [^>]+data-requiremodule=\"oro/",
+    "<script [^>]+data-requiremodule=\"oroui/"
+  ],
+  "icon": "orocommerce.svg",
+  "implies": [
+    "PHP",
+    "MySQL"
+  ],
+  "scripts": [
+    "oro\\.min\\.js\\?version=([\\d.]+)\\;version:\\1"
+  ],
+  "website": "https://oroinc.com"
+}

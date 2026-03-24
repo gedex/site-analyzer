@@ -1,0 +1,17 @@
+{
+  "cats": [
+    18
+  ],
+  "html": [
+    "<script[^>]*>__SAPPER__"
+  ],
+  "icon": "Sapper.svg",
+  "implies": [
+    "Svelte",
+    "Node.js"
+  ],
+  "js": {
+    "__SAPPER__": ""
+  },
+  "website": "https://sapper.svelte.dev"
+}

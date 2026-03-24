@@ -1,0 +1,9 @@
+{
+  "cats": [
+    25
+  ],
+  "icon": "jqPlot.png",
+  "implies": "jQuery",
+  "scripts": "jqplot.*\\.js",
+  "website": "http://www.jqplot.com"
+}

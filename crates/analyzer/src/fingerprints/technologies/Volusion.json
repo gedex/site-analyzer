@@ -1,0 +1,15 @@
+{
+  "cats": [
+    6
+  ],
+  "html": [
+    "<link [^>]*href=\"[^\"]*/vspfiles/\\;version:1",
+    "<body [^>]*data-vn-page-name\\;version:2"
+  ],
+  "icon": "Volusion.svg",
+  "js": {
+    "volusion": ""
+  },
+  "scripts": "/volusion\\.js(?:\\?([\\d.]*))?\\;version:\\1",
+  "website": "https://www.volusion.com"
+}

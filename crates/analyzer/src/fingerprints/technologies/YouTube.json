@@ -1,0 +1,8 @@
+{
+  "cats": [
+    14
+  ],
+  "html": "<(?:param|embed|iframe)[^>]+youtube(?:-nocookie)?\\.com/(?:v|embed)",
+  "icon": "YouTube.png",
+  "website": "http://www.youtube.com"
+}

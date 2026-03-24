@@ -1,0 +1,13 @@
+{
+  "cats": [
+    25
+  ],
+  "html": "<svg[^>]*><desc>Created with Highcharts ([\\d.]*)\\;version:\\1",
+  "icon": "Highcharts.png",
+  "js": {
+    "Highcharts": "",
+    "Highcharts.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "highcharts.*\\.js",
+  "website": "https://www.highcharts.com"
+}

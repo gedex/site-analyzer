@@ -1,0 +1,10 @@
+{
+  "cats": [
+    61
+  ],
+  "html": [
+    "<form[^>]+?action=\"[^\"]*airform\\.io[^>]+?>"
+  ],
+  "icon": "Airform.svg",
+  "website": "https://airform.io"
+}

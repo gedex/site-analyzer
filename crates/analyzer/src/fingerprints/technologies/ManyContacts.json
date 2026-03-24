@@ -1,0 +1,8 @@
+{
+  "cats": [
+    5
+  ],
+  "icon": "ManyContacts.png",
+  "scripts": "\\/assets\\/js\\/manycontacts\\.min\\.js",
+  "website": "http://www.manycontacts.com"
+}

@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "exp_csrf_token": "",
+    "exp_last_activity": "",
+    "exp_tracker": ""
+  },
+  "cpe": "cpe:/a:ellislab:expressionengine",
+  "icon": "ExpressionEngine.png",
+  "implies": "PHP",
+  "website": "http://expressionengine.com"
+}

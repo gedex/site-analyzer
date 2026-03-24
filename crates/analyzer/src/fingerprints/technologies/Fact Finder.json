@@ -1,0 +1,10 @@
+{
+  "cats": [
+    29
+  ],
+  "html": "<!-- Factfinder",
+  "icon": "Fact Finder.png",
+  "scripts": "Suggest\\.ff",
+  "url": "(?:/ViewParametricSearch|ffsuggest\\.[a-z]htm)",
+  "website": "http://fact-finder.com"
+}

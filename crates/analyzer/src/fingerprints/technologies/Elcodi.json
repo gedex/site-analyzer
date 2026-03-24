@@ -1,0 +1,14 @@
+{
+  "cats": [
+    6
+  ],
+  "headers": {
+    "X-Elcodi": ""
+  },
+  "icon": "Elcodi.png",
+  "implies": [
+    "PHP",
+    "Symfony"
+  ],
+  "website": "http://elcodi.io"
+}

@@ -1,0 +1,19 @@
+{
+  "cats": [
+    24
+  ],
+  "cpe": "cpe:/a:etherpad:etherpad",
+  "headers": {
+    "Server": "^Etherpad"
+  },
+  "icon": "etherpad.png",
+  "implies": "Node.js",
+  "js": {
+    "padeditbar": "",
+    "padimpexp": ""
+  },
+  "scripts": [
+    "/ep_etherpad-lite/"
+  ],
+  "website": "https://etherpad.org"
+}

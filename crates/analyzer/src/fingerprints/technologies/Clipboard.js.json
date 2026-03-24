@@ -1,0 +1,8 @@
+{
+  "cats": [
+    19
+  ],
+  "icon": "Clipboard.js.svg",
+  "scripts": "clipboard(?:-([\\d.]+))?(?:\\.min)?\\.js\\;version:\\1",
+  "website": "https://clipboardjs.com/"
+}

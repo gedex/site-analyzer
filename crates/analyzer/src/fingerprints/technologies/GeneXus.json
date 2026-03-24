@@ -1,0 +1,17 @@
+{
+  "cats": [
+    27
+  ],
+  "html": [
+    "<link[^>]+?id=\"gxtheme_css_reference\""
+  ],
+  "icon": "GeneXus.png",
+  "js": {
+    "gx.gxVersion": "^(.+)-.*$\\;version:\\1"
+  },
+  "scripts": [
+    "/static/gxgral\\.js",
+    "/static/gxtimezone\\.js"
+  ],
+  "website": "https://www.genexus.com/"
+}

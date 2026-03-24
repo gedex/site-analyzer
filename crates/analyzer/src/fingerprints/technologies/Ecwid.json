@@ -1,0 +1,15 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "ecwid.svg",
+  "js": {
+    "Ecwid": "",
+    "EcwidCart": ""
+  },
+  "scripts": [
+    "https://app\\.multiscreenstore\\.com/script\\.js",
+    "https://app\\.ecwid\\.com/script\\.js"
+  ],
+  "website": "https://www.ecwid.com/"
+}

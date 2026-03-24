@@ -1,0 +1,10 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Powered-By": "^CppCMS/([\\d.]+)$\\;version:\\1"
+  },
+  "icon": "CppCMS.png",
+  "website": "http://cppcms.com"
+}

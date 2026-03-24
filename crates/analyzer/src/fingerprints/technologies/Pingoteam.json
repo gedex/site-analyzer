@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Pingoteam.svg",
+  "implies": "PHP",
+  "meta": {
+    "designer": "Pingoteam"
+  },
+  "website": "https://www.pingoteam.ir/"
+}

@@ -1,0 +1,10 @@
+{
+  "cats": [
+    19
+  ],
+  "html": [
+    "<model-viewer"
+  ],
+  "icon": "webAR.svg",
+  "website": "https://modelviewer.dev/"
+}

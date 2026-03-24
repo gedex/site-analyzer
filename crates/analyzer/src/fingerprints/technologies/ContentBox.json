@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1,
+    11
+  ],
+  "icon": "ContentBox.png",
+  "implies": "Adobe ColdFusion",
+  "meta": {
+    "generator": "ContentBox powered by ColdBox"
+  },
+  "website": "http://www.gocontentbox.org"
+}

@@ -1,0 +1,8 @@
+{
+  "cats": [
+    38
+  ],
+  "html": "<title>Wowza Media Server \\d+ ((?:\\w+ Edition )?\\d+\\.[\\d\\.]+(?: build\\d+)?)?\\;version:\\1",
+  "icon": "Wowza Media Server.png",
+  "website": "http://www.wowza.com"
+}

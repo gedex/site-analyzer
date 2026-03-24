@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Powered-By": "Kolibri"
+  },
+  "meta": {
+    "generator": "Kolibri"
+  },
+  "website": "http://alias.io"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    52,
+    53
+  ],
+  "icon": "LiveHelp.png",
+  "js": {
+    "LHready": ""
+  },
+  "website": "http://www.livehelp.it"
+}

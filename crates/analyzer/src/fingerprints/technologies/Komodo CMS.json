@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Komodo CMS.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "^Komodo CMS"
+  },
+  "website": "http://www.komodocms.com"
+}

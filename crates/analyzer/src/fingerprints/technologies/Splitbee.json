@@ -1,0 +1,11 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "splitbee.svg",
+  "js": {
+    "splitbee": ""
+  },
+  "scripts": "^https://cdn\\.splitbee\\.io/sb\\.js",
+  "website": "https://splitbee.io"
+}

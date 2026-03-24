@@ -1,0 +1,9 @@
+{
+  "cats": [
+    41
+  ],
+  "icon": "cybersource.png",
+  "scripts": "cybersource\\..+\\.js",
+  "description": "Cybersource is an ecommerce credit card payment system solution.",
+  "website": "https://www.cybersource.com/"
+}

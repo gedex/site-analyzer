@@ -1,0 +1,19 @@
+{
+  "cats": [
+    1
+  ],
+  "excludes": "Drupal",
+  "headers": {
+    "X-Backdrop-Cache": "",
+    "X-Generator": "^Backdrop CMS(?:\\s([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "Backdrop.png",
+  "implies": "PHP",
+  "js": {
+    "Backdrop": ""
+  },
+  "meta": {
+    "generator": "^Backdrop CMS(?:\\s([\\d.]+))?\\;version:\\1"
+  },
+  "website": "https://backdropcms.org"
+}

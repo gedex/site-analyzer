@@ -1,0 +1,14 @@
+{
+  "cats": [
+    10
+  ],
+  "cookies": {
+    "ahoy_track": "",
+    "ahoy_visit": "",
+    "ahoy_visitor": ""
+  },
+  "js": {
+    "ahoy": ""
+  },
+  "website": "https://github.com/ankane/ahoy"
+}

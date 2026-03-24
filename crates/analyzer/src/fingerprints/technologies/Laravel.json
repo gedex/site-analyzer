@@ -1,0 +1,16 @@
+{
+  "cats": [
+    18
+  ],
+  "cookies": {
+    "laravel_session": ""
+  },
+  "cpe": "cpe:/a:laravel:laravel",
+  "icon": "Laravel.svg",
+  "implies": "PHP",
+  "js": {
+    "Laravel": ""
+  },
+  "description": "Laravel is a free, open-source PHP web framework.",
+  "website": "https://laravel.com"
+}

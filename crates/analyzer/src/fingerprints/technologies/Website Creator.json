@@ -1,0 +1,16 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "WebsiteCreator.png",
+  "implies": [
+    "PHP",
+    "MySQL",
+    "Vue.js"
+  ],
+  "meta": {
+    "generator": "Website Creator by hosttech",
+    "wsc_rendermode": ""
+  },
+  "website": "https://www.hosttech.ch/websitecreator"
+}

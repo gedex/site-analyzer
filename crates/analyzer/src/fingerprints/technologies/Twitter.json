@@ -1,0 +1,8 @@
+{
+  "cats": [
+    5
+  ],
+  "icon": "Twitter.svg",
+  "scripts": "//platform\\.twitter\\.com/widgets\\.js",
+  "website": "http://twitter.com"
+}

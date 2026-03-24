@@ -1,0 +1,13 @@
+{
+  "cats": [
+    6
+  ],
+  "html": "<link[^>]* href=\"https?://edge\\.avangate\\.net/",
+  "icon": "Avangate.svg",
+  "js": {
+    "__avng8_": "",
+    "avng8_": ""
+  },
+  "scripts": "^https?://edge\\.avangate\\.net/",
+  "website": "http://avangate.com"
+}

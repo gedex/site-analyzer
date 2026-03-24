@@ -1,0 +1,11 @@
+{
+  "cats": [
+    51
+  ],
+  "headers": {
+    "X-Powered-By": "Salesforce\\.com ApexPages"
+  },
+  "icon": "ApexPages.png",
+  "implies": "Salesforce",
+  "website": "https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm"
+}

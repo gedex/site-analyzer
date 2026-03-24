@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Webzi.svg",
+  "js": {
+    "Webzi": ""
+  },
+  "meta": {
+    "generator": "^Webzi"
+  },
+  "scripts": "cdn\\.6th\\.ir",
+  "website": "https://webzi.ir"
+}

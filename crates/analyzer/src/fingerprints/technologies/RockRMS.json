@@ -1,0 +1,17 @@
+{
+  "cats": [
+    1,
+    11,
+    32
+  ],
+  "icon": "RockRMS.svg",
+  "implies": [
+    "Windows Server",
+    "IIS",
+    "Microsoft ASP.NET"
+  ],
+  "meta": {
+    "generator": "^Rock v([0-9.]+)\\;version:\\1"
+  },
+  "website": "http://www.rockrms.com"
+}

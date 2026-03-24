@@ -1,0 +1,13 @@
+{
+  "cats": [
+    7
+  ],
+  "html": "Powered by <a href=\"https?://chevereto\\.com\">",
+  "icon": "chevereto.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "^Chevereto ?([0-9.]+)?$\\;version:\\1"
+  },
+  "scripts": "/chevereto\\.js",
+  "website": "https://chevereto.com/"
+}

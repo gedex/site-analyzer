@@ -1,0 +1,19 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "Google AdSense.svg",
+  "js": {
+    "Goog_AdSense_": "",
+    "__google_ad_urls": "",
+    "google_ad_": ""
+  },
+  "scripts": [
+    "googlesyndication\\.com/",
+    "ad\\.ca\\.doubleclick\\.net",
+    "2mdn\\.net",
+    "ad\\.ca\\.doubleclick\\.net"
+  ],
+  "description": "Google AdSense is a program run by Google through which website publishers serve advertisements that are targeted to the site content and audience.",
+  "website": "https://www.google.fr/adsense/start/"
+}

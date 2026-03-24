@@ -1,0 +1,11 @@
+{
+  "cats": [
+    59
+  ],
+  "icon": "Zepto.png",
+  "js": {
+    "Zepto": ""
+  },
+  "scripts": "zepto.*\\.js",
+  "website": "http://zeptojs.com"
+}

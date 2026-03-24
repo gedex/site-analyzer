@@ -1,0 +1,20 @@
+{
+  "cats": [
+    47
+  ],
+  "html": [
+    "<link href=\"/css/sonar\\.css\\?v=([\\d.]+)\\;version:\\1",
+    "<title>SonarQube</title>"
+  ],
+  "icon": "sonar.png",
+  "implies": "Java",
+  "js": {
+    "SonarMeasures": "",
+    "SonarRequest": ""
+  },
+  "meta": {
+    "application-name": "^SonarQubes$"
+  },
+  "scripts": "^/js/bundles/sonar\\.js?v=([\\d.]+)$\\;version:\\1",
+  "website": "https://www.sonarqube.org/"
+}

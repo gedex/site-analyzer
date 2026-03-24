@@ -1,0 +1,17 @@
+{
+  "cats": [
+    62
+  ],
+  "headers": {
+    "X-AH-Environment": "^\\w+$"
+  },
+  "icon": "acquia-cloud.png",
+  "implies": [
+    "Drupal\\;confidence:95",
+    "Apache",
+    "Percona",
+    "Amazon EC2"
+  ],
+  "description": "Cloud Platform (formally Acquia Cloud) is a Drupal-tuned application lifecycle management suite with an infrastructure to support Drupal deployment workflow processes.",
+  "website": "https://www.acquia.com/"
+}

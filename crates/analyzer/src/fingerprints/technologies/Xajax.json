@@ -1,0 +1,8 @@
+{
+  "cats": [
+    59
+  ],
+  "icon": "Xajax.png",
+  "scripts": "xajax_core.*\\.js",
+  "website": "http://xajax-project.org"
+}

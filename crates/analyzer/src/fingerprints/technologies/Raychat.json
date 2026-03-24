@@ -1,0 +1,11 @@
+{
+  "cats": [
+    52
+  ],
+  "icon": "raychat.png",
+  "js": {
+    "Raychat": ""
+  },
+  "scripts": "app\\.raychat\\.io/scripts/js",
+  "website": "https://raychat.io"
+}

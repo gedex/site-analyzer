@@ -1,0 +1,14 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Hotjar.png",
+  "js": {
+    "HotLeadfactory": "",
+    "HotleadController": "",
+    "hj.apiUrlBase": ""
+  },
+  "scripts": "//static\\.hotjar\\.com/c/hotjar-",
+  "description": "Hotjar is a suite of analytic tools to assist in the gathering of qualitative data, providing feedback through tools such as heatmaps, session recordings, and surveys.",
+  "website": "https://www.hotjar.com"
+}

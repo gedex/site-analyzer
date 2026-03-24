@@ -1,0 +1,16 @@
+{
+  "cats": [
+    2
+  ],
+  "icon": "Discuz X.png",
+  "implies": "PHP",
+  "js": {
+    "DISCUZCODE": "",
+    "discuzVersion": "^(.+)$\\;version:\\1",
+    "discuz_uid": ""
+  },
+  "meta": {
+    "generator": "Discuz! X([\\d\\.]+)?\\;version:\\1"
+  },
+  "website": "http://www.discuz.net"
+}

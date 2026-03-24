@@ -1,0 +1,11 @@
+{
+  "cats": [
+    5
+  ],
+  "icon": "AddToAny.png",
+  "js": {
+    "a2apage_init": ""
+  },
+  "scripts": "addtoany\\.com/menu/page\\.js",
+  "website": "http://www.addtoany.com"
+}

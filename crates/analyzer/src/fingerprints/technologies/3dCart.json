@@ -1,0 +1,15 @@
+{
+  "cats": [
+    1,
+    6
+  ],
+  "cookies": {
+    "3dvisit": ""
+  },
+  "headers": {
+    "X-Powered-By": "3DCART"
+  },
+  "icon": "3dCart.png",
+  "scripts": "(?:twlh(?:track)?\\.asp|3d_upsell\\.js)",
+  "website": "http://www.3dcart.com"
+}

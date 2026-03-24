@@ -1,0 +1,11 @@
+{
+  "cats": [
+    23
+  ],
+  "icon": "NitroPack.svg",
+  "description": "NitroPack creates optimized HTML cache for fast page loading experience.",
+  "meta": {
+    "generator": "NitroPack"
+  },
+  "website": "https://nitropack.io/"
+}

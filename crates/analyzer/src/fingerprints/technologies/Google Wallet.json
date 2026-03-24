@@ -1,0 +1,11 @@
+{
+  "cats": [
+    41
+  ],
+  "icon": "Google Wallet.png",
+  "scripts": [
+    "checkout\\.google\\.com",
+    "wallet\\.google\\.com"
+  ],
+  "website": "http://wallet.google.com"
+}

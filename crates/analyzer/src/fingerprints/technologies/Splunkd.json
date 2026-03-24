@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "Splunkd"
+  },
+  "icon": "Splunk.png",
+  "website": "http://splunk.com"
+}

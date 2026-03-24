@@ -1,0 +1,12 @@
+{
+  "cats": [
+    47,
+    9
+  ],
+  "headers": {
+    "x-powered-by": "^EasyEngine (.*)$\\;version:\\1"
+  },
+  "icon": "EasyEngine.png",
+  "implies": "Docker",
+  "website": "https://easyengine.io"
+}

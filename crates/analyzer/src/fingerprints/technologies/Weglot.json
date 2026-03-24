@@ -1,0 +1,14 @@
+{
+  "cats": [
+    19
+  ],
+  "headers": {
+    "Weglot-Translated": ""
+  },
+  "icon": "Weglot.png",
+  "scripts": [
+    "cdn\\.weglot\\.com",
+    "wp-content/plugins/weglot"
+  ],
+  "website": "https://www.weglot.com"
+}

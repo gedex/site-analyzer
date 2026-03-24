@@ -1,0 +1,26 @@
+{
+  "cats": [
+    13,
+    47
+  ],
+  "cookies": {
+    "_gitlab_session": ""
+  },
+  "html": [
+    "<meta content=\"https?://[^/]+/assets/gitlab_logo-",
+    "<header class=\"navbar navbar-fixed-top navbar-gitlab with-horizontal-nav\">"
+  ],
+  "icon": "GitLab.svg",
+  "implies": [
+    "Ruby on Rails",
+    "Vue.js"
+  ],
+  "js": {
+    "GitLab": "",
+    "gl.dashboardOptions": ""
+  },
+  "meta": {
+    "og:site_name": "^GitLab$"
+  },
+  "website": "https://about.gitlab.com"
+}

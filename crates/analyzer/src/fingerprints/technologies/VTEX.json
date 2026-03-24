@@ -1,0 +1,17 @@
+{
+  "cats": [
+    6
+  ],
+  "cookies": {
+    "VtexFingerPrint": "",
+    "VtexWorkspace": "",
+    "vtex_session": ""
+  },
+  "headers": {
+    "Server": "^VTEX IO$",
+    "powered": "vtex"
+  },
+  "icon": "VTEX.svg",
+  "description": "VTEX is an ecommerce software that manages multiple online stores.",
+  "website": "https://vtex.com/"
+}

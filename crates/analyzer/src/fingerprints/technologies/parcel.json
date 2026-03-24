@@ -1,0 +1,10 @@
+{
+  "cats": [
+    19
+  ],
+  "icon": "Parcel.png",
+  "js": {
+    "parcelRequire": ""
+  },
+  "website": "https://parceljs.org/"
+}

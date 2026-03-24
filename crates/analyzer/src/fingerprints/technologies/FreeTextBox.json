@@ -1,0 +1,13 @@
+{
+  "cats": [
+    24
+  ],
+  "html": "<!-- \\* FreeTextBox v\\d \\((\\d+\\.\\d+\\.\\d+)\\;version:\\1",
+  "icon": "FreeTextBox.png",
+  "implies": "Microsoft ASP.NET",
+  "js": {
+    "FTB_API": "",
+    "FTB_AddEvent": ""
+  },
+  "website": "http://freetextbox.com"
+}

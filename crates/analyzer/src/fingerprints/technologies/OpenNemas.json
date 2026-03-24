@@ -1,0 +1,13 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Powered-By": "OpenNemas"
+  },
+  "icon": "OpenNemas.png",
+  "meta": {
+    "generator": "OpenNemas"
+  },
+  "website": "http://www.opennemas.com"
+}

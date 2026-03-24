@@ -1,0 +1,18 @@
+{
+  "cats": [
+    53
+  ],
+  "cookies": {
+    "com.salesforce": ""
+  },
+  "html": "<[^>]+=\"brandQuaternaryFgrs\"",
+  "icon": "Salesforce.svg",
+  "js": {
+    "SFDCApp": "",
+    "SFDCCmp": "",
+    "SFDCPage": "",
+    "SFDCSessionVars": ""
+  },
+  "description": "Salesforce is a cloud computing service software (SaaS) that specializes in customer relationship management (CRM).",
+  "website": "https://www.salesforce.com"
+}

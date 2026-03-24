@@ -1,0 +1,22 @@
+{
+  "cats": [
+    2
+  ],
+  "cookies": {
+    "xf_csrf": "",
+    "xf_session": ""
+  },
+  "html": [
+    "(?:jQuery\\.extend\\(true, XenForo|Forum software by XenForo\u2122|<!--XF:branding|<html[^>]+id=\"XenForo\")",
+    "<html id=\"XF\" "
+  ],
+  "icon": "XenForo.png",
+  "implies": [
+    "PHP",
+    "MySQL"
+  ],
+  "js": {
+    "XF.GuestUsername": ""
+  },
+  "website": "http://xenforo.com"
+}

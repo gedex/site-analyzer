@@ -1,0 +1,12 @@
+{
+  "cats": [
+    18
+  ],
+  "headers": {
+    "server": "^mojolicious",
+    "x-powered-by": "mojolicious"
+  },
+  "icon": "Mojolicious.png",
+  "implies": "Perl",
+  "website": "http://mojolicio.us"
+}

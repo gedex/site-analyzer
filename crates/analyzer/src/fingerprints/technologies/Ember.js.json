@@ -1,0 +1,13 @@
+{
+  "cats": [
+    12
+  ],
+  "cpe": "cpe:/a:emberjs:ember.js",
+  "icon": "Ember.js.png",
+  "implies": "Handlebars",
+  "js": {
+    "Ember": "",
+    "Ember.VERSION": "^(.+)$\\;version:\\1"
+  },
+  "website": "http://emberjs.com"
+}

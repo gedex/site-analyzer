@@ -1,0 +1,8 @@
+{
+  "cats": [
+    68
+  ],
+  "icon": "Texthelp.png",
+  "scripts": "browsealoud\\.com/.*/browsealoud\\.js",
+  "website": "https://www.texthelp.com/en-gb/products/browsealoud/"
+}

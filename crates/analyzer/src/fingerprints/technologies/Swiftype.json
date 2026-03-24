@@ -1,0 +1,11 @@
+{
+  "cats": [
+    29
+  ],
+  "icon": "swiftype.png",
+  "js": {
+    "Swiftype": ""
+  },
+  "scripts": "swiftype\\.com/embed\\.js$",
+  "website": "http://swiftype.com"
+}

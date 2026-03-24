@@ -1,0 +1,18 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "CMSPreferredCulture": ""
+  },
+  "cpe": "cpe:/a:kentico:kentico_cms",
+  "icon": "Kentico CMS.png",
+  "js": {
+    "CMS.Application": ""
+  },
+  "meta": {
+    "generator": "Kentico CMS ([\\d.R]+ \\(build [\\d.]+\\))\\;version:\\1"
+  },
+  "scripts": "/CMSPages/GetResource\\.ashx",
+  "website": "http://www.kentico.com"
+}

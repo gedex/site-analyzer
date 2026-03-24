@@ -1,0 +1,12 @@
+{
+  "cats": [
+    6
+  ],
+  "cookies": {
+    "OCSESSID": ""
+  },
+  "cpe": "cpe:/a:opencart:opencart",
+  "icon": "OpenCart.png",
+  "implies": "PHP",
+  "website": "http://www.opencart.com"
+}

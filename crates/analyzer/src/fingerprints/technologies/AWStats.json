@@ -1,0 +1,12 @@
+{
+  "cats": [
+    10
+  ],
+  "cpe": "cpe:/a:laurent_destailleur:awstats",
+  "icon": "AWStats.png",
+  "implies": "Perl",
+  "meta": {
+    "generator": "AWStats ([\\d.]+(?: \\(build [\\d.]+\\))?)\\;version:\\1"
+  },
+  "website": "http://awstats.sourceforge.net"
+}

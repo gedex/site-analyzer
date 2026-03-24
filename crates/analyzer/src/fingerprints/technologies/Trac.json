@@ -1,0 +1,12 @@
+{
+  "cats": [
+    13
+  ],
+  "html": [
+    "<a id=\"tracpowered",
+    "Powered by <a href=\"[^\"]*\"><strong>Trac(?:[ /]([\\d.]+))?\\;version:\\1"
+  ],
+  "icon": "Trac.png",
+  "implies": "Python",
+  "website": "http://trac.edgewall.org"
+}

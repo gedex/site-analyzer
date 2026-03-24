@@ -1,0 +1,22 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:microsoft:sharepoint_server",
+  "headers": {
+    "MicrosoftSharePointTeamServices": "^(.+)$\\;version:\\1",
+    "SPRequestGuid": "",
+    "SharePointHealthScore": "",
+    "X-SharePointHealthScore": ""
+  },
+  "icon": "Microsoft SharePoint.png",
+  "js": {
+    "SPDesignerProgID": "",
+    "_spBodyOnLoadCalled": ""
+  },
+  "meta": {
+    "generator": "Microsoft SharePoint"
+  },
+  "description": "SharePoint is a cloud-based collaborative platform to manage and share content.",
+  "website": "https://sharepoint.microsoft.com"
+}

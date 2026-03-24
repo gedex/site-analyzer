@@ -1,0 +1,14 @@
+{
+  "cats": [
+    6
+  ],
+  "html": [
+    "Powered by <a href=\"http://www\\.xonic-solutions\\.de/index\\.php\" target=\"_blank\">xonic-solutions Shopsoftware</a>"
+  ],
+  "icon": "xonic.png",
+  "meta": {
+    "keywords": "xonic-solutions"
+  },
+  "scripts": "core/jslib/jquery\\.xonic\\.js\\.php",
+  "website": "http://www.xonic-solutions.de"
+}

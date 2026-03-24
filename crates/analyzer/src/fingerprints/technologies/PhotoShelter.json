@@ -1,0 +1,17 @@
+{
+  "cats": [
+    1
+  ],
+  "html": [
+    "<!--\\s+#+ Powered by the PhotoShelter Beam platform",
+    "<link[^>]+c\\.photoshelter\\.com"
+  ],
+  "icon": "PhotoShelter.png",
+  "implies": [
+    "PHP",
+    "MySQL",
+    "jQuery"
+  ],
+  "url": "photoshelter\\.com",
+  "website": "https://www.photoshelter.com"
+}

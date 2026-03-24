@@ -1,0 +1,14 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "Kamva.svg",
+  "js": {
+    "Kamva": ""
+  },
+  "meta": {
+    "generator": "[CK]amva"
+  },
+  "scripts": "cdn\\.mykamva\\.ir",
+  "website": "https://kamva.ir"
+}

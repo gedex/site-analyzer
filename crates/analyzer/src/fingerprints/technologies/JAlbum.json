@@ -1,0 +1,11 @@
+{
+  "cats": [
+    7
+  ],
+  "icon": "JAlbum.png",
+  "implies": "Java",
+  "meta": {
+    "generator": "JAlbum( [\\d.]+)?\\;version:\\1"
+  },
+  "website": "http://jalbum.net/en"
+}

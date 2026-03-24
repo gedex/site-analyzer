@@ -1,0 +1,20 @@
+{
+  "cats": [
+    18
+  ],
+  "cookies": {
+    "_session_id": "\\;confidence:75"
+  },
+  "cpe": "cpe:/a:rubyonrails:rails",
+  "headers": {
+    "Server": "mod_(?:rails|rack)",
+    "X-Powered-By": "mod_(?:rails|rack)"
+  },
+  "icon": "Ruby on Rails.png",
+  "implies": "Ruby",
+  "meta": {
+    "csrf-param": "^authenticity_token$\\;confidence:50"
+  },
+  "scripts": "/assets/application-[a-z\\d]{32}/\\.js\\;confidence:50",
+  "website": "https://rubyonrails.org"
+}

@@ -1,0 +1,12 @@
+{
+  "cats": [
+    47
+  ],
+  "cpe": "cpe:/a:gitlist:gitlist",
+  "html": "<p>Powered by <a[^>]+>GitList ([\\d.]+)\\;version:\\1",
+  "implies": [
+    "PHP",
+    "git"
+  ],
+  "website": "http://gitlist.org"
+}

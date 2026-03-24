@@ -1,0 +1,10 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "storyblok.png",
+  "meta": {
+    "generator": "storyblok"
+  },
+  "website": "https://www.storyblok.com"
+}

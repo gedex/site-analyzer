@@ -1,0 +1,11 @@
+{
+  "cats": [
+    31
+  ],
+  "headers": {
+    "Server": "^NetDNA",
+    "X-CDN-Forward": "^maxcdn$"
+  },
+  "icon": "MaxCDN.png",
+  "website": "http://www.maxcdn.com"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    6
+  ],
+  "html": "<(?:div|aside) id=\"jetshop-branding\">",
+  "icon": "Jetshop.png",
+  "js": {
+    "JetshopData": ""
+  },
+  "website": "http://jetshop.se"
+}

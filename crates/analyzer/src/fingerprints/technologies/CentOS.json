@@ -1,0 +1,12 @@
+{
+  "cats": [
+    28
+  ],
+  "cpe": "cpe:/o:centos:centos",
+  "headers": {
+    "Server": "CentOS",
+    "X-Powered-By": "CentOS"
+  },
+  "icon": "CentOS.png",
+  "website": "http://centos.org"
+}

@@ -1,0 +1,19 @@
+{
+  "cats": [
+    51
+  ],
+  "html": [
+    "<div class=(?:\"|')[^\"']*elementor",
+    "<section class=(?:\"|')[^\"']*elementor",
+    "<link [^>]*href=(?:\"|')[^\"']*elementor/assets",
+    "<link [^>]*href=(?:\"|')[^\"']*uploads/elementor/css"
+  ],
+  "icon": "Elementor.png",
+  "implies": "WordPress",
+  "js": {
+    "elementorFrontend.getElements": ""
+  },
+  "scripts": "elementor/assets/js/[^/]+\\.js\\?ver=([\\d.]+)$\\;version:\\1",
+  "description": "WordPress is a free and open-source content management system used to create a website or blog.",
+  "website": "https://elementor.com"
+}

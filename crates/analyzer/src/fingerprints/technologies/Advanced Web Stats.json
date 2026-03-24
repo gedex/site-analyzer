@@ -1,0 +1,9 @@
+{
+  "cats": [
+    10
+  ],
+  "html": "aws\\.src = [^<]+caphyon-analytics",
+  "icon": "Advanced Web Stats.png",
+  "implies": "Java",
+  "website": "http://www.advancedwebstats.com"
+}

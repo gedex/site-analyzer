@@ -1,0 +1,11 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "InfernoJS.png",
+  "js": {
+    "Inferno": "",
+    "Inferno.version": "^(.+)$\\;version:\\1"
+  },
+  "website": "https://infernojs.org"
+}

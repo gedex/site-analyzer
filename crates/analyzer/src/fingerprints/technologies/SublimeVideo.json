@@ -1,0 +1,11 @@
+{
+  "cats": [
+    14
+  ],
+  "icon": "SublimeVideo.png",
+  "js": {
+    "sublimevideo": ""
+  },
+  "scripts": "cdn\\.sublimevideo\\.net/js/[a-z\\d]+\\.js",
+  "website": "http://sublimevideo.net"
+}

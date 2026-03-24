@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Textpattern CMS.png",
+  "implies": [
+    "PHP",
+    "MySQL"
+  ],
+  "meta": {
+    "generator": "Textpattern"
+  },
+  "website": "http://textpattern.com"
+}

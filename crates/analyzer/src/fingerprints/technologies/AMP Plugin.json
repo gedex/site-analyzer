@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1,
+    5
+  ],
+  "icon": "Accelerated-Mobile-Pages.svg",
+  "implies": "WordPress",
+  "meta": {
+    "generator": "^AMP Plugin v(\\d+\\.\\d+.*)$\\;version:\\1"
+  },
+  "website": "https://amp-wp.org"
+}

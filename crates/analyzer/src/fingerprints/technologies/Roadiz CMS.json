@@ -1,0 +1,18 @@
+{
+  "cats": [
+    1,
+    11
+  ],
+  "headers": {
+    "X-Powered-By": "Roadiz CMS"
+  },
+  "icon": "Roadiz CMS.png",
+  "implies": [
+    "PHP",
+    "Symfony"
+  ],
+  "meta": {
+    "generator": "^Roadiz ?(?:master|develop)? v?([0-9\\.]+)\\;version:\\1"
+  },
+  "website": "https://www.roadiz.io"
+}

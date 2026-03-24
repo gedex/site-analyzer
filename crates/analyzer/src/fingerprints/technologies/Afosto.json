@@ -1,0 +1,10 @@
+{
+  "cats": [
+    6
+  ],
+  "headers": {
+    "X-Powered-By": "Afosto SaaS BV"
+  },
+  "icon": "Afosto.svg",
+  "website": "http://afosto.com"
+}

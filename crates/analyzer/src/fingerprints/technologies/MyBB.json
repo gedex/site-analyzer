@@ -1,0 +1,16 @@
+{
+  "cats": [
+    2
+  ],
+  "cpe": "cpe:/a:mybb:mybb",
+  "html": "(?:<script [^>]+\\s+<!--\\s+lang\\.no_new_posts|<a[^>]* title=\"Powered By MyBB)",
+  "icon": "MyBB.png",
+  "implies": [
+    "PHP",
+    "MySQL"
+  ],
+  "js": {
+    "MyBB": ""
+  },
+  "website": "https://mybb.com"
+}

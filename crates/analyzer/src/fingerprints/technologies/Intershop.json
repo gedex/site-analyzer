@@ -1,0 +1,9 @@
+{
+  "cats": [
+    6
+  ],
+  "html": "<ish-root",
+  "icon": "Intershop.png",
+  "scripts": "(?:is-bin|INTERSHOP)",
+  "website": "http://intershop.com"
+}

@@ -1,0 +1,10 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "WebPublisher.png",
+  "meta": {
+    "generator": "WEB\\|Publisher"
+  },
+  "website": "http://scannet.dk"
+}

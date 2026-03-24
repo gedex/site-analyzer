@@ -1,0 +1,11 @@
+{
+  "cats": [
+    25
+  ],
+  "icon": "JS Charts.png",
+  "js": {
+    "JSChart": ""
+  },
+  "scripts": "jscharts.{0,32}\\.js",
+  "website": "http://www.jscharts.com"
+}

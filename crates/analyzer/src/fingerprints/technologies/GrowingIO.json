@@ -1,0 +1,12 @@
+{
+  "cats": [
+    10
+  ],
+  "cookies": {
+    "gr_user_id": "",
+    "grwng_uid": ""
+  },
+  "icon": "GrowingIO.png",
+  "scripts": "assets\\.growingio\\.com/([\\d.]+)/gio\\.js\\;version:\\1",
+  "website": "https://www.growingio.com/"
+}

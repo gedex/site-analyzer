@@ -1,0 +1,14 @@
+{
+  "cats": [
+    13
+  ],
+  "cookies": {
+    "OSTSESSID": ""
+  },
+  "icon": "osTicket.png",
+  "implies": [
+    "PHP",
+    "MySQL"
+  ],
+  "website": "http://osticket.com"
+}

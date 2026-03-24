@@ -1,0 +1,9 @@
+{
+  "cats": [
+    59
+  ],
+  "icon": "Moment.js.svg",
+  "implies": "Moment.js",
+  "scripts": "moment-timezone(?:-data)?(?:\\.min)?\\.js",
+  "website": "http://momentjs.com/timezone/"
+}

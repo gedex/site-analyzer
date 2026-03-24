@@ -1,0 +1,8 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Freespee.svg",
+  "scripts": "analytics\\.freespee\\.com/js/external/fs\\.(?:min\\.)?js",
+  "website": "https://www.freespee.com"
+}

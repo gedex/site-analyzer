@@ -1,0 +1,14 @@
+{
+  "cats": [
+    10
+  ],
+  "cpe": "cpe:/a:openwebanalytics:open_web_analytics",
+  "html": "<!-- (?:Start|End) Open Web Analytics Tracker -->",
+  "icon": "Open Web Analytics.png",
+  "js": {
+    "OWA.config.baseUrl": "",
+    "owa_baseUrl": "",
+    "owa_cmds": ""
+  },
+  "website": "http://www.openwebanalytics.com"
+}

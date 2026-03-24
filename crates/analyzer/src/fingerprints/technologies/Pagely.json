@@ -1,0 +1,14 @@
+{
+  "cats": [
+    62
+  ],
+  "headers": {
+    "Server": "^Pagely"
+  },
+  "icon": "pagely.svg",
+  "implies": [
+    "WordPress",
+    "Amazon Web Services"
+  ],
+  "website": "https://pagely.com/"
+}

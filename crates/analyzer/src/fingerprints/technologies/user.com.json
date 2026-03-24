@@ -1,0 +1,11 @@
+{
+  "cats": [
+    10
+  ],
+  "html": "<div[^>]+/id=\"ue_widget\"",
+  "icon": "user.com.svg",
+  "js": {
+    "UserEngage": ""
+  },
+  "website": "https://user.com"
+}

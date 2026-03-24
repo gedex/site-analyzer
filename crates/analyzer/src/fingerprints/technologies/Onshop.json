@@ -1,0 +1,14 @@
+{
+  "cats": [
+    6
+  ],
+  "excludes": "OpenCart",
+  "icon": "Onshop.svg",
+  "implies": "PHP",
+  "meta": {
+    "generator": "Onshop Ecommerce"
+  },
+  "scripts": "/opencart_custom\\.js",
+  "description": "OpenCartfree open source ecommerce platform for online merchants.",
+  "website": "https://onshop.asia"
+}

@@ -1,0 +1,14 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "Hogan.js.png",
+  "js": {
+    "Hogan": ""
+  },
+  "scripts": [
+    "hogan-[.-]([\\d.]*\\d)[^/]*\\.js\\;version:\\1",
+    "([\\d.]+)/hogan(?:\\.min)?\\.js\\;version:\\1"
+  ],
+  "website": "https://twitter.github.io/hogan.js/"
+}

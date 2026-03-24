@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<div [^>]*id=\"pb-root\"",
+  "icon": "Arc-Publishing.svg",
+  "js": {
+    "Fusion.arcSite": ""
+  },
+  "website": "https://www.arcpublishing.com/"
+}

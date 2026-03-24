@@ -1,0 +1,11 @@
+{
+  "cats": [
+    6
+  ],
+  "cpe": "cpe:/a:ibm:websphere_commerce_suite",
+  "html": "<(?:a|link|script)[^>]*(?:href|src)=\".*(?:/wcsstore/|webapp\\/wcs)",
+  "icon": "IBM.svg",
+  "implies": "Java",
+  "url": "/wcs/",
+  "website": "http://ibm.com/software/genservers/commerceproductline"
+}

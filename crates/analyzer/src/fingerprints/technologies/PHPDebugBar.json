@@ -1,0 +1,14 @@
+{
+  "cats": [
+    47
+  ],
+  "icon": "phpdebugbar.png",
+  "js": {
+    "PhpDebugBar": "",
+    "phpdebugbar": ""
+  },
+  "scripts": [
+    "debugbar.*\\.js"
+  ],
+  "website": "http://phpdebugbar.com/"
+}

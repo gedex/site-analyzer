@@ -1,0 +1,9 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<!--[^>]+published by Open Text Web Solutions",
+  "icon": "OpenText Web Solutions.png",
+  "implies": "Microsoft ASP.NET",
+  "website": "http://websolutions.opentext.com"
+}

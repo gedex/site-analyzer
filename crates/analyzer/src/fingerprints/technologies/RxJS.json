@@ -1,0 +1,12 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "RxJS.png",
+  "js": {
+    "Rx.CompositeDisposable": "",
+    "Rx.Symbol": ""
+  },
+  "scripts": "rx(?:\\.\\w+)?(?:\\.compat|\\.global)?(?:\\.min)?\\.js",
+  "website": "http://reactivex.io"
+}

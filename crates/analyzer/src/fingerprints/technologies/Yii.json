@@ -1,0 +1,20 @@
+{
+  "cats": [
+    18
+  ],
+  "cookies": {
+    "YII_CSRF_TOKEN": ""
+  },
+  "html": [
+    "Powered by <a href=\"http://www\\.yiiframework\\.com/\" rel=\"external\">Yii Framework</a>",
+    "<input type=\"hidden\" value=\"[a-zA-Z0-9]{40}\" name=\"YII_CSRF_TOKEN\" \\/>",
+    "<!\\[CDATA\\[YII-BLOCK-(?:HEAD|BODY-BEGIN|BODY-END)\\]"
+  ],
+  "icon": "Yii.png",
+  "implies": "PHP",
+  "scripts": [
+    "/assets/[a-zA-Z0-9]{8}\\/yii\\.js$",
+    "/yii\\.(?:validation|activeForm)\\.js"
+  ],
+  "website": "https://www.yiiframework.com"
+}

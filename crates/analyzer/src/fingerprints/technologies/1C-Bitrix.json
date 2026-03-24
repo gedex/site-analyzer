@@ -1,0 +1,16 @@
+{
+  "cats": [
+    1,
+    6
+  ],
+  "headers": {
+    "Set-Cookie": "BITRIX_",
+    "X-Powered-CMS": "Bitrix Site Manager"
+  },
+  "html": "(?:<link[^>]+components/bitrix|(?:src|href)=\"/bitrix/(?:js|templates))",
+  "icon": "1C-Bitrix.png",
+  "implies": "PHP",
+  "scripts": "1c-bitrix",
+  "description": "1C-Bitrix is a system of web project management, universal software for the creation, support and successful development of corporate websites and online stores.",
+  "website": "http://www.1c-bitrix.ru"
+}

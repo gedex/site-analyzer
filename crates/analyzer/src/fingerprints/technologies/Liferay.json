@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:liferay:liferay_portal",
+  "headers": {
+    "Liferay-Portal": "[a-z\\s]+([\\d.]+)\\;version:\\1"
+  },
+  "icon": "Liferay.svg",
+  "js": {
+    "Liferay": ""
+  },
+  "website": "https://www.liferay.com"
+}

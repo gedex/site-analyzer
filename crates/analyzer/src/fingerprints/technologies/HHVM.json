@@ -1,0 +1,12 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:facebook:hhvm",
+  "headers": {
+    "X-Powered-By": "HHVM/?([\\d.]+)?\\;version:\\1"
+  },
+  "icon": "HHVM.png",
+  "implies": "PHP\\;confidence:75",
+  "website": "http://hhvm.com"
+}

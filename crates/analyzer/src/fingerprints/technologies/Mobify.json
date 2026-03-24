@@ -1,0 +1,18 @@
+{
+  "cats": [
+    6,
+    26
+  ],
+  "headers": {
+    "X-Powered-By": "Mobify"
+  },
+  "icon": "Mobify.png",
+  "js": {
+    "Mobify": ""
+  },
+  "scripts": [
+    "//cdn\\.mobify\\.com/",
+    "//a\\.mobify\\.com/"
+  ],
+  "website": "https://www.mobify.com"
+}

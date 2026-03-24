@@ -1,0 +1,15 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "LithiumVisitor": ""
+  },
+  "html": " <a [^>]+Powered by Lithium",
+  "icon": "Lithium.png",
+  "implies": "PHP",
+  "js": {
+    "LITHIUM": ""
+  },
+  "website": "https://www.lithium.com"
+}

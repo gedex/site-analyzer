@@ -1,0 +1,22 @@
+{
+  "cats": [
+    66
+  ],
+  "cpe": "cpe:/a:getbootstrap:bootstrap",
+  "html": [
+    "<style>\\s+/\\*!\\s+\\* Bootstrap v(\\d\\.\\d\\.\\d)\\;version:\\1",
+    "<link[^>]* href=[^>]*?bootstrap(?:[^>]*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)[^>]*?(?:\\.min)?\\.css\\;version:\\1"
+  ],
+  "implies": [
+    "jQuery\\;confidence:50"
+  ],
+  "icon": "Bootstrap.svg",
+  "js": {
+    "bootstrap.Alert.VERSION": "^(.+)$\\;version:\\1",
+    "jQuery.fn.tooltip.Constructor.VERSION": "^(.+)$\\;version:\\1"
+  },
+  "scripts": [
+    "bootstrap(?:[^>]*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)[^>]*?(?:\\.min)?\\.js\\;version:\\1"
+  ],
+  "website": "https://getbootstrap.com"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "^Kestrel"
+  },
+  "icon": "kestrel.svg",
+  "implies": "Microsoft ASP.NET",
+  "website": "https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel"
+}

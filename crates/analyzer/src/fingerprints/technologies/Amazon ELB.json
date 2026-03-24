@@ -1,0 +1,11 @@
+{
+  "cats": [
+    65
+  ],
+  "cookies": {
+    "AWSELB": ""
+  },
+  "icon": "aws-elb.png",
+  "implies": "Amazon Web Services",
+  "website": "https://aws.amazon.com/elasticloadbalancing/"
+}

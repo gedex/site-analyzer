@@ -1,0 +1,11 @@
+{
+  "cats": [
+    23
+  ],
+  "cpe": "cpe:/a:oracle:web_cache",
+  "headers": {
+    "Server": "Oracle(?:AS)?[- ]Web[- ]Cache(?:[- /]([\\da-z./]+))?\\;version:\\1"
+  },
+  "icon": "Oracle.png",
+  "website": "http://oracle.com"
+}

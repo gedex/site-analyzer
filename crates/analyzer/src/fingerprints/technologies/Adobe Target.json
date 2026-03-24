@@ -1,0 +1,12 @@
+{
+  "cats": [
+    32,
+    61
+  ],
+  "icon": "Adobe.svg",
+  "js": {
+    "adobe.target": "",
+    "adobe.target.VERSION": "^(.+)$\\;version:\\1"
+  },
+  "website": "https://www.adobe.com/marketing/target.html"
+}

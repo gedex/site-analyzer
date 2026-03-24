@@ -1,0 +1,10 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Powered-By": "SilvaCMS"
+  },
+  "icon": "Silva.png",
+  "website": "http://silvacms.org"
+}

@@ -1,0 +1,16 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Weebly.png",
+  "implies": [
+    "PHP",
+    "MySQL"
+  ],
+  "js": {
+    "_W.configDomain": ""
+  },
+  "scripts": "cdn\\d+\\.editmysite\\.com",
+  "description": "Weebly is a website and eCommerce service.",
+  "website": "https://www.weebly.com"
+}

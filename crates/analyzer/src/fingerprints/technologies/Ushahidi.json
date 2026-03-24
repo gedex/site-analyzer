@@ -1,0 +1,20 @@
+{
+  "cats": [
+    1,
+    35
+  ],
+  "cookies": {
+    "ushahidi": ""
+  },
+  "icon": "Ushahidi.png",
+  "implies": [
+    "PHP",
+    "MySQL",
+    "OpenLayers"
+  ],
+  "js": {
+    "Ushahidi": ""
+  },
+  "scripts": "/js/ushahidi\\.js$",
+  "website": "http://www.ushahidi.com"
+}

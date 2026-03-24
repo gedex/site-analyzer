@@ -1,0 +1,12 @@
+{
+  "cats": [
+    20
+  ],
+  "cpe": "cpe:/a:microsoft:frontpage",
+  "icon": "FrontPage.png",
+  "meta": {
+    "ProgId": "^FrontPage\\.",
+    "generator": "Microsoft FrontPage(?:\\s((?:Express )?[\\d.]+))?\\;version:\\1"
+  },
+  "website": "http://office.microsoft.com/frontpage"
+}

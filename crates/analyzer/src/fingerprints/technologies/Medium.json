@@ -1,0 +1,13 @@
+{
+  "cats": [
+    11
+  ],
+  "headers": {
+    "X-Powered-By": "^Medium$"
+  },
+  "icon": "Medium.svg",
+  "implies": "Node.js",
+  "scripts": "medium\\.com",
+  "url": "^https?://(?:www\\.)?medium\\.com",
+  "website": "https://medium.com"
+}

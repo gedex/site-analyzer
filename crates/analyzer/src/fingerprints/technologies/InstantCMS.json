@@ -1,0 +1,15 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "InstantCMS[logdate]": ""
+  },
+  "cpe": "cpe:/a:instantcms:instantcms",
+  "icon": "InstantCMS.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "InstantCMS"
+  },
+  "website": "http://www.instantcms.ru"
+}

@@ -1,0 +1,13 @@
+{
+  "cats": [
+    57
+  ],
+  "html": "Powered by <a href=\"http://octopress\\.org\">",
+  "icon": "octopress.png",
+  "implies": "Jekyll",
+  "meta": {
+    "generator": "Octopress"
+  },
+  "scripts": "/octopress\\.js",
+  "website": "http://octopress.org"
+}

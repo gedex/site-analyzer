@@ -1,0 +1,12 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:phusionpassenger:phusion_passenger",
+  "headers": {
+    "Server": "Phusion Passenger ([\\d.]+)\\;version:\\1",
+    "X-Powered-By": "Phusion Passenger ?([\\d.]+)?\\;version:\\1"
+  },
+  "icon": "Phusion Passenger.png",
+  "website": "https://phusionpassenger.com"
+}

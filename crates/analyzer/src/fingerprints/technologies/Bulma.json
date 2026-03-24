@@ -1,0 +1,8 @@
+{
+  "cats": [
+    66
+  ],
+  "html": "<link[^>]+?href=\"[^\"]+bulma(?:\\.min)?\\.css",
+  "icon": "Bulma.png",
+  "website": "http://bulma.io"
+}

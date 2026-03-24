@@ -1,0 +1,15 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "e107_tz": ""
+  },
+  "headers": {
+    "X-Powered-By": "e107"
+  },
+  "icon": "e107.png",
+  "implies": "PHP",
+  "scripts": "[^a-z\\d]e107\\.js",
+  "website": "http://e107.org"
+}

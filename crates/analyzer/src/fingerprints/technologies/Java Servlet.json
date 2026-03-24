@@ -1,0 +1,11 @@
+{
+  "cats": [
+    18
+  ],
+  "headers": {
+    "X-Powered-By": "Servlet(?:\\/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "Java.png",
+  "implies": "Java",
+  "website": "http://www.oracle.com/technetwork/java/index-jsp-135475.html"
+}

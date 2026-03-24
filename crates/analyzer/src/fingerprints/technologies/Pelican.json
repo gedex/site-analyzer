@@ -1,0 +1,12 @@
+{
+  "cats": [
+    57
+  ],
+  "html": [
+    "powered by <a href=\"[^>]+getpelican\\.com",
+    "powered by <a href=\"https?://pelican\\.notmyidea\\.org"
+  ],
+  "icon": "pelican.png",
+  "implies": "Python",
+  "website": "https://blog.getpelican.com/"
+}

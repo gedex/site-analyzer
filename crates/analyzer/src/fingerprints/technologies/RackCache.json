@@ -1,0 +1,11 @@
+{
+  "cats": [
+    23
+  ],
+  "headers": {
+    "X-Rack-Cache": ""
+  },
+  "icon": "RackCache.png",
+  "implies": "Ruby",
+  "website": "https://github.com/rtomayko/rack-cache"
+}

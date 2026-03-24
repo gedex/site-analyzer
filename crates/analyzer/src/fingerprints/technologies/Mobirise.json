@@ -1,0 +1,13 @@
+{
+  "cats": [
+    51
+  ],
+  "html": [
+    "<!-- Site made with Mobirise Website Builder v([\\d.]+)\\;version:\\1"
+  ],
+  "icon": "mobirise.png",
+  "meta": {
+    "generator": "^Mobirise v([\\d.]+)\\;version:\\1"
+  },
+  "website": "https://mobirise.com"
+}

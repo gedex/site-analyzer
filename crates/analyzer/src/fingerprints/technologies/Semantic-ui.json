@@ -1,0 +1,11 @@
+{
+  "cats": [
+    66
+  ],
+  "html": [
+    "<link[^>]+semantic(?:\\.min)\\.css\""
+  ],
+  "icon": "Semantic-ui.png",
+  "scripts": "/semantic(?:-([\\d.]+))?(?:\\.min)?\\.js\\;version:\\1",
+  "website": "https://semantic-ui.com"
+}

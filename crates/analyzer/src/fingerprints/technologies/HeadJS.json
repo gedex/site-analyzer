@@ -1,0 +1,12 @@
+{
+  "cats": [
+    59
+  ],
+  "html": "<[^>]*data-headjs-load",
+  "icon": "HeadJS.png",
+  "js": {
+    "head.browser.name": ""
+  },
+  "scripts": "head\\.(?:core|load)(?:\\.min)?\\.js",
+  "website": "http://headjs.com"
+}

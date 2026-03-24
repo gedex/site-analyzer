@@ -1,0 +1,8 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Oracle.png",
+  "scripts": "atgsvcs.+atgsvcs\\.js",
+  "website": "http://www.oracle.com/us/products/applications/commerce/recommendations-on-demand/index.html"
+}

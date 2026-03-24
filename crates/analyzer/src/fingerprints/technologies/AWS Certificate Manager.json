@@ -1,0 +1,9 @@
+{
+  "cats": [
+    70
+  ],
+  "certIssuer": "Amazon",
+  "icon": "aws.svg",
+  "implies": "Amazon Web Services",
+  "website": "https://aws.amazon.com/certificate-manager/"
+}

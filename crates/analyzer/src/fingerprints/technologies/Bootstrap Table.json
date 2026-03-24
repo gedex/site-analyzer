@@ -1,0 +1,13 @@
+{
+  "cats": [
+    59
+  ],
+  "html": "<link[^>]+href=\"[^>]*bootstrap-table(?:\\.min)?\\.css",
+  "icon": "Bootstrap Table.svg",
+  "implies": [
+    "Bootstrap",
+    "jQuery"
+  ],
+  "scripts": "bootstrap-table(?:\\.min)?\\.js",
+  "website": "http://bootstrap-table.wenzhixin.net.cn/"
+}

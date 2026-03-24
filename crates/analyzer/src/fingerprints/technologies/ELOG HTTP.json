@@ -1,0 +1,11 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "ELOG HTTP ?([\\d.-]+)?\\;version:\\1"
+  },
+  "icon": "ELOG.png",
+  "implies": "ELOG",
+  "website": "http://midas.psi.ch/elog"
+}

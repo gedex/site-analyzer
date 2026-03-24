@@ -1,0 +1,12 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "Robin.png",
+  "js": {
+    "_robin_getRobinJs": "",
+    "robin_settings": "",
+    "robin_storage_settings": ""
+  },
+  "website": "http://www.robinhq.com"
+}

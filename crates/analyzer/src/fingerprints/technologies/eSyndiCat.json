@@ -1,0 +1,17 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Drectory-Script": "^eSyndiCat"
+  },
+  "icon": "eSyndiCat.png",
+  "implies": "PHP",
+  "js": {
+    "esyndicat": ""
+  },
+  "meta": {
+    "generator": "^eSyndiCat "
+  },
+  "website": "http://esyndicat.com"
+}

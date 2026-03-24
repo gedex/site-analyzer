@@ -1,0 +1,11 @@
+{
+  "cats": [
+    59
+  ],
+  "icon": "Snap.svg.png",
+  "js": {
+    "Snap.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "snap\\.svg(?:-min)?\\.js",
+  "website": "http://snapsvg.io"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Powered-By": "^enduro\\.js"
+  },
+  "icon": "enduro.js.svg",
+  "implies": "Node.js",
+  "website": "http://endurojs.com"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1,
+    62
+  ],
+  "headers": {
+    "x-powered-by": "^platformOS$"
+  },
+  "icon": "PlatformOS.svg",
+  "website": "https://www.platform-os.com"
+}

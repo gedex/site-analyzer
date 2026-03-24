@@ -1,0 +1,10 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "TheHutGroup.png",
+  "scripts": [
+    "THEHUT-.*\\.js"
+  ],
+  "website": "https://www.thg.com/"
+}

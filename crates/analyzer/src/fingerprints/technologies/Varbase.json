@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:vardot:varbase",
+  "icon": "varbase.png",
+  "implies": "Drupal",
+  "meta": {
+    "generator": "Varbase"
+  },
+  "website": "https://drupal.org/project/varbase"
+}

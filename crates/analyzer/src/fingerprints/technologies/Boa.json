@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:boa:boa",
+  "headers": {
+    "Server": "Boa\\/?([\\d\\.a-z]+)?\\;version:\\1"
+  },
+  "website": "http://www.boa.org"
+}

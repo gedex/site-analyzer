@@ -1,0 +1,11 @@
+{
+  "cats": [
+    23
+  ],
+  "headers": {
+    "x-litespeed-cache": ""
+  },
+  "icon": "litespeed-cache.png",
+  "implies": "WordPress",
+  "website": "https://wordpress.org/plugins/litespeed-cache/"
+}

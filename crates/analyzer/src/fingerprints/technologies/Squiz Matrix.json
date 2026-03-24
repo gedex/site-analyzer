@@ -1,0 +1,15 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Powered-By": "Squiz Matrix"
+  },
+  "html": "<!--\\s+Running (?:MySource|Squiz) Matrix",
+  "icon": "Squiz Matrix.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "Squiz Matrix"
+  },
+  "website": "http://squiz.net"
+}

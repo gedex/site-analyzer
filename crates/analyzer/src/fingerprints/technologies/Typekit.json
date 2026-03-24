@@ -1,0 +1,11 @@
+{
+  "cats": [
+    17
+  ],
+  "icon": "Typekit.png",
+  "js": {
+    "Typekit.config.js": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "use\\.typekit\\.com",
+  "website": "http://typekit.com"
+}

@@ -1,0 +1,13 @@
+{
+  "cats": [
+    10
+  ],
+  "html": [
+    "<!-- EBiS contents tag",
+    "<!--EBiS tag",
+    "<!-- Tag EBiS",
+    "<!-- EBiS common tag"
+  ],
+  "icon": "ebis.png",
+  "website": "http://www.ebis.ne.jp"
+}

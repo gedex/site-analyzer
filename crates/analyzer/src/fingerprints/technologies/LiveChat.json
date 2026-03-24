@@ -1,0 +1,8 @@
+{
+  "cats": [
+    52
+  ],
+  "icon": "LiveChat.png",
+  "scripts": "cdn\\.livechatinc\\.com/.*tracking\\.js",
+  "website": "http://livechatinc.com"
+}

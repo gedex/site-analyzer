@@ -1,0 +1,13 @@
+{
+  "cats": [
+    18
+  ],
+  "icon": "Blazor.png",
+  "implies": "Microsoft ASP.NET",
+  "scripts": [
+    "blazor\\.server\\.js",
+    "blazor\\.host\\.min\\.js",
+    "blazor\\.webassembly\\.js"
+  ],
+  "website": "https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor"
+}

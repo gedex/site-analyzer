@@ -1,0 +1,11 @@
+{
+  "cats": [
+    11
+  ],
+  "icon": "Zinnia.png",
+  "implies": "Django",
+  "meta": {
+    "generator": "Zinnia"
+  },
+  "website": "http://django-blog-zinnia.com"
+}

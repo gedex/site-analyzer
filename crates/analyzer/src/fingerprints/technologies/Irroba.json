@@ -1,0 +1,8 @@
+{
+  "cats": [
+    6
+  ],
+  "html": "<a[^>]*href=\"https://www\\.irroba\\.com\\.br",
+  "icon": "irroba.svg",
+  "website": "https://www.irroba.com.br/"
+}

@@ -1,0 +1,10 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "Knockout.js.png",
+  "js": {
+    "ko.version": "^(.+)$\\;version:\\1"
+  },
+  "website": "http://knockoutjs.com"
+}

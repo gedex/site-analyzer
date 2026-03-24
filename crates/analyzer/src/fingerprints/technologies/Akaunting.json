@@ -1,0 +1,15 @@
+{
+  "cats": [
+    55
+  ],
+  "headers": {
+    "X-Akaunting": "^Free Accounting Software$"
+  },
+  "html": [
+    "<link[^>]+akaunting-green\\.css",
+    "Powered By Akaunting: <a [^>]*href=\"https?://(?:www\\.)?akaunting\\.com[^>]+>"
+  ],
+  "icon": "akaunting.svg",
+  "implies": "Laravel",
+  "website": "https://akaunting.com"
+}

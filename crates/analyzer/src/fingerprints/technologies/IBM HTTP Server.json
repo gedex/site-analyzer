@@ -1,0 +1,11 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:ibm:http_server",
+  "headers": {
+    "Server": "IBM_HTTP_Server(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "IBM.svg",
+  "website": "http://ibm.com/software/webservers/httpservers"
+}

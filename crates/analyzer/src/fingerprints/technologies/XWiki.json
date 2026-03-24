@@ -1,0 +1,15 @@
+{
+  "cats": [
+    8
+  ],
+  "excludes": "MediaWiki",
+  "html": [
+    "<html[^>]data-xwiki-[^>]>"
+  ],
+  "icon": "xwiki.png",
+  "implies": "Java\\;confidence:99",
+  "meta": {
+    "wiki": "xwiki"
+  },
+  "website": "http://www.xwiki.org"
+}

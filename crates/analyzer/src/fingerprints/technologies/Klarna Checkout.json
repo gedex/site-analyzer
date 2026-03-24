@@ -1,0 +1,13 @@
+{
+  "cats": [
+    41,
+    6,
+    5
+  ],
+  "icon": "Klarna.svg",
+  "js": {
+    "_klarnaCheckout": ""
+  },
+  "description": "Klarna Checkout is a complete payment solution where Klarna handles a store's entire checkout.",
+  "website": "https://www.klarna.com/international/"
+}

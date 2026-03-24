@@ -1,0 +1,9 @@
+{
+  "cats": [
+    25
+  ],
+  "html": "<link[^>]+?href=\"[^\"]+epoch(?:\\.min)?\\.css",
+  "implies": "D3",
+  "scripts": "epoch(?:\\.min)?\\.js",
+  "website": "https://fastly.github.io/epoch"
+}

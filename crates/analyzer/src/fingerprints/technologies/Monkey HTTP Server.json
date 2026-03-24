@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "Monkey/?([\\d.]+)?\\;version:\\1"
+  },
+  "icon": "Monkey HTTP Server.png",
+  "website": "http://monkey-project.com"
+}

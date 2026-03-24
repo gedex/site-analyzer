@@ -1,0 +1,8 @@
+{
+  "cats": [
+    14
+  ],
+  "html": "<(?:param|embed|iframe)[^>]+blip\\.tv/play",
+  "icon": "Blip.tv.png",
+  "website": "http://blip.tv"
+}

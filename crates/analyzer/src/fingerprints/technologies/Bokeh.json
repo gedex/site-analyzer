@@ -1,0 +1,13 @@
+{
+  "cats": [
+    25
+  ],
+  "icon": "bokeh.png",
+  "implies": "Python",
+  "js": {
+    "Bokeh": "",
+    "Bokeh.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "bokeh.*\\.js",
+  "website": "https://bokeh.org"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    30
+  ],
+  "cookies": {
+    "ZM_TEST": "true"
+  },
+  "icon": "Zimbra.png",
+  "implies": "Java",
+  "website": "https://www.zimbra.com/"
+}

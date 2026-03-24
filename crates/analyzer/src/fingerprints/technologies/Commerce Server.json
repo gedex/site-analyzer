@@ -1,0 +1,12 @@
+{
+  "cats": [
+    6
+  ],
+  "cpe": "cpe:/a:microsoft:commerce_server",
+  "headers": {
+    "COMMERCE-SERVER-SOFTWARE": ""
+  },
+  "icon": "Commerce Server.png",
+  "implies": "Microsoft ASP.NET",
+  "website": "http://commerceserver.net"
+}

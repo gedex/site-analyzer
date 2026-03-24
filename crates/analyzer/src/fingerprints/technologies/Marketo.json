@@ -1,0 +1,12 @@
+{
+  "cats": [
+    32
+  ],
+  "icon": "Marketo.png",
+  "js": {
+    "Munchkin": ""
+  },
+  "scripts": "munchkin\\.marketo\\.net/munchkin\\.js",
+  "description": "Marketo develops and sells marketing automation software for account-based marketing and other marketing services and products including SEO and content creation.",
+  "website": "https://www.marketo.com"
+}

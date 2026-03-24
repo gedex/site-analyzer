@@ -1,0 +1,10 @@
+{
+  "cats": [
+    42
+  ],
+  "icon": "adobe_experience_platform.png",
+  "js": {
+    "_satellite.buildInfo": ""
+  },
+  "website": "https://docs.adobelaunch.com/getting-started"
+}

@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:fork-cms:fork_cms",
+  "icon": "ForkCMS.png",
+  "implies": "Symfony",
+  "meta": {
+    "generator": "^Fork CMS$"
+  },
+  "website": "http://www.fork-cms.com/"
+}

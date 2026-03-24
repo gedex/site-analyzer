@@ -1,0 +1,10 @@
+{
+  "cats": [
+    16,
+    56
+  ],
+  "html": "(?:<div[^>]+class=\"coinhive-captcha[^>]+data-key|<div[^>]+data-key[^>]+class=\"coinhive-captcha)",
+  "icon": "CoinHive.svg",
+  "scripts": "https?://authedmine\\.com/(?:lib/captcha|captcha)",
+  "website": "https://coinhive.com"
+}

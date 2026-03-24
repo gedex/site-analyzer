@@ -1,0 +1,12 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "ef.js.svg",
+  "js": {
+    "ef.version": "^(.+)$\\;version:\\1",
+    "efCore": ""
+  },
+  "scripts": "/ef(?:-core)?(?:\\.min|\\.dev)?\\.js",
+  "website": "http://ef.js.org"
+}

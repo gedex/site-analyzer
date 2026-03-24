@@ -1,0 +1,14 @@
+{
+  "cats": [
+    20
+  ],
+  "cpe": "cpe:/a:adobe:dreamweaver",
+  "html": "<!--[^>]*(?:InstanceBeginEditable|Dreamweaver([^>]+)target|DWLayoutDefaultTable)\\;version:\\1",
+  "icon": "DreamWeaver.png",
+  "js": {
+    "MM_preloadImages": "",
+    "MM_showHideLayers": "",
+    "MM_showMenu": ""
+  },
+  "website": "https://www.adobe.com/products/dreamweaver.html"
+}

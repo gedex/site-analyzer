@@ -1,0 +1,14 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "BugSnag.png",
+  "js": {
+    "Bugsnag": "",
+    "bugsnag": "",
+    "bugsnagClient": ""
+  },
+  "scripts": "/bugsnag.*\\.js",
+  "description": "Bugsnag is a cross-platform error monitoring, reporting, and resolution software.",
+  "website": "http://bugsnag.com"
+}

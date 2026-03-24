@@ -1,0 +1,16 @@
+{
+  "cats": [
+    18
+  ],
+  "cookies": {
+    "ci_csrf_token": "^(.+)$\\;version:\\1?2+:",
+    "ci_session": "",
+    "exp_last_activity": "",
+    "exp_tracker": ""
+  },
+  "cpe": "cpe:/a:codeigniter:codeigniter",
+  "html": "<input[^>]+name=\"ci_csrf_token\"\\;version:2+",
+  "icon": "CodeIgniter.png",
+  "implies": "PHP",
+  "website": "http://codeigniter.com"
+}

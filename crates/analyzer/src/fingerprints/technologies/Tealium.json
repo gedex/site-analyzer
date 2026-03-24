@@ -1,0 +1,14 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "Tealium.png",
+  "js": {
+    "TEALIUMENABLED": ""
+  },
+  "scripts": [
+    "^(?:https?:)?//tags\\.tiqcdn\\.com/",
+    "/tealium/utag\\.js$"
+  ],
+  "website": "http://tealium.com"
+}

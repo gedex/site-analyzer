@@ -1,0 +1,16 @@
+{
+  "cats": [
+    8
+  ],
+  "cpe": "cpe:/a:atlassian:confluence",
+  "headers": {
+    "X-Confluence-Request-Time": ""
+  },
+  "html": "Powered by <a href=[^>]+atlassian\\.com/software/confluence(?:[^>]+>Atlassian Confluence</a> ([\\d.]+))?\\;version:\\1",
+  "icon": "Atlassian Confluence.svg",
+  "implies": "Java",
+  "meta": {
+    "confluence-request-time": ""
+  },
+  "website": "http://www.atlassian.com/software/confluence/overview/team-collaboration-software"
+}

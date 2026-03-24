@@ -1,0 +1,9 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<link[^>]*/papaya-themes/",
+  "icon": "papaya CMS.png",
+  "implies": "PHP",
+  "website": "https://papaya-cms.com"
+}

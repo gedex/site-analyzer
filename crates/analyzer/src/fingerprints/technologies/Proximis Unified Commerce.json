@@ -1,0 +1,19 @@
+{
+  "cats": [
+    6,
+    1
+  ],
+  "html": "<html[^>]+data-ng-app=\"RbsChangeApp\"",
+  "icon": "Proximis Omnichannel.png",
+  "implies": [
+    "PHP",
+    "AngularJS"
+  ],
+  "js": {
+    "__change": ""
+  },
+  "meta": {
+    "generator": "Proximis Unified Commerce"
+  },
+  "website": "https://www.proximis.com"
+}

@@ -1,0 +1,9 @@
+{
+  "cats": [
+    41
+  ],
+  "icon": "amex.png",
+  "scripts": "aexp-static\\.com",
+  "description": "Amex Express Checkout is a service that simplifies the checkout experience by auto-filling necessary cardholder payment data into merchant checkout fields.",
+  "website": "https://www.americanexpress.com/us/express-checkout/"
+}

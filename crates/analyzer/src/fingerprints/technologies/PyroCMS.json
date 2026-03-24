@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "pyrocms": ""
+  },
+  "headers": {
+    "X-Streams-Distribution": "PyroCMS"
+  },
+  "icon": "PyroCMS.png",
+  "implies": "Laravel",
+  "website": "http://pyrocms.com"
+}

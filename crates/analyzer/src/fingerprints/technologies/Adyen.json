@@ -1,0 +1,11 @@
+{
+  "cats": [
+    41
+  ],
+  "icon": "Adyen.svg",
+  "js": {
+    "adyen.encrypt.version": "^(.+)$\\;version:\\1"
+  },
+  "description": "Adyen allows businesses to accept ecommerce, mobile, and point-of-sale payments.",
+  "website": "https://www.adyen.com"
+}

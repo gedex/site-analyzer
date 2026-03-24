@@ -1,0 +1,11 @@
+{
+  "cats": [
+    25
+  ],
+  "icon": "Timeplot.png",
+  "js": {
+    "Timeplot": ""
+  },
+  "scripts": "timeplot.*\\.js",
+  "website": "http://www.simile-widgets.org/timeplot/"
+}

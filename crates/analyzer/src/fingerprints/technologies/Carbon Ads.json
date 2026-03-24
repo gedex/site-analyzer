@@ -1,0 +1,12 @@
+{
+  "cats": [
+    36
+  ],
+  "html": "<[a-z]+ [^>]*id=\"carbonads-container\"",
+  "icon": "Carbon Ads.png",
+  "js": {
+    "_carbonads": ""
+  },
+  "scripts": "carbonads\\.com",
+  "website": "http://carbonads.net"
+}

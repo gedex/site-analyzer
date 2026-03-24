@@ -1,0 +1,10 @@
+{
+  "cats": [
+    28
+  ],
+  "headers": {
+    "Server": "\\bWinCE\\b"
+  },
+  "icon": "Microsoft.png",
+  "website": "http://microsoft.com"
+}

@@ -1,0 +1,17 @@
+{
+  "cats": [
+    2
+  ],
+  "cpe": "cpe:/a:flarum:flarum",
+  "html": "<div id=\"flarum-loading\"",
+  "icon": "flarum.png",
+  "implies": [
+    "PHP",
+    "MySQL"
+  ],
+  "js": {
+    "app.cache.discussionList": "",
+    "app.forum.freshness": ""
+  },
+  "website": "http://flarum.org/"
+}

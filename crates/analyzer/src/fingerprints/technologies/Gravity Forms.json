@@ -1,0 +1,15 @@
+{
+  "cats": [
+    19
+  ],
+  "html": [
+    "<div class=(?:\"|')[^>]*gform_wrapper",
+    "<div class=(?:\"|')[^>]*gform_body",
+    "<ul [^>]*class=(?:\"|')[^>]*gform_fields",
+    "<link [^>]*href=(?:\"|')[^>]*wp-content/plugins/gravityforms/css/"
+  ],
+  "icon": "gravityforms.svg",
+  "implies": "WordPress",
+  "scripts": "/wp-content/plugins/gravityforms/js/[^/]+\\.js\\?ver=([\\d.]+)$\\;version:\\1",
+  "website": "http://gravityforms.com"
+}

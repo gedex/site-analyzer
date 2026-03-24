@@ -1,0 +1,9 @@
+{
+  "cats": [
+    31
+  ],
+  "html": "<[^>]+?//cdn\\.jsdelivr\\.net/",
+  "icon": "jsdelivr-icon.svg",
+  "scripts": "//cdn\\.jsdelivr\\.net/",
+  "website": "https://www.jsdelivr.com/"
+}

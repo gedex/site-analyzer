@@ -1,0 +1,10 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "SiteEdit.png",
+  "meta": {
+    "generator": "SiteEdit"
+  },
+  "website": "http://www.siteedit.ru"
+}

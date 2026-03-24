@@ -1,0 +1,11 @@
+{
+  "cats": [
+    25
+  ],
+  "html": "<div id=\"particles-js\">",
+  "js": {
+    "particlesJS": ""
+  },
+  "scripts": "/particles(?:\\.min)?\\.js",
+  "website": "https://vincentgarreau.com/particles.js/"
+}

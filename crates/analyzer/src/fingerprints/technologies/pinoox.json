@@ -1,0 +1,14 @@
+{
+  "cats": [
+    18
+  ],
+  "cookies": {
+    "pinoox_session": ""
+  },
+  "icon": "pinoox.png",
+  "implies": "PHP",
+  "js": {
+    "pinoox": ""
+  },
+  "website": "https://pinoox.com"
+}

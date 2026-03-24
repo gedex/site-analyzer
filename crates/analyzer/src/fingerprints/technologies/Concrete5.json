@@ -1,0 +1,19 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "CONCRETE5": ""
+  },
+  "cpe": "cpe:/a:concrete5:concrete5",
+  "icon": "Concrete5.png",
+  "implies": "PHP",
+  "js": {
+    "CCM_IMAGE_PATH": ""
+  },
+  "meta": {
+    "generator": "^concrete5 - ([\\d.]+)$\\;version:\\1"
+  },
+  "scripts": "/concrete/js/",
+  "website": "https://concrete5.org"
+}

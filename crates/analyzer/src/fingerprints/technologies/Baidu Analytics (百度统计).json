@@ -1,0 +1,8 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Baidu Tongji.png",
+  "scripts": "hm\\.baidu\\.com/hm\\.js",
+  "website": "https://tongji.baidu.com/"
+}

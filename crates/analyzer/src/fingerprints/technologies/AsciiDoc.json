@@ -1,0 +1,15 @@
+{
+  "cats": [
+    1,
+    20,
+    27
+  ],
+  "icon": "AsciiDoc.png",
+  "js": {
+    "asciidoc": ""
+  },
+  "meta": {
+    "generator": "^AsciiDoc ([\\d.]+)\\;version:\\1"
+  },
+  "website": "http://www.methods.co.nz/asciidoc"
+}

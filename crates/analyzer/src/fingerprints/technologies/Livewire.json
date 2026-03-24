@@ -1,0 +1,14 @@
+{
+  "cats": [
+    18,
+    19
+  ],
+  "html": "<[^>]{1,512}\\bwire:",
+  "icon": "Livewire.png",
+  "implies": "Laravel",
+  "js": {
+    "livewire": ""
+  },
+  "scripts": "livewire(?:\\.min)?\\.js",
+  "website": "https://laravel-livewire.com"
+}

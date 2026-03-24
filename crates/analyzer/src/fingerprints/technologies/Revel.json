@@ -1,0 +1,12 @@
+{
+  "cats": [
+    18
+  ],
+  "cookies": {
+    "REVEL_FLASH": "",
+    "REVEL_SESSION": ""
+  },
+  "icon": "Revel.png",
+  "implies": "Go",
+  "website": "https://revel.github.io"
+}

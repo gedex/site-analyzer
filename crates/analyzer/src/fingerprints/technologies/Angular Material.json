@@ -1,0 +1,12 @@
+{
+  "cats": [
+    66
+  ],
+  "icon": "AngularJS.svg",
+  "implies": "AngularJS",
+  "js": {
+    "ngMaterial": ""
+  },
+  "scripts": "/([\\d.rc-]+)?/angular-material(?:\\.min)?\\.js\\;version:\\1",
+  "website": "https://material.angularjs.org"
+}

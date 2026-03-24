@@ -1,0 +1,13 @@
+{
+  "cats": [
+    22,
+    64
+  ],
+  "cpe": "cpe:/a:nginx:nginx",
+  "headers": {
+    "Server": "nginx(?:/([\\d.]+))?\\;version:\\1",
+    "X-Fastcgi-Cache": ""
+  },
+  "icon": "Nginx.svg",
+  "website": "http://nginx.org/en"
+}

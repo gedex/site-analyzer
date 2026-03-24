@@ -1,0 +1,12 @@
+{
+  "cats": [
+    2
+  ],
+  "html": "Powered by <a href=\"[^>]+punbb",
+  "icon": "punBB.png",
+  "implies": "PHP",
+  "js": {
+    "PUNBB": ""
+  },
+  "website": "http://punbb.informer.com"
+}

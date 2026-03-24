@@ -1,0 +1,9 @@
+{
+  "cats": [
+    7
+  ],
+  "html": "<!--phpalbum ([.\\d\\s]+)-->\\;version:\\1",
+  "icon": "phpAlbum.png",
+  "implies": "PHP",
+  "website": "http://phpalbum.net"
+}

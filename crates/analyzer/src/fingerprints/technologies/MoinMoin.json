@@ -1,0 +1,16 @@
+{
+  "cats": [
+    8
+  ],
+  "cookies": {
+    "MOIN_SESSION": ""
+  },
+  "cpe": "cpe:/a:moinmo:moinmoin",
+  "icon": "MoinMoin.png",
+  "implies": "Python",
+  "js": {
+    "show_switch2gui": ""
+  },
+  "scripts": "moin(?:_static(\\d)(\\d)(\\d)|.+)/common/js/common\\.js\\;version:\\1.\\2.\\3",
+  "website": "https://moinmo.in"
+}

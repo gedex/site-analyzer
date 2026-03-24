@@ -1,0 +1,32 @@
+{
+  "cats": [
+    6
+  ],
+  "cookies": {
+    "PrestaShop": ""
+  },
+  "cpe": "cpe:/a:prestashop:prestashop",
+  "headers": {
+    "Powered-By": "^Prestashop$"
+  },
+  "html": [
+    "Powered by <a\\s+[^>]+>PrestaShop",
+    "<!-- /Block [a-z ]+ module (?:HEADER|TOP)?\\s?-->",
+    "<!-- /Module Block [a-z ]+ -->"
+  ],
+  "icon": "PrestaShop.svg",
+  "implies": [
+    "PHP",
+    "MySQL"
+  ],
+  "js": {
+    "freeProductTranslation": "\\;confidence:25",
+    "priceDisplayMethod": "\\;confidence:25",
+    "priceDisplayPrecision": "\\;confidence:25"
+  },
+  "meta": {
+    "generator": "PrestaShop"
+  },
+  "description": "PrestaShop is a freemium, open source ecommerce solution, written in the PHP programming language with support for the MySQL database management system.",
+  "website": "http://www.prestashop.com"
+}

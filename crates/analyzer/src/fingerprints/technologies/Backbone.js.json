@@ -1,0 +1,13 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "Backbone.js.png",
+  "implies": "Underscore.js",
+  "js": {
+    "Backbone": "",
+    "Backbone.VERSION": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "backbone.*\\.js",
+  "website": "http://backbonejs.org"
+}

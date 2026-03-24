@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "PUBLICCMS_USER": ""
+  },
+  "headers": {
+    "X-Powered-PublicCMS": "^(.+)$\\;version:\\1"
+  },
+  "icon": "Public CMS.png",
+  "implies": "Java",
+  "website": "http://www.publiccms.com"
+}

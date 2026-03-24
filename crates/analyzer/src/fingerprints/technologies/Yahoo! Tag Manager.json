@@ -1,0 +1,9 @@
+{
+  "cats": [
+    42
+  ],
+  "html": "<!-- (?:End )?Yahoo! Tag Manager -->",
+  "icon": "yahoo.png",
+  "scripts": "b\\.yjtag\\.jp/iframe",
+  "website": "https://tagmanager.yahoo.co.jp/"
+}

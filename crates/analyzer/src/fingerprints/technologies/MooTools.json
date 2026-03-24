@@ -1,0 +1,12 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "MooTools.png",
+  "js": {
+    "MooTools": "",
+    "MooTools.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "mootools.*\\.js",
+  "website": "https://mootools.net"
+}

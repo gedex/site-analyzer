@@ -1,0 +1,11 @@
+{
+  "cats": [
+    25
+  ],
+  "implies": "D3",
+  "js": {
+    "Rickshaw": ""
+  },
+  "scripts": "rickshaw(?:\\.min)?\\.js",
+  "website": "http://code.shutterstock.com/rickshaw/"
+}

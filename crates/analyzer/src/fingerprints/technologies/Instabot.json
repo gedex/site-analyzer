@@ -1,0 +1,15 @@
+{
+  "cats": [
+    5,
+    10,
+    32,
+    52,
+    58
+  ],
+  "icon": "Instabot.png",
+  "js": {
+    "Instabot": ""
+  },
+  "scripts": "/rokoInstabot\\.js",
+  "website": "https://instabot.io/"
+}

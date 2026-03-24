@@ -1,0 +1,19 @@
+{
+  "cats": [
+    2
+  ],
+  "cpe": "cpe:/a:jenkins:mattermost",
+  "html": "<noscript> To use Mattermost, please enable JavaScript\\. </noscript>",
+  "icon": "mattermost.png",
+  "implies": [
+    "Go",
+    "React"
+  ],
+  "js": {
+    "mm_config": "",
+    "mm_current_user_id": "",
+    "mm_license": "",
+    "mm_user": ""
+  },
+  "website": "https://about.mattermost.com"
+}

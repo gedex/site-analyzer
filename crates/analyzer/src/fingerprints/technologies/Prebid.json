@@ -1,0 +1,15 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "Prebid.png",
+  "js": {
+    "PREBID_TIMEOUT": "",
+    "pbjs": ""
+  },
+  "scripts": [
+    "/prebid\\.js",
+    "adnxs\\.com/[^\"]*(?:prebid|/pb\\.js)"
+  ],
+  "website": "http://prebid.org"
+}

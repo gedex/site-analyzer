@@ -1,0 +1,12 @@
+{
+  "cats": [
+    29
+  ],
+  "icon": "Algolia.svg",
+  "js": {
+    "AlgoliaSearch": "",
+    "algoliasearch.version": "^(.+)$\\;version:\\1"
+  },
+  "description": "Algolia offers a hosted web search product delivering real-time results.",
+  "website": "http://www.algolia.com"
+}

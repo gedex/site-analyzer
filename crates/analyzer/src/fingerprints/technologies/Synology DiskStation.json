@@ -1,0 +1,13 @@
+{
+  "cats": [
+    48
+  ],
+  "html": "<noscript><div class='syno-no-script'",
+  "icon": "Synology DiskStation.png",
+  "meta": {
+    "application-name": "Synology DiskStation",
+    "description": "^DiskStation provides a full-featured network attached storage"
+  },
+  "scripts": "webapi/entry\\.cgi\\?api=SYNO\\.(?:Core|Filestation)\\.Desktop\\.",
+  "website": "http://synology.com"
+}

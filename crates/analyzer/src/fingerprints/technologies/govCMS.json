@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "govCMS.svg",
+  "implies": "Drupal",
+  "meta": {
+    "generator": "Drupal ([\\d]+) \\(http:\\/\\/drupal\\.org\\) \\+ govCMS\\;version:\\1"
+  },
+  "website": "https://www.govcms.gov.au"
+}

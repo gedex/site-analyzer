@@ -1,0 +1,12 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "DoubleClick.svg",
+  "scripts": [
+    "googlesyndication\\.com/pagead/show_ads\\.js",
+    "tpc\\.googlesyndication\\.com/safeframe",
+    "googlesyndication\\.com.*abg\\.js"
+  ],
+  "website": "http://www.doubleclickbygoogle.com/solutions/digital-marketing/ad-exchange/"
+}

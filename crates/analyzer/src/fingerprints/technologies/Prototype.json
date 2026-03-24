@@ -1,0 +1,11 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "Prototype.png",
+  "js": {
+    "Prototype.Version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "(?:prototype|protoaculous)(?:-([\\d.]*[\\d]))?.*\\.js\\;version:\\1",
+  "website": "http://www.prototypejs.org"
+}

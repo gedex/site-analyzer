@@ -1,0 +1,11 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Segment.png",
+  "js": {
+    "analytics": ""
+  },
+  "scripts": "cdn\\.segment\\.com/analytics\\.js",
+  "website": "https://segment.com"
+}

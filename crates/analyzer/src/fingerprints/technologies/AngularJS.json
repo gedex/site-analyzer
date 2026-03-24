@@ -1,0 +1,24 @@
+{
+  "cats": [
+    12
+  ],
+  "excludes": [
+    "Angular",
+    "AngularDart"
+  ],
+  "html": [
+    "<(?:div|html)[^>]+ng-app=",
+    "<ng-app"
+  ],
+  "icon": "AngularJS.svg",
+  "js": {
+    "angular": "",
+    "angular.version.full": "^(.+)$\\;version:\\1"
+  },
+  "scripts": [
+    "angular[.-]([\\d.]*\\d)[^/]*\\.js\\;version:\\1",
+    "/([\\d.]+(?:-?rc[.\\d]*)*)/angular(?:\\.min)?\\.js\\;version:\\1",
+    "\\bangular.{0,32}\\.js"
+  ],
+  "website": "https://angularjs.org"
+}

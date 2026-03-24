@@ -1,0 +1,10 @@
+{
+  "cats": [
+    25
+  ],
+  "js": {
+    "protovis": ""
+  },
+  "scripts": "protovis.*\\.js",
+  "website": "http://mbostock.github.io/protovis"
+}

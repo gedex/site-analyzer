@@ -1,0 +1,8 @@
+{
+  "cats": [
+    67
+  ],
+  "icon": "osano.png",
+  "scripts": "cookieconsent\\.min\\.js",
+  "website": "https://www.osano.com/"
+}

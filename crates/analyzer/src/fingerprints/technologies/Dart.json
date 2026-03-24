@@ -1,0 +1,21 @@
+{
+  "cats": [
+    27
+  ],
+  "excludes": [
+    "Angular",
+    "AngularJS"
+  ],
+  "html": "/(?:<script)[^>]+(?:type=\"application/dart\")/",
+  "icon": "Dart.svg",
+  "implies": "AngularDart",
+  "js": {
+    "___dart__$dart_dartObject_ZxYxX_0_": "",
+    "___dart_dispatch_record_ZxYxX_0_": ""
+  },
+  "scripts": [
+    "/(?:\\.)?(?:dart)(?:\\.js)?/",
+    "packages/browser/dart\\.js"
+  ],
+  "website": "https://www.dartlang.org"
+}

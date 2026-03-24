@@ -1,0 +1,10 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "ClickTale.png",
+  "js": {
+    "clickTaleStartEventSignal": ""
+  },
+  "website": "http://www.clicktale.com"
+}

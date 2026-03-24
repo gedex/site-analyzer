@@ -1,0 +1,18 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "iexexchanger_session": ""
+  },
+  "icon": "iEXExchanger.png",
+  "implies": [
+    "PHP",
+    "Apache",
+    "Angular"
+  ],
+  "meta": {
+    "generator": "iEXExchanger"
+  },
+  "website": "https://exchanger.iexbase.com"
+}

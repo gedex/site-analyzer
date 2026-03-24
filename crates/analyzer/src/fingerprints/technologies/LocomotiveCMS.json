@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<link[^>]*/sites/[a-z\\d]{24}/theme/stylesheets",
+  "icon": "LocomotiveCMS.png",
+  "implies": [
+    "Ruby on Rails",
+    "MongoDB"
+  ],
+  "website": "https://www.locomotivecms.com"
+}

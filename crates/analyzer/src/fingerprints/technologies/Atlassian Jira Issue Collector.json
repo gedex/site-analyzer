@@ -1,0 +1,12 @@
+{
+  "cats": [
+    13,
+    47
+  ],
+  "icon": "Atlassian Jira.svg",
+  "scripts": [
+    "jira-issue-collector-plugin",
+    "atlassian\\.jira\\.collector\\.plugin"
+  ],
+  "website": "http://www.atlassian.com/software/jira/overview/"
+}

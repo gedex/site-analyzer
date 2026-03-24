@@ -1,0 +1,14 @@
+{
+  "cats": [
+    6
+  ],
+  "cookies": {
+    "_solusquare": ""
+  },
+  "icon": "Solusquare.png",
+  "implies": "Adobe ColdFusion",
+  "meta": {
+    "generator": "^Solusquare$"
+  },
+  "website": "https://www.solusquare.com"
+}

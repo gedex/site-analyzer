@@ -1,0 +1,12 @@
+{
+  "cats": [
+    64
+  ],
+  "cpe": "cpe:/a:ibm:datapower_gateway",
+  "headers": {
+    "X-Backside-Transport": "",
+    "X-Global-Transaction-ID": ""
+  },
+  "icon": "DataPower.png",
+  "website": "https://www.ibm.com/products/datapower-gateway"
+}

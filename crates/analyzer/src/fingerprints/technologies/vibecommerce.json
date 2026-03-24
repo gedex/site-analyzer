@@ -1,0 +1,13 @@
+{
+  "cats": [
+    6
+  ],
+  "excludes": "PrestaShop",
+  "icon": "vibecommerce.png",
+  "implies": "PHP",
+  "meta": {
+    "designer": "vibecommerce",
+    "generator": "vibecommerce"
+  },
+  "website": "http://vibecommerce.com.br"
+}

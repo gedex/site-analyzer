@@ -1,0 +1,10 @@
+{
+  "cats": [
+    67
+  ],
+  "icon": "seersco.png",
+  "scripts": [
+    "seersco.com/script/cb\\.js"
+  ],
+  "website": "http://www.seersco.com"
+}

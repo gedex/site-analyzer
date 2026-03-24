@@ -1,0 +1,10 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "default.svg",
+  "meta": {
+    "generator": "sotel"
+  },
+  "website": "https://www.soteledu.com/en/"
+}

@@ -1,0 +1,16 @@
+{
+  "cats": [
+    10
+  ],
+  "cookies": {
+    "sensorsdata2015jssdkcross": "",
+    "sensorsdata2015session": ""
+  },
+  "icon": "Sensors Data.svg",
+  "js": {
+    "sa.lib_version": "([\\d.]+)\\;version:\\1",
+    "sensorsdata_app_js_bridge_call_js": ""
+  },
+  "scripts": "sensorsdata",
+  "website": "https://www.sensorsdata.cn"
+}

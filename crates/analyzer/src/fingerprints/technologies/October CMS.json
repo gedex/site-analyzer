@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "october_session": ""
+  },
+  "icon": "October CMS.png",
+  "implies": "Laravel",
+  "meta": {
+    "generator": "OctoberCMS"
+  },
+  "website": "http://octobercms.com"
+}

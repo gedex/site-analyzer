@@ -1,0 +1,11 @@
+{
+  "cats": [
+    2
+  ],
+  "icon": "Burning Board.png",
+  "implies": [
+    "PHP",
+    "Woltlab Community Framework"
+  ],
+  "website": "http://www.woltlab.com"
+}

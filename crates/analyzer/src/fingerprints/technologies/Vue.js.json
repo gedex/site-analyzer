@@ -1,0 +1,16 @@
+{
+  "cats": [
+    12
+  ],
+  "description": "Vue is a progressive framework for building user interfaces.",
+  "html": "<[^>]+\\sdata-v(?:ue)?-",
+  "icon": "vue.svg",
+  "js": {
+    "Vue.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": [
+    "vue[.-]([\\d.]*\\d)[^/]*\\.js\\;version:\\1",
+    "(?:/([\\d.]+))?/vue(?:\\.min)?\\.js\\;version:\\1"
+  ],
+  "website": "https://vuejs.org"
+}

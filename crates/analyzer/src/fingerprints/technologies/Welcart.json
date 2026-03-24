@@ -1,0 +1,20 @@
+{
+  "cats": [
+    6
+  ],
+  "cookies": {
+    "usces_cookie": ""
+  },
+  "cpe": "cpe:/a:welcart:welcart",
+  "html": [
+    "<link[^>]+?href=\"[^\"]+usces_default(?:\\.min)?\\.css",
+    "<!-- Welcart version : v([\\d.]+)\\;version:\\1"
+  ],
+  "icon": "welcart.png",
+  "implies": [
+    "PHP",
+    "WordPress"
+  ],
+  "scripts": "uscesL10n",
+  "website": "https://www.welcart.com"
+}

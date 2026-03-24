@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "spincms_session": ""
+  },
+  "icon": "SpinCMS.png",
+  "implies": "PHP",
+  "website": "http://www.spin.cw"
+}

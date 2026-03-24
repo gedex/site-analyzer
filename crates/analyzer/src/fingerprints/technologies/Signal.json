@@ -1,0 +1,15 @@
+{
+  "cats": [
+    32,
+    42
+  ],
+  "icon": "signal.png",
+  "js": {
+    "signalData": ""
+  },
+  "scripts": [
+    "//s\\.btstatic\\.com/tag\\.js",
+    "//s\\.thebrighttag\\.com/iframe\\?"
+  ],
+  "website": "https://www.signal.co/"
+}

@@ -1,0 +1,9 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<(?:link [^>]*href|img [^>]*src)=\"/polopoly_fs/",
+  "icon": "DM Polopoly.png",
+  "implies": "Java",
+  "website": "http://www.atex.com/products/dm-polopoly"
+}

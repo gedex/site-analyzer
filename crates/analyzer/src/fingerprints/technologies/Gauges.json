@@ -1,0 +1,13 @@
+{
+  "cats": [
+    10
+  ],
+  "cookies": {
+    "_gauges_": ""
+  },
+  "icon": "Gauges.png",
+  "js": {
+    "_gauges": ""
+  },
+  "website": "https://get.gaug.es"
+}

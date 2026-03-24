@@ -1,0 +1,11 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "libwww-perl-daemon(?:/([\\d\\.]+))?\\;version:\\1"
+  },
+  "icon": "libwww-perl-daemon.png",
+  "implies": "Perl",
+  "website": "http://metacpan.org/pod/HTTP::Daemon"
+}

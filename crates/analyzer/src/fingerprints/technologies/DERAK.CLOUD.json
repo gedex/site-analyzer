@@ -1,0 +1,18 @@
+{
+  "cats": [
+    31
+  ],
+  "cookies": {
+    "__derak_auth": "",
+    "__derak_user": ""
+  },
+  "headers": {
+    "Derak-Umbrage": "",
+    "Server": "^DERAK\\.CLOUD$"
+  },
+  "icon": "DerakCloud.png",
+  "js": {
+    "derakCloud.init": ""
+  },
+  "website": "https://derak.cloud"
+}

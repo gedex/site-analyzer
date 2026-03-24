@@ -1,0 +1,11 @@
+{
+  "cats": [
+    3,
+    9
+  ],
+  "icon": "bablic.png",
+  "js": {
+    "bablic": ""
+  },
+  "website": "https://www.bablic.com/"
+}

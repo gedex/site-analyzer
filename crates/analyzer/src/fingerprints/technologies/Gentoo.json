@@ -1,0 +1,11 @@
+{
+  "cats": [
+    28
+  ],
+  "cpe": "cpe:/o:gentoo:linux",
+  "headers": {
+    "X-Powered-By": "gentoo"
+  },
+  "icon": "Gentoo.png",
+  "website": "http://www.gentoo.org"
+}

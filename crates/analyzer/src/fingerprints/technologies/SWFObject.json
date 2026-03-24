@@ -1,0 +1,11 @@
+{
+  "cats": [
+    19
+  ],
+  "icon": "SWFObject.png",
+  "js": {
+    "SWFObject": ""
+  },
+  "scripts": "swfobject.*\\.js",
+  "website": "https://github.com/swfobject/swfobject"
+}

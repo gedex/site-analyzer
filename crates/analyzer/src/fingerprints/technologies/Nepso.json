@@ -1,0 +1,10 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Powered-CMS": "Nepso"
+  },
+  "icon": "nepso.svg",
+  "website": "https://www.nepso.com"
+}

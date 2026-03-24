@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Powered-CMS": "Subrion CMS"
+  },
+  "icon": "Subrion.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "^Subrion "
+  },
+  "website": "http://subrion.com"
+}

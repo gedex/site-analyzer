@@ -1,0 +1,12 @@
+{
+  "cats": [
+    57
+  ],
+  "html": [
+    "<[^>]+id=\"phenomic(?:root)?\""
+  ],
+  "icon": "Phenomic.svg",
+  "implies": "React",
+  "scripts": "/phenomic\\.browser\\.[a-f0-9]+\\.js",
+  "website": "https://phenomic.io/"
+}

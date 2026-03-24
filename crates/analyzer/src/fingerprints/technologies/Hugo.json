@@ -1,0 +1,11 @@
+{
+  "cats": [
+    57
+  ],
+  "html": "powered by <a [^>]*href=\"http://hugo\\.spf13\\.com",
+  "icon": "Hugo.png",
+  "meta": {
+    "generator": "Hugo ([\\d.]+)?\\;version:\\1"
+  },
+  "website": "http://gohugo.io"
+}

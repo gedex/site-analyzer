@@ -1,0 +1,13 @@
+{
+  "cats": [
+    23
+  ],
+  "headers": {
+    "x-powered-by": "^Optimized by WPCacheOn"
+  },
+  "icon": "WPCacheOn.png",
+  "implies": [
+    "WordPress"
+  ],
+  "website": "https://wpcacheon.io"
+}

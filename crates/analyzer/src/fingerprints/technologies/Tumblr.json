@@ -1,0 +1,12 @@
+{
+  "cats": [
+    11
+  ],
+  "headers": {
+    "X-Tumblr-User": ""
+  },
+  "html": "<iframe src=\"[^>]+tumblr\\.com",
+  "icon": "Tumblr.png",
+  "url": "^https?://(?:www\\.)?[^/]+\\.tumblr\\.com/",
+  "website": "http://www.tumblr.com"
+}

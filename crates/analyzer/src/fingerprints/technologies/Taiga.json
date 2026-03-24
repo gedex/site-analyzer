@@ -1,0 +1,14 @@
+{
+  "cats": [
+    13
+  ],
+  "icon": "Taiga.png",
+  "implies": [
+    "Django",
+    "AngularJS"
+  ],
+  "js": {
+    "taigaConfig": ""
+  },
+  "website": "http://taiga.io"
+}

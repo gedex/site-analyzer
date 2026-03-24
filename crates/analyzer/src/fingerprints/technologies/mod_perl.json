@@ -1,0 +1,14 @@
+{
+  "cats": [
+    33
+  ],
+  "headers": {
+    "Server": "mod_perl(?:/([\\d\\.]+))?\\;version:\\1"
+  },
+  "icon": "mod_perl.png",
+  "implies": [
+    "Perl",
+    "Apache"
+  ],
+  "website": "http://perl.apache.org"
+}

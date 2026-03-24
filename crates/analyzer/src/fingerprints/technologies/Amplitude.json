@@ -1,0 +1,10 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "amplitude.png",
+  "scripts": [
+    "cdn\\.amplitude\\.com"
+  ],
+  "website": "https://amplitude.com/"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "MakeShopKorea.png",
+  "js": {
+    "Makeshop": "",
+    "MakeshopLogUniqueId": ""
+  },
+  "website": "https://www.makeshop.co.kr"
+}

@@ -1,0 +1,19 @@
+{
+  "cats": [
+    57,
+    12
+  ],
+  "html": [
+    "<div id=\"___gatsby\">",
+    "<style id=\"gatsby-inlined-css\">"
+  ],
+  "icon": "Gatsby.svg",
+  "implies": [
+    "React",
+    "webpack"
+  ],
+  "meta": {
+    "generator": "^Gatsby(?: ([0-9.]+))?$\\;version:\\1"
+  },
+  "website": "https://www.gatsbyjs.org/"
+}

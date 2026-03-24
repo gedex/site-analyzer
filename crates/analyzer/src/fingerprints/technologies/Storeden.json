@@ -1,0 +1,10 @@
+{
+  "cats": [
+    6
+  ],
+  "headers": {
+    "X-Powered-By": "Storeden"
+  },
+  "icon": "storeden.svg",
+  "website": "https://www.storeden.com"
+}

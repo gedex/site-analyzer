@@ -1,0 +1,11 @@
+{
+  "cats": [
+    33
+  ],
+  "cpe": "cpe:/a:openssl:openssl",
+  "headers": {
+    "Server": "OpenSSL(?:/([\\d.]+[a-z]?))?\\;version:\\1"
+  },
+  "icon": "OpenSSL.png",
+  "website": "http://openssl.org"
+}

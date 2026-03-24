@@ -1,0 +1,13 @@
+{
+  "cats": [
+    1,
+    6
+  ],
+  "html": "<(?:link|style|script)[^>]+/assets/frontOffice/",
+  "icon": "Thelia.png",
+  "implies": [
+    "PHP",
+    "Symfony"
+  ],
+  "website": "http://thelia.net"
+}

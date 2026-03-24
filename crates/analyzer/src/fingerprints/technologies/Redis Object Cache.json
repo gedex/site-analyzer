@@ -1,0 +1,12 @@
+{
+  "cats": [
+    23
+  ],
+  "html": "<!--\\s+Performance optimized by Redis Object Cache",
+  "icon": "RedisObjectCache.svg",
+  "implies": [
+    "Redis",
+    "WordPress"
+  ],
+  "website": "https://wprediscache.com"
+}

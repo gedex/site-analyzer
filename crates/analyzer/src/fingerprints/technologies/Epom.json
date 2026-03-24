@@ -1,0 +1,11 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "Epom.png",
+  "js": {
+    "epomCustomParams": ""
+  },
+  "url": "^https?://(?:[^/]+\\.)?ad(?:op)?shost1\\.com/",
+  "website": "http://epom.com"
+}

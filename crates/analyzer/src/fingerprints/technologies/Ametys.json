@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Ametys.png",
+  "implies": "Java",
+  "meta": {
+    "generator": "(?:Ametys|Anyware Technologies)"
+  },
+  "scripts": "ametys\\.js",
+  "website": "http://ametys.org"
+}

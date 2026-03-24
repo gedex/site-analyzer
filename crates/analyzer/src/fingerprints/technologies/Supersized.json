@@ -1,0 +1,8 @@
+{
+  "cats": [
+    25
+  ],
+  "icon": "Supersized.png",
+  "scripts": "supersized(?:\\.([\\d.]*[\\d]))?.*\\.js\\;version:\\1",
+  "website": "http://buildinternet.com/project/supersized"
+}

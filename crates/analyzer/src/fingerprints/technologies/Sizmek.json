@@ -1,0 +1,9 @@
+{
+  "cats": [
+    36
+  ],
+  "html": "(?:<a [^>]*href=\"[^/]*//[^/]*serving-sys\\.com/|<img [^>]*src=\"[^/]*//[^/]*serving-sys\\.com/)",
+  "icon": "Sizmek.png",
+  "scripts": "serving-sys\\.com/",
+  "website": "http://sizmek.com"
+}

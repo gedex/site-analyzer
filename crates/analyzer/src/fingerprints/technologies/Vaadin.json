@@ -1,0 +1,12 @@
+{
+  "cats": [
+    18
+  ],
+  "icon": "Vaadin.svg",
+  "implies": "Java",
+  "js": {
+    "vaadin": ""
+  },
+  "scripts": "vaadinBootstrap\\.js(?:\\?v=([\\d.]+))?\\;version:\\1",
+  "website": "https://vaadin.com"
+}

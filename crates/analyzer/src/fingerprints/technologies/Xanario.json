@@ -1,0 +1,10 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "Xanario.png",
+  "meta": {
+    "generator": "xanario shopsoftware"
+  },
+  "website": "http://xanario.de"
+}

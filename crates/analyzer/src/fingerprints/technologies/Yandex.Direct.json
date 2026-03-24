@@ -1,0 +1,13 @@
+{
+  "cats": [
+    36
+  ],
+  "html": "<yatag class=\"ya-partner__ads\">",
+  "icon": "Yandex.Direct.png",
+  "js": {
+    "yandex_ad_format": "",
+    "yandex_partner_id": ""
+  },
+  "scripts": "https?://an\\.yandex\\.ru/",
+  "website": "http://partner.yandex.com"
+}

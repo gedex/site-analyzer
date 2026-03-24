@@ -1,0 +1,11 @@
+{
+  "cats": [
+    33
+  ],
+  "headers": {
+    "Server": "mod_auth_pam(?:/([\\d\\.]+))?\\;version:\\1"
+  },
+  "icon": "Apache.svg",
+  "implies": "Apache",
+  "website": "http://pam.sourceforge.net/mod_auth_pam"
+}

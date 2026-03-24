@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "XOOPS.png",
+  "implies": "PHP",
+  "js": {
+    "xoops": ""
+  },
+  "meta": {
+    "generator": "XOOPS"
+  },
+  "website": "http://xoops.org"
+}

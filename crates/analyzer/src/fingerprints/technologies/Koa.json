@@ -1,0 +1,12 @@
+{
+  "cats": [
+    18,
+    22
+  ],
+  "headers": {
+    "X-Powered-By": "^koa$"
+  },
+  "icon": "Koa.png",
+  "implies": "Node.js",
+  "website": "http://koajs.com"
+}

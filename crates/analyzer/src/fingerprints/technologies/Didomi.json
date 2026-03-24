@@ -1,0 +1,8 @@
+{
+  "cats": [
+    67
+  ],
+  "icon": "didomi.png",
+  "scripts": "sdk\\.privacy-center\\.org/.*/loader\\.js",
+  "website": "https://www.didomi.io/en/consent-preference-management"
+}

@@ -1,0 +1,10 @@
+{
+  "cats": [
+    42
+  ],
+  "icon": "Matomo.png",
+  "js": {
+    "window.MatomoTagManager": ""
+  },
+  "website": "https://developer.matomo.org/guides/tagmanager/introduction"
+}

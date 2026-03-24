@@ -1,0 +1,43 @@
+[workspace]
+members = [
+    "crates/analyzer",
+    "crates/cli",
+]
+resolver = "2"
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+authors = ["site-analyzer"]
+license = "MIT"
+
+[workspace.dependencies]
+tokio = { version = "1", features = ["full"] }
+
+# Use 0.12 with all features — requires Rust 1.80+
+reqwest = { version = "0.12", features = ["gzip", "brotli", "deflate", "json", "cookies"] }
+
+scraper = "0.21"
+
+hickory-resolver = { version = "0.24", features = ["tokio-runtime"] }
+
+rustls = "0.23"
+rustls-pki-types = "1"
+webpki-roots = "0.26"
+tokio-rustls = "0.26"
+
+regex = "1"
+once_cell = "1"
+
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+url = "2"
+
+thiserror = "1"
+anyhow = "1"
+
+async-trait = "0.1"
+
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }

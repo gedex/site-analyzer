@@ -1,0 +1,11 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Mint.png",
+  "js": {
+    "Mint": ""
+  },
+  "scripts": "mint/\\?js",
+  "website": "https://haveamint.com"
+}

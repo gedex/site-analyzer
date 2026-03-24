@@ -1,0 +1,8 @@
+{
+  "cats": [
+    5
+  ],
+  "icon": "Google Plus.svg",
+  "scripts": "apis\\.google\\.com/js/[a-z]*\\.js",
+  "website": "http://plus.google.com"
+}

@@ -1,0 +1,10 @@
+{
+  "cats": [
+    25
+  ],
+  "js": {
+    "Shine": ""
+  },
+  "scripts": "shine(?:\\.min)?\\.js",
+  "website": "https://bigspaceship.github.io/shine.js/"
+}

@@ -1,0 +1,12 @@
+{
+  "cats": [
+    41
+  ],
+  "icon": "laterpay.png",
+  "meta": {
+    "laterpay:connector:callbacks:on_user_has_access": "deobfuscateText"
+  },
+  "scripts": "https?://connectormwi\\.laterpay\\.net/([0-9.]+)[a-zA-z-]*/live/[\\w-]+\\.js\\;version:\\1",
+  "description": "Laterpay is a service that simplifies payments on the Internet. In addition to the classic immediate purchase option, Laterpay also allows you to buy digital content such as articles or videos now and pay later.",
+  "website": "https://www.laterpay.net/"
+}

@@ -1,0 +1,18 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "Adcash.svg",
+  "js": {
+    "SuLoaded": "",
+    "SuUrl": "",
+    "ac_bgclick_URL": "",
+    "ct_nOpp": "",
+    "ct_nSuUrl": "",
+    "ct_siteunder": "",
+    "ct_tag": ""
+  },
+  "scripts": "^[^\\/]*//(?:[^\\/]+\\.)?adcash\\.com/(?:script|ad)/",
+  "url": "^https?://(?:[^\\/]+\\.)?adcash\\.com/script/pop_",
+  "website": "http://adcash.com"
+}

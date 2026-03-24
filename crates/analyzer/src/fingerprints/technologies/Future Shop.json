@@ -1,0 +1,8 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "futureshop.png",
+  "scripts": "future-shop.*\\.js",
+  "website": "https://www.future-shop.jp"
+}

@@ -1,0 +1,14 @@
+{
+  "cats": [
+    6
+  ],
+  "headers": {
+    "X-XRDS-Location": "/ystore/"
+  },
+  "html": "<link[^>]+store\\.yahoo\\.net",
+  "icon": "yahoo.png",
+  "js": {
+    "YStore": ""
+  },
+  "website": "http://smallbusiness.yahoo.com/ecommerce"
+}

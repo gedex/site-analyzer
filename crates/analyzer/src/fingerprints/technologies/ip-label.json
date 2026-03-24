@@ -1,0 +1,11 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "iplabel.svg",
+  "js": {
+    "clobs": ""
+  },
+  "scripts": "clobs\\.js",
+  "website": "http://www.ip-label.com"
+}

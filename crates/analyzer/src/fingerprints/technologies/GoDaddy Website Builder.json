@@ -1,0 +1,13 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "dps_site_id": ""
+  },
+  "icon": "godaddy.svg",
+  "meta": {
+    "generator": "Go Daddy Website Builder (.+)\\;version:\\1"
+  },
+  "website": "https://www.godaddy.com/websites/website-builder"
+}

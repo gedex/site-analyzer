@@ -1,0 +1,21 @@
+{
+  "cats": [
+    16
+  ],
+  "html": [
+    "<div[^>]+id=\"recaptcha_image",
+    "<link[^>]+recaptcha",
+    "<div[^>]+class=\"g-recaptcha\""
+  ],
+  "icon": "reCAPTCHA.png",
+  "js": {
+    "Recaptcha": "",
+    "recaptcha": ""
+  },
+  "scripts": [
+    "api-secure\\.recaptcha\\.net",
+    "recaptcha_ajax\\.js",
+    "/recaptcha/api\\.js"
+  ],
+  "website": "https://www.google.com/recaptcha/"
+}

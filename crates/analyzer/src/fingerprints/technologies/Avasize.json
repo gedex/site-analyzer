@@ -1,0 +1,8 @@
+{
+  "cats": [
+    5
+  ],
+  "icon": "Avasize.png",
+  "scripts": "^https?://cdn\\.avasize\\.com/",
+  "website": "https://www.avasize.com"
+}

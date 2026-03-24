@@ -1,0 +1,11 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:oracle:http_server",
+  "headers": {
+    "Server": "Oracle-HTTP-Server(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "Oracle.png",
+  "website": "http://oracle.com"
+}

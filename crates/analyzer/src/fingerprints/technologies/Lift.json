@@ -1,0 +1,12 @@
+{
+  "cats": [
+    18
+  ],
+  "cpe": "cpe:/a:liftweb:lift",
+  "headers": {
+    "X-Lift-Version": "(.+)\\;version:\\1"
+  },
+  "icon": "Lift.png",
+  "implies": "Scala",
+  "website": "http://liftweb.net"
+}

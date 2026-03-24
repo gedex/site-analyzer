@@ -1,0 +1,12 @@
+{
+  "cats": [
+    24
+  ],
+  "html": "<[^>]+class=\"[^\"]*(?:fr-view|fr-box)",
+  "icon": "Froala.svg",
+  "implies": [
+    "jQuery",
+    "Font Awesome"
+  ],
+  "website": "http://froala.com/wysiwyg-editor"
+}

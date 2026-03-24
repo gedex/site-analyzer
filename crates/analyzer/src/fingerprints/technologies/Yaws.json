@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "Yaws(?: ([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "Yaws.png",
+  "website": "http://yaws.hyber.org"
+}

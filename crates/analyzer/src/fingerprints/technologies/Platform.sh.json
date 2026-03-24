@@ -1,0 +1,13 @@
+{
+  "cats": [
+    62
+  ],
+  "headers": {
+    "x-platform-cluster": "",
+    "x-platform-processor": "",
+    "x-platform-router": "",
+    "x-platform-server": ""
+  },
+  "icon": "platformsh.svg",
+  "website": "https://platform.sh"
+}

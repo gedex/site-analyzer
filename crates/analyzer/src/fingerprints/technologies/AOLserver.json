@@ -1,0 +1,11 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:aol:aolserver",
+  "headers": {
+    "Server": "AOLserver/?([\\d.]+)?\\;version:\\1"
+  },
+  "icon": "AOLserver.png",
+  "website": "http://aolserver.com"
+}

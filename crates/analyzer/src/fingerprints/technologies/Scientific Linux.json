@@ -1,0 +1,11 @@
+{
+  "cats": [
+    28
+  ],
+  "headers": {
+    "Server": "Scientific Linux",
+    "X-Powered-By": "Scientific Linux"
+  },
+  "icon": "Scientific Linux.png",
+  "website": "http://scientificlinux.org"
+}

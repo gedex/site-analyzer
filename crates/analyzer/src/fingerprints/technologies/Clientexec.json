@@ -1,0 +1,8 @@
+{
+  "cats": [
+    6
+  ],
+  "html": "clientexec\\.[^>]*\\s?=\\s?[^>]*;",
+  "icon": "Clientexec.png",
+  "website": "http://www.clientexec.com"
+}

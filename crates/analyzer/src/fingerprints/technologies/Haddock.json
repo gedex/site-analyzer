@@ -1,0 +1,8 @@
+{
+  "cats": [
+    4
+  ],
+  "html": "<p>Produced by <a href=\"http://www\\.haskell\\.org/haddock/\">Haddock</a> version ([0-9.]+)</p>\\;version:\\1",
+  "scripts": "haddock-util\\.js",
+  "website": "http://www.haskell.org/haddock/"
+}

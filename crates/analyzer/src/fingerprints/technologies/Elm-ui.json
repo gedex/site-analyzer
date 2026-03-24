@@ -1,0 +1,9 @@
+{
+  "cats": [
+    66
+  ],
+  "html": "<style>[\\s\\S]*\\.explain > \\.s[\\s\\S]*\\.explain > \\.ctr > \\.s",
+  "icon": "elm.svg",
+  "implies": "Elm",
+  "website": "https://github.com/mdgriffith/elm-ui"
+}

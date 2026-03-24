@@ -1,0 +1,11 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:hp:compaqhttpserver",
+  "headers": {
+    "Server": "CompaqHTTPServer\\/?([\\d\\.]+)?\\;version:\\1"
+  },
+  "icon": "HP.svg",
+  "website": "http://www.hp.com"
+}

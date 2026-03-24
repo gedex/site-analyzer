@@ -1,0 +1,8 @@
+{
+  "cats": [
+    34
+  ],
+  "icon": "Solr.png",
+  "implies": "Lucene",
+  "website": "http://lucene.apache.org/solr/"
+}

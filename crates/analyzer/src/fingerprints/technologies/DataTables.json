@@ -1,0 +1,9 @@
+{
+  "cats": [
+    59
+  ],
+  "icon": "DataTables.png",
+  "implies": "jQuery",
+  "scripts": "dataTables.*\\.js",
+  "website": "http://datatables.net"
+}

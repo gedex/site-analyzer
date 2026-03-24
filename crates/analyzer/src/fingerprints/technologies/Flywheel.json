@@ -1,0 +1,15 @@
+{
+  "cats": [
+    62
+  ],
+  "headers": {
+    "x-fw-hash": "",
+    "x-fw-serve": "",
+    "x-fw-server": "^Flywheel(?:/([\\d.]+))?\\;version:\\1",
+    "x-fw-static": "",
+    "x-fw-type": ""
+  },
+  "icon": "flywheel.svg",
+  "implies": "WordPress",
+  "website": "https://getflywheel.com"
+}

@@ -1,0 +1,9 @@
+{
+  "cats": [
+    3
+  ],
+  "html": "(?:<title>SQL Buddy</title>|<[^>]+onclick=\"sideMainClick\\(\"home\\.php)",
+  "icon": "SQL Buddy.png",
+  "implies": "PHP",
+  "website": "http://www.sqlbuddy.com"
+}

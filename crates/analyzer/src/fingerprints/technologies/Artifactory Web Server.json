@@ -1,0 +1,12 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:jfrog:artifactory",
+  "headers": {
+    "Server": "Artifactory(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "Artifactory.svg",
+  "implies": "Artifactory",
+  "website": "http://jfrog.com/open-source/#os-arti"
+}

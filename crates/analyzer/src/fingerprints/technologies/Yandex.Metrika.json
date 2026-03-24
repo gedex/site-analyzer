@@ -1,0 +1,14 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Yandex.Metrika.png",
+  "js": {
+    "yandex_metrika": ""
+  },
+  "scripts": [
+    "mc\\.yandex\\.ru\\/metrika\\/watch\\.js",
+    "cdn\\.jsdelivr\\.net\\/npm\\/yandex-metrica-watch\\/watch\\.js"
+  ],
+  "website": "http://metrika.yandex.com"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    27
+  ],
+  "cpe": "cpe:/a:perl:perl",
+  "headers": {
+    "Server": "\\bPerl\\b(?: ?/?v?([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "Perl.png",
+  "website": "http://perl.org"
+}

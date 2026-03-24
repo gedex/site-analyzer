@@ -1,0 +1,10 @@
+{
+  "cats": [
+    18
+  ],
+  "html": "<!-- ZK [.\\d\\s]+-->",
+  "icon": "ZK.png",
+  "implies": "Java",
+  "scripts": "zkau/",
+  "website": "http://zkoss.org"
+}

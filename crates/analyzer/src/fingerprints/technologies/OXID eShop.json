@@ -1,0 +1,15 @@
+{
+  "cats": [
+    6
+  ],
+  "html": "<!--[^-]*OXID eShop",
+  "icon": "OXID eShop.png",
+  "js": {
+    "oxCookieNote": "",
+    "oxInputValidator": "",
+    "oxLoginBox": "",
+    "oxModalPopup": "",
+    "oxTopMenu": ""
+  },
+  "website": "https://en.oxid-esales.com/en/home.html"
+}

@@ -1,0 +1,13 @@
+{
+  "cats": [
+    6
+  ],
+  "html": "(?:<link[^>]* href=\"templates/gambio/|<a[^>]content\\.php\\?coID=\\d|<!-- gambio eof -->|<!--[\\s=]+Shopsoftware by Gambio GmbH \\(c\\))",
+  "icon": "Gambio.png",
+  "implies": "PHP",
+  "js": {
+    "gambio": ""
+  },
+  "scripts": "gm_javascript\\.js\\.php",
+  "website": "http://gambio.de"
+}

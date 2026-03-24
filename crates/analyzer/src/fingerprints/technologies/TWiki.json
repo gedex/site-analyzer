@@ -1,0 +1,13 @@
+{
+  "cats": [
+    8
+  ],
+  "cookies": {
+    "TWIKISID": ""
+  },
+  "html": "<img [^>]*(?:title|alt)=\"This site is powered by the TWiki collaboration platform",
+  "icon": "TWiki.png",
+  "implies": "Perl",
+  "scripts": "(?:TWikiJavascripts|twikilib(?:\\.min)?\\.js)",
+  "website": "http://twiki.org"
+}

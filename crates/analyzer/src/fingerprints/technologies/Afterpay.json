@@ -1,0 +1,13 @@
+{
+  "cats": [
+    41
+  ],
+  "cpe": "cpe:/a:afterpay:afterpay",
+  "icon": "afterpay.png",
+  "scripts": [
+    "portal\\.afterpay\\.com",
+    "static\\.afterpay\\.com"
+  ],
+  "description": "Afterpay is a 'buy now, pay later' platform that makes it possible to pay off purchased goods in fortnightly instalments.",
+  "website": "https://www.afterpay.com/"
+}

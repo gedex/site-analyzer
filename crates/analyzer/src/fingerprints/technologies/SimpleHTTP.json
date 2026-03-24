@@ -1,0 +1,9 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "SimpleHTTP(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "website": "http://example.com"
+}

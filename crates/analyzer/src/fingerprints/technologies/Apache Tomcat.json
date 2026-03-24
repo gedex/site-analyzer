@@ -1,0 +1,13 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:apache:tomcat",
+  "headers": {
+    "Server": "^Apache-Coyote(?:/([\\d.]+))?\\;version:\\1",
+    "X-Powered-By": "\\bTomcat\\b(?:-([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "Apache Tomcat.svg",
+  "implies": "Java",
+  "website": "http://tomcat.apache.org"
+}

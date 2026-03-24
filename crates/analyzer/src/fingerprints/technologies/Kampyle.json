@@ -1,0 +1,17 @@
+{
+  "cats": [
+    10,
+    13
+  ],
+  "cookies": {
+    "k_visit": ""
+  },
+  "icon": "Kampyle.png",
+  "js": {
+    "KAMPYLE_COMMON": "",
+    "k_track": "",
+    "kampyle": ""
+  },
+  "scripts": "cf\\.kampyle\\.com/k_button\\.js",
+  "website": "http://www.kampyle.com"
+}

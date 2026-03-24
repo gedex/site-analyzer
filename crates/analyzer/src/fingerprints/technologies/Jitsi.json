@@ -1,0 +1,8 @@
+{
+  "cats": [
+    52
+  ],
+  "icon": "Jitsi.png",
+  "scripts": "lib-jitsi-meet.*\\.js",
+  "website": "https://jitsi.org"
+}

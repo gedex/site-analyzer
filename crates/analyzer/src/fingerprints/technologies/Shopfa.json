@@ -1,0 +1,16 @@
+{
+  "cats": [
+    6
+  ],
+  "headers": {
+    "X-Powered-By": "^ShopFA ([\\d.]+)$\\;version:\\1"
+  },
+  "icon": "Shopfa.svg",
+  "js": {
+    "shopfa": ""
+  },
+  "meta": {
+    "generator": "^ShopFA ([\\d.]+)$\\;version:\\1"
+  },
+  "website": "https://shopfa.com"
+}

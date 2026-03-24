@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "SIMsite.png",
+  "meta": {
+    "SIM.medium": ""
+  },
+  "scripts": "/sim(?:site|core)/js",
+  "website": "http://simgroep.nl/internet/portfolio-contentbeheer_41623/"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    18
+  ],
+  "headers": {
+    "X-Powered-By": "ThinkPHP"
+  },
+  "icon": "ThinkPHP.png",
+  "implies": "PHP",
+  "website": "http://www.thinkphp.cn"
+}

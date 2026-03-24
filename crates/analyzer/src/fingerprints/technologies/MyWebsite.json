@@ -1,0 +1,15 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Ionos-by-1and1-logo.svg",
+  "js": {
+    "SystemID": "^.*1AND1.*$",
+    "version": "^(.*)$\\;version:\\1\\;confidence:0"
+  },
+  "meta": {
+    "generator": "^.*MyWebsite.*$\\;version:8"
+  },
+  "scripts": "\\/\\/integration\\.mywebsite-editor\\.com.*\\.js\\;version:9",
+  "website": "https://www.ionos.com"
+}

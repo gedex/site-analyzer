@@ -1,0 +1,9 @@
+{
+  "cats": [
+    12
+  ],
+  "js": {
+    "Zone.root": ""
+  },
+  "website": "https://github.com/angular/angular/tree/master/packages/zone.js"
+}

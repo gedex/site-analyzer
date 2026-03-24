@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:cmsimple:cmsimple",
+  "implies": "PHP",
+  "meta": {
+    "generator": "CMSimple( [\\d.]+)?\\;version:\\1"
+  },
+  "website": "http://www.cmsimple.org/en"
+}

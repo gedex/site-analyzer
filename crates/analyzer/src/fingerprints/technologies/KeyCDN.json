@@ -1,0 +1,10 @@
+{
+  "cats": [
+    31
+  ],
+  "headers": {
+    "Server": "^keycdn-engine$"
+  },
+  "icon": "KeyCDN.png",
+  "website": "http://www.keycdn.com"
+}

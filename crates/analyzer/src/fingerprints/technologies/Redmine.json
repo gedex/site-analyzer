@@ -1,0 +1,16 @@
+{
+  "cats": [
+    13
+  ],
+  "cookies": {
+    "_redmine_session": ""
+  },
+  "cpe": "cpe:/a:redmine:redmine",
+  "html": "Powered by <a href=\"[^>]+Redmine",
+  "icon": "Redmine.png",
+  "implies": "Ruby on Rails",
+  "meta": {
+    "description": "Redmine"
+  },
+  "website": "http://www.redmine.org"
+}

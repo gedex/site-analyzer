@@ -1,0 +1,14 @@
+{
+  "cats": [
+    62
+  ],
+  "headers": {
+    "Via": "[\\d.-]+ vegur$"
+  },
+  "icon": "heroku.svg",
+  "implies": [
+    "Amazon Web Services"
+  ],
+  "url": "\\.herokuapp\\.com",
+  "website": "https://www.heroku.com/"
+}

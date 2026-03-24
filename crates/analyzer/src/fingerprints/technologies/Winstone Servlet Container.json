@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "Winstone Servlet (?:Container|Engine) v?([\\d.]+)?\\;version:\\1",
+    "X-Powered-By": "Winstone(?:\\/([\\d.]+))?\\;version:\\1"
+  },
+  "website": "http://winstone.sourceforge.net"
+}

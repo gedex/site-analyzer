@@ -1,0 +1,9 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<[^>]+(?:https?:)?//(?:assets|downloads|images|videos)\\.(?:ct?fassets\\.net|contentful\\.com)",
+  "icon": "Contentful.svg",
+  "description": "Contentful is an API-first content management platform to create, manage and publish content on any digital channel.",
+  "website": "http://www.contentful.com"
+}

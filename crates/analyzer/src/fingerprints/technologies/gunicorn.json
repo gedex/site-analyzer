@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "gunicorn(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "gunicorn.png",
+  "website": "http://gunicorn.org"
+}

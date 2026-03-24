@@ -1,0 +1,22 @@
+{
+  "cats": [
+    10
+  ],
+  "cookies": {
+    "PIWIK_SESSID": ""
+  },
+  "cpe": "cpe:/a:matomo:matomo",
+  "icon": "Matomo.png",
+  "js": {
+    "Matomo": "",
+    "Piwik": "",
+    "_paq": ""
+  },
+  "meta": {
+    "apple-itunes-app": "app-id=737216887",
+    "generator": "(?:Matomo|Piwik) - Open Source Web Analytics",
+    "google-play-app": "app-id=org\\.piwik\\.mobile2"
+  },
+  "scripts": "piwik\\.js|piwik\\.php",
+  "website": "https://matomo.org"
+}

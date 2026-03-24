@@ -1,0 +1,15 @@
+{
+  "cats": [
+    18
+  ],
+  "excludes": [
+    "Angular",
+    "AngularJS"
+  ],
+  "icon": "AngularDart.svg",
+  "implies": "Dart",
+  "js": {
+    "ngTestabilityRegistries": ""
+  },
+  "website": "https://webdev.dartlang.org/angular/"
+}

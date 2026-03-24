@@ -1,0 +1,11 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "yahoo.png",
+  "js": {
+    "YWA": ""
+  },
+  "scripts": "d\\.yimg\\.com/mi/ywa\\.js",
+  "website": "http://web.analytics.yahoo.com"
+}

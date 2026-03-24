@@ -1,0 +1,9 @@
+{
+  "cats": [
+    41
+  ],
+  "icon": "visa.png",
+  "scripts": "secure\\.checkout\\.visa\\.com",
+  "description": "Visa facilitates electronic funds transfers throughout the world, most commonly through Visa-branded credit cards, debit cards and prepaid cards.",
+  "website": "https://checkout.visa.com"
+}

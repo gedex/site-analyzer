@@ -1,0 +1,8 @@
+{
+  "cats": [
+    56
+  ],
+  "html": "<iframe[^>]+src=[\\'\"]https://webmine\\.cz/miner\\?key=",
+  "icon": "webmine.png",
+  "website": "https://webmine.cz/"
+}

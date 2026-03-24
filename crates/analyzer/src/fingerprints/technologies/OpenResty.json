@@ -1,0 +1,14 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "openresty(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "OpenResty.png",
+  "implies": [
+    "Nginx",
+    "Lua"
+  ],
+  "website": "http://openresty.org"
+}

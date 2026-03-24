@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "^Cowboy$"
+  },
+  "icon": "Cowboy.png",
+  "website": "http://ninenines.eu"
+}

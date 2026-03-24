@@ -1,0 +1,15 @@
+{
+  "cats": [
+    42
+  ],
+  "html": [
+    "googletagmanager\\.com/ns\\.html[^>]+></iframe>",
+    "<!-- (?:End )?Google Tag Manager -->"
+  ],
+  "icon": "Google Tag Manager.png",
+  "js": {
+    "google_tag_manager": "",
+    "googletag": ""
+  },
+  "website": "http://www.google.com/tagmanager"
+}

@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1,
+    6
+  ],
+  "icon": "hinza_advanced_cms.svg",
+  "implies": "Laravel",
+  "meta": {
+    "generator": "hinzacms"
+  },
+  "website": "http://hinzaco.com"
+}

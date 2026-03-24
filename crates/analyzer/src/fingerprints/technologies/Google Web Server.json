@@ -1,0 +1,11 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:google:web_server",
+  "headers": {
+    "Server": "gws"
+  },
+  "icon": "Google.svg",
+  "website": "http://en.wikipedia.org/wiki/Google_Web_Server"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    19
+  ],
+  "html": [
+    "<link[^>]* href=[\\'\"][^']+revslider[/\\w-]+\\.css\\?ver=([0-9.]+)[\\'\"]\\;version:\\1"
+  ],
+  "icon": "revslider.png",
+  "scripts": "/revslider/[/\\w-]+/js",
+  "website": "https://revolution.themepunch.com/"
+}

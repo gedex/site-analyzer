@@ -1,0 +1,15 @@
+{
+  "cats": [
+    1,
+    2,
+    8,
+    11,
+    13
+  ],
+  "icon": "Tiki Wiki CMS Groupware.png",
+  "meta": {
+    "generator": "^Tiki"
+  },
+  "scripts": "(?:/|_)tiki",
+  "website": "http://tiki.org"
+}

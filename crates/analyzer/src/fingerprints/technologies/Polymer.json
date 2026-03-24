@@ -1,0 +1,12 @@
+{
+  "cats": [
+    12
+  ],
+  "html": "(?:<polymer-[^>]+|<link[^>]+rel=\"import\"[^>]+/polymer\\.html\")",
+  "icon": "Polymer.png",
+  "js": {
+    "Polymer.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "polymer\\.js",
+  "website": "http://polymer-project.org"
+}

@@ -1,0 +1,9 @@
+{
+  "cats": [
+    19
+  ],
+  "html": "(?:<!-- start of Sigsiu Online Business Index|<div[^>]* class=\"sobi2)",
+  "icon": "SOBI 2.png",
+  "implies": "Joomla",
+  "website": "http://www.sigsiu.net/sobi2.html"
+}

@@ -1,0 +1,8 @@
+{
+  "cats": [
+    52
+  ],
+  "icon": "freshchat.png",
+  "scripts": "wchat\\.freshchat\\.com/js/widget\\.js",
+  "website": "https://www.freshworks.com/live-chat-software/"
+}

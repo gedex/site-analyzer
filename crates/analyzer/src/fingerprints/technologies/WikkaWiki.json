@@ -1,0 +1,11 @@
+{
+  "cats": [
+    8
+  ],
+  "html": "Powered by <a href=\"[^>]+WikkaWiki",
+  "icon": "WikkaWiki.png",
+  "meta": {
+    "generator": "WikkaWiki"
+  },
+  "website": "http://wikkawiki.org"
+}

@@ -1,0 +1,21 @@
+{
+  "cats": [
+    2
+  ],
+  "cookies": {
+    "bblastactivity": "",
+    "bblastvisit": "",
+    "bbsessionhash": ""
+  },
+  "cpe": "cpe:/a:vbulletin:vbulletin",
+  "html": "<div id=\"copyright\">Powered by vBulletin",
+  "icon": "vBulletin.png",
+  "implies": "PHP",
+  "js": {
+    "vBulletin": ""
+  },
+  "meta": {
+    "generator": "vBulletin ?([\\d.]+)?\\;version:\\1"
+  },
+  "website": "https://www.vbulletin.com"
+}

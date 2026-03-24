@@ -1,0 +1,18 @@
+{
+  "cats": [
+    6
+  ],
+  "cookies": {
+    "swell-session": ""
+  },
+  "html": [
+    "<[^>]*swell\\.is",
+    "<[^>]*swell\\.store",
+    "<[^>]*schema\\.io"
+  ],
+  "icon": "Swell.svg",
+  "js": {
+    "swell.version": "^(.+)$\\;version:\\1"
+  },
+  "website": "https://www.swell.is/"
+}

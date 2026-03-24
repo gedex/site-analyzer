@@ -1,0 +1,11 @@
+{
+  "cats": [
+    6
+  ],
+  "html": "<link[^>]+=['\"]//cdn\\.mycomandia\\.com",
+  "icon": "Comandia.svg",
+  "js": {
+    "Comandia": ""
+  },
+  "website": "http://comandia.com"
+}

@@ -1,0 +1,27 @@
+{
+  "cats": [
+    1,
+    6,
+    11,
+    32
+  ],
+  "cpe": "cpe:/a:melisplatform:melisplatform",
+  "html": [
+    "<!-- Rendered with Melis CMS V2",
+    "<!-- Rendered with Melis Platform"
+  ],
+  "icon": "melis-platform.svg",
+  "implies": [
+    "Apache",
+    "PHP",
+    "MySQL",
+    "Symfony",
+    "Laravel",
+    "Zend"
+  ],
+  "meta": {
+    "generator": "^Melis Platform\\.",
+    "powered-by": "^Melis CMS\\."
+  },
+  "website": "https://www.melistechnology.com/"
+}

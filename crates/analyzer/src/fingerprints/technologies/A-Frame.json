@@ -1,0 +1,13 @@
+{
+  "cats": [
+    25
+  ],
+  "html": "<a-scene[^<>]*>",
+  "icon": "A-Frame.svg",
+  "implies": "three.js",
+  "js": {
+    "AFRAME.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "/?([\\d.]+)?/aframe(?:\\.min)?\\.js\\;version:\\1",
+  "website": "https://aframe.io"
+}

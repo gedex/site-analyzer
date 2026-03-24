@@ -1,0 +1,8 @@
+{
+  "cats": [
+    12
+  ],
+  "html": "<[^>]+class=\\\"[^\\\"]+\\ssvelte-[\\w]*\\\"",
+  "icon": "Svelte.svg",
+  "website": "https://svelte.dev"
+}

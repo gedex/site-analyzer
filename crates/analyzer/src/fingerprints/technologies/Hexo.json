@@ -1,0 +1,13 @@
+{
+  "cats": [
+    57
+  ],
+  "html": [
+    "Powered by <a href=\"https?://hexo\\.io/?\"[^>]*>Hexo</"
+  ],
+  "icon": "Hexo.png",
+  "meta": {
+    "generator": "Hexo(?: v?([\\d.]+))?\\;version:\\1"
+  },
+  "website": "https://hexo.io"
+}

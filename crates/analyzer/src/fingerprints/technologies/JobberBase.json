@@ -1,0 +1,14 @@
+{
+  "cats": [
+    19
+  ],
+  "icon": "JobberBase.png",
+  "implies": "PHP",
+  "js": {
+    "Jobber": ""
+  },
+  "meta": {
+    "generator": "Jobberbase"
+  },
+  "website": "http://www.jobberbase.com"
+}

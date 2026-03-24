@@ -1,0 +1,16 @@
+{
+  "cats": [
+    27
+  ],
+  "cookies": {
+    "PHPSESSID": ""
+  },
+  "cpe": "cpe:/a:php:php",
+  "headers": {
+    "Server": "php/?([\\d.]+)?\\;version:\\1",
+    "X-Powered-By": "^php/?([\\d.]+)?\\;version:\\1"
+  },
+  "icon": "PHP.svg",
+  "url": "\\.php(?:$|\\?)",
+  "website": "http://php.net"
+}

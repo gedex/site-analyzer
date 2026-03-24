@@ -1,0 +1,11 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "Titan.png",
+  "js": {
+    "titan": "",
+    "titanEnabled": ""
+  },
+  "website": "http://titan360.com"
+}

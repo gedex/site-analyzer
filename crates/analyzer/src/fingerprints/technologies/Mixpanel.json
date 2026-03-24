@@ -1,0 +1,11 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Mixpanel.png",
+  "js": {
+    "mixpanel": ""
+  },
+  "scripts": "api\\.mixpanel\\.com/track",
+  "website": "https://mixpanel.com"
+}

@@ -1,0 +1,21 @@
+{
+  "cats": [
+    6
+  ],
+  "headers": {
+    "content-disposition": "filename=(?:mvga\\.js|MivaEvents\\.js)"
+  },
+  "icon": "miva.png",
+  "js": {
+    "MivaVM_API": "",
+    "MivaVM_Version": "^(.+)$\\;version:\\1",
+    "mivaJS": "",
+    "mivaJS.Page": "",
+    "mivaJS.Product_Code": "",
+    "mivaJS.Product_ID": "",
+    "mivaJS.Screen": "",
+    "mivaJS.Store_Code": ""
+  },
+  "scripts": "mvga\\.js",
+  "website": "http://www.miva.com"
+}

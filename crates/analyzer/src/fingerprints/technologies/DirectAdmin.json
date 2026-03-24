@@ -1,0 +1,16 @@
+{
+  "cats": [
+    9
+  ],
+  "cpe": "cpe:/a:directadmin:directadmin",
+  "headers": {
+    "Server": "DirectAdmin Daemon v([\\d.]+)\\;version:\\1"
+  },
+  "html": "<a[^>]+>DirectAdmin</a> Web Control Panel",
+  "icon": "DirectAdmin.png",
+  "implies": [
+    "PHP",
+    "Apache"
+  ],
+  "website": "https://www.directadmin.com"
+}

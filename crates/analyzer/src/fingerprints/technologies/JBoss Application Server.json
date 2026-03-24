@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "X-Powered-By": "JBoss(?:-([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "JBoss Application Server.png",
+  "website": "http://jboss.org/jbossas.html"
+}

@@ -1,0 +1,10 @@
+{
+  "cats": [
+    69
+  ],
+  "icon": "Facebook.svg",
+  "js": {
+    "FB.getLoginStatus": ""
+  },
+  "website": "https://developers.facebook.com/docs/facebook-login/"
+}

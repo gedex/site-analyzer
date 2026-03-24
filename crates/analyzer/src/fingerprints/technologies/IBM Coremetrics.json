@@ -1,0 +1,8 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "IBM.svg",
+  "scripts": "cmdatatagutils\\.js",
+  "website": "http://ibm.com/software/marketing-solutions/coremetrics"
+}

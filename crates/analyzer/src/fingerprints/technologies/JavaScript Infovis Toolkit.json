@@ -1,0 +1,12 @@
+{
+  "cats": [
+    25
+  ],
+  "icon": "JavaScript Infovis Toolkit.png",
+  "js": {
+    "$jit": "",
+    "$jit.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "jit(?:-yc)?\\.js",
+  "website": "https://philogb.github.io/jit/"
+}

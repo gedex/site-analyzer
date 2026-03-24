@@ -1,0 +1,18 @@
+{
+  "cats": [
+    18
+  ],
+  "headers": {
+    "X-Powered-By": "web2py"
+  },
+  "icon": "Web2py.png",
+  "implies": [
+    "Python",
+    "jQuery"
+  ],
+  "meta": {
+    "generator": "^Web2py"
+  },
+  "scripts": "web2py\\.js",
+  "website": "http://web2py.com"
+}

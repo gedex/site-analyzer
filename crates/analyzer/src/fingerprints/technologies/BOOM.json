@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Supplied-By": "MANA"
+  },
+  "icon": "boom.svg",
+  "implies": "WordPress",
+  "meta": {
+    "generator": "^boom site builder$"
+  },
+  "website": "http://manaandisheh.com"
+}

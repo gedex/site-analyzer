@@ -1,0 +1,10 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "Fastcommerce.png",
+  "meta": {
+    "generator": "^Fastcommerce"
+  },
+  "website": "https://www.fastcommerce.com.br"
+}

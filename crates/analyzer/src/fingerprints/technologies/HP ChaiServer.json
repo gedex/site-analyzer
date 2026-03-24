@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "HP-Chai(?:Server|SOE)(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "HP.svg",
+  "website": "http://hp.com"
+}

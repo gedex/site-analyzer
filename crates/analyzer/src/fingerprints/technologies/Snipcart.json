@@ -1,0 +1,15 @@
+{
+  "cats": [
+    6
+  ],
+  "cookies": {
+    "snipcart-cart": ""
+  },
+  "html": [
+    "<link [^>]*href=\".*snipcart\\.css\"",
+    "<div [^>]*id=\".*snipcart.*\""
+  ],
+  "icon": "Snipcart.png",
+  "scripts": "https://cdn\\.snipcart\\.com/themes/v([\\w.]+)/default/snipcart\\.js\\;version:\\1",
+  "website": "https://snipcart.com/"
+}

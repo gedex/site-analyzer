@@ -1,0 +1,13 @@
+{
+  "cats": [
+    30
+  ],
+  "html": "<small>SquirrelMail version ([.\\d]+)[^<]*<br \\;version:\\1",
+  "icon": "SquirrelMail.png",
+  "implies": "PHP",
+  "js": {
+    "squirrelmail_loginpage_onload": ""
+  },
+  "url": "/src/webmail\\.php(?:$|\\?)",
+  "website": "http://squirrelmail.org"
+}

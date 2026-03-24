@@ -1,0 +1,17 @@
+{
+  "cats": [
+    19
+  ],
+  "html": "<\\/div>\\s*<!-- outerContainer -->\\s*<div\\s*id=\"printContainer\"><\\/div>",
+  "icon": "PDF.js.svg",
+  "js": {
+    "PDFJS": "",
+    "PDFJS.version": "^(.+)$\\;version:\\1",
+    "_pdfjsCompatibilityChecked": "",
+    "pdfjs-dist/build/pdf.version": "^(.+)$\\;version:\\1",
+    "pdfjsDistBuildPdf.version": "^(.+)$\\;version:\\1",
+    "pdfjsLib.version": "^(.+)$\\;version:\\1"
+  },
+  "url": "/web/viewer\\.html?file=[^&]\\.pdf",
+  "website": "https://mozilla.github.io/pdf.js/"
+}

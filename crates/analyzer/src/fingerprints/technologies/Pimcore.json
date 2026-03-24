@@ -1,0 +1,13 @@
+{
+  "cats": [
+    1,
+    6
+  ],
+  "cpe": "cpe:/a:pimcore:pimcore",
+  "headers": {
+    "X-Powered-By": "^pimcore$"
+  },
+  "icon": "pimcore.svg",
+  "implies": "PHP",
+  "website": "http://pimcore.org"
+}

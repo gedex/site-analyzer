@@ -1,0 +1,15 @@
+{
+  "cats": [
+    18
+  ],
+  "cookies": {
+    "kohanasession": ""
+  },
+  "cpe": "cpe:/a:kohanaframework:kohana",
+  "headers": {
+    "X-Powered-By": "Kohana Framework ([\\d.]+)\\;version:\\1"
+  },
+  "icon": "Kohana.png",
+  "implies": "PHP",
+  "website": "http://kohanaframework.org"
+}

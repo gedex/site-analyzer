@@ -1,0 +1,8 @@
+{
+  "cats": [
+    59
+  ],
+  "implies": "Google Analytics",
+  "scripts": "boba(?:\\.min)?\\.js",
+  "website": "http://boba.space150.com"
+}

@@ -1,0 +1,12 @@
+{
+  "cats": [
+    36
+  ],
+  "html": "(?:<embed[^>]+(?:src=\"https?://mh\\d?\\.adriver\\.ru/|flashvars=\"[^\"]*(?:http:%3A//(?:ad|mh\\d?)\\.adriver\\.ru/|adriver_banner))|<(?:(?:iframe|img)[^>]+src|a[^>]+href)=\"https?://ad\\.adriver\\.ru/)",
+  "icon": "AdRiver.png",
+  "js": {
+    "adriver": ""
+  },
+  "scripts": "(?:adriver\\.core\\.\\d\\.js|https?://(?:content|ad|masterh\\d)\\.adriver\\.ru/)",
+  "website": "http://adriver.ru"
+}

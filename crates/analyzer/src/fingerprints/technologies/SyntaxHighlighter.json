@@ -1,0 +1,11 @@
+{
+  "cats": [
+    19
+  ],
+  "html": "<(?:script|link)[^>]*sh(?:Core|Brush|ThemeDefault)",
+  "icon": "SyntaxHighlighter.png",
+  "js": {
+    "SyntaxHighlighter": ""
+  },
+  "website": "https://github.com/syntaxhighlighter"
+}

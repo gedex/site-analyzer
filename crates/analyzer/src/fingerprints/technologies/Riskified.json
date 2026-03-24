@@ -1,0 +1,18 @@
+{
+  "cats": [
+    6
+  ],
+  "headers": {
+    "server": "Riskified Server"
+  },
+  "html": [
+    "<[^>]*beacon\\.riskified\\.com",
+    "<[^>]*c\\.riskified\\.com"
+  ],
+  "icon": "riskified.png",
+  "js": {
+    "RISKX": "",
+    "riskifiedBeaconLoad": ""
+  },
+  "website": "https://www.riskified.com/"
+}

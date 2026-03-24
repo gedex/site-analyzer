@@ -1,0 +1,11 @@
+{
+  "cats": [
+    35
+  ],
+  "icon": "Google Maps.png",
+  "scripts": [
+    "(?:maps\\.google\\.com/maps\\?file=api(?:&v=([\\d.]+))?|maps\\.google\\.com/maps/api/staticmap)\\;version:API v\\1",
+    "//maps\\.googleapis\\.com/maps/api/js"
+  ],
+  "website": "http://maps.google.com"
+}

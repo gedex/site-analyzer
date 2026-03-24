@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "SC_ANALYTICS_GLOBAL_COOKIE": ""
+  },
+  "html": "<img[^>]+src=\"[^>]*/~/media/[^>]+\\.ashx",
+  "icon": "Sitecore.png",
+  "website": "http://sitecore.net"
+}

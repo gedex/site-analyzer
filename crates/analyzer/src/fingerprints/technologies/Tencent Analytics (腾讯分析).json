@@ -1,0 +1,8 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "tajs.png",
+  "scripts": "tajs\\.qq\\.com/stats",
+  "website": "https://ta.qq.com/"
+}

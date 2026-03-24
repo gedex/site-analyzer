@@ -1,0 +1,15 @@
+{
+  "cats": [
+    59
+  ],
+  "cpe": "cpe:/a:lodash:lodash",
+  "excludes": "Underscore.js",
+  "icon": "Lo-dash.png",
+  "js": {
+    "_.VERSION": "^(.+)$\\;confidence:0\\;version:\\1",
+    "_.differenceBy": "",
+    "_.templateSettings.imports._.templateSettings.imports._.VERSION": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "lodash.*\\.js",
+  "website": "http://www.lodash.com"
+}

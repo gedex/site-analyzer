@@ -1,0 +1,19 @@
+{
+  "cats": [
+    41
+  ],
+  "cpe": "cpe:/a:paypal:paypal",
+  "html": [
+    "<input[^>]+_s-xclick",
+    "<img [^>]*src=\"[^/]*//[^/]*paypal\\.com",
+    "<img [^>]*src=\"[^/]*//[^/]*paypalobjects\\.com"
+  ],
+  "icon": "PayPal.svg",
+  "js": {
+    "PAYPAL": ""
+  },
+  "scripts": "paypalobjects\\.com",
+  "url": "paypal\\.com",
+  "description": "PayPal is an online payments system that supports online money transfers and serves as an electronic alternative to traditional paper methods like checks and money orders.",
+  "website": "https://paypal.com"
+}

@@ -1,0 +1,10 @@
+{
+  "cats": [
+    52
+  ],
+  "icon": "LiveAgent.png",
+  "js": {
+    "LiveAgent": ""
+  },
+  "website": "https://www.ladesk.com"
+}

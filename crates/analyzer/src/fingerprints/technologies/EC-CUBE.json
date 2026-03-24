@@ -1,0 +1,13 @@
+{
+  "cats": [
+    6
+  ],
+  "cpe": "cpe:/a:lockon:ec-cube",
+  "icon": "ec-cube.png",
+  "implies": "PHP",
+  "scripts": [
+    "eccube\\.js",
+    "win_op\\.js"
+  ],
+  "website": "http://www.ec-cube.net"
+}

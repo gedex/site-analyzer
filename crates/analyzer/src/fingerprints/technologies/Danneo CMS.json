@@ -1,0 +1,17 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Powered-By": "CMS Danneo ([\\d.]+)\\;version:\\1"
+  },
+  "icon": "Danneo CMS.png",
+  "implies": [
+    "Apache",
+    "PHP"
+  ],
+  "meta": {
+    "generator": "Danneo CMS ([\\d.]+)\\;version:\\1"
+  },
+  "website": "http://danneo.com"
+}

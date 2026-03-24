@@ -1,0 +1,20 @@
+{
+  "cats": [
+    32
+  ],
+  "cpe": "cpe:/a:thinkshout:mailchimp",
+  "html": [
+    "<form [^>]*data-mailchimp-url",
+    "<form [^>]*id=\"mc-embedded-subscribe-form\"",
+    "<form [^>]*name=\"mc-embedded-subscribe-form\"",
+    "<input [^>]*id=\"mc-email\"\\;confidence:20",
+    "<!-- Begin MailChimp Signup Form -->"
+  ],
+  "icon": "mailchimp.svg",
+  "scripts": [
+    "s3\\.amazonaws\\.com/downloads\\.mailchimp\\.com/js/mc-validate\\.js",
+    "cdn-images\\.mailchimp\\.com/[^>]*\\.css"
+  ],
+  "description": "Mailchimp is a marketing automation platform and email marketing service.",
+  "website": "http://mailchimp.com"
+}

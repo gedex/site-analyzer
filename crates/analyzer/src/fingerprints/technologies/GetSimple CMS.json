@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:get-simple:getsimple_cms",
+  "icon": "GetSimple CMS.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "GetSimple"
+  },
+  "website": "http://get-simple.info"
+}

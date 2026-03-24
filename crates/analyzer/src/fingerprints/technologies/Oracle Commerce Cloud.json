@@ -1,0 +1,11 @@
+{
+  "cats": [
+    6
+  ],
+  "headers": {
+    "OracleCommerceCloud-Version": "^(.+)$\\;version:\\1"
+  },
+  "html": "<[^>]+id=\"oracle-cc\"",
+  "icon": "Oracle.png",
+  "website": "http://cloud.oracle.com/commerce-cloud"
+}

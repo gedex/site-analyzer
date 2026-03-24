@@ -1,0 +1,12 @@
+{
+  "cats": [
+    13
+  ],
+  "html": [
+    "no-title=\"YouTrack\">",
+    "data-reactid=\"[^\"]+\">youTrack ([0-9.]+)<\\;version:\\1",
+    "type=\"application/opensearchdescription\\+xml\" title=\"YouTrack\"/>"
+  ],
+  "icon": "YouTrack.png",
+  "website": "http://www.jetbrains.com/youtrack/"
+}

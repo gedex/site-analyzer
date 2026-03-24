@@ -1,0 +1,9 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "^OpenBSD httpd"
+  },
+  "website": "https://man.openbsd.org/httpd.8"
+}

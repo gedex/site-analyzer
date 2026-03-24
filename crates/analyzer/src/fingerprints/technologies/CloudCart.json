@@ -1,0 +1,11 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "cloudcart.svg",
+  "meta": {
+    "author": "^CloudCart LLC$"
+  },
+  "scripts": "/cloudcart-(?:assets|storage)/",
+  "website": "http://cloudcart.com"
+}

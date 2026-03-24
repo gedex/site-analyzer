@@ -1,0 +1,10 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Mynetcap.png",
+  "meta": {
+    "generator": "Mynetcap"
+  },
+  "website": "http://www.netcap-creation.fr"
+}

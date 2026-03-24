@@ -1,0 +1,23 @@
+{
+  "cats": [
+    47
+  ],
+  "html": [
+    ">Gerrit Code Review</a>\\s*\"\\s*\\(([0-9.]+)\\)\\;version:\\1",
+    "<(?:div|style) id=\"gerrit_"
+  ],
+  "icon": "gerrit.svg",
+  "implies": [
+    "Java",
+    "git"
+  ],
+  "js": {
+    "Gerrit": "",
+    "gerrit_ui": ""
+  },
+  "meta": {
+    "title": "^Gerrit Code Review$"
+  },
+  "scripts": "^gerrit_ui/gerrit_ui",
+  "website": "http://www.gerritcodereview.com"
+}

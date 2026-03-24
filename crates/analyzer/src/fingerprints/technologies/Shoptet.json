@@ -1,0 +1,18 @@
+{
+  "cats": [
+    6
+  ],
+  "html": "<link [^>]*href=\"https?://cdn\\.myshoptet\\.com/",
+  "icon": "Shoptet.svg",
+  "implies": "PHP",
+  "js": {
+    "shoptet": ""
+  },
+  "meta": {
+    "web_author": "^Shoptet"
+  },
+  "scripts": [
+    "^https?://cdn\\.myshoptet\\.com/"
+  ],
+  "website": "http://www.shoptet.cz"
+}

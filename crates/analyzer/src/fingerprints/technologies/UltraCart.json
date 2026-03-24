@@ -1,0 +1,13 @@
+{
+  "cats": [
+    6
+  ],
+  "html": "<form [^>]*action=\"[^\"]*\\/cgi-bin\\/UCEditor\\?(?:[^\"]*&)?merchantId=[^\"]",
+  "icon": "UltraCart.png",
+  "js": {
+    "ucCatalog": ""
+  },
+  "scripts": "cgi-bin\\/UCJavaScript\\?",
+  "url": "/cgi-bin/UCEditor\\?",
+  "website": "http://ultracart.com"
+}

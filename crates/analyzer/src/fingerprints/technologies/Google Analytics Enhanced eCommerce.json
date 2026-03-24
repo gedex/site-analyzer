@@ -1,0 +1,13 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Google Analytics.svg",
+  "implies": "Google Analytics",
+  "js": {
+    "gaplugins.EC": ""
+  },
+  "scripts": "google-analytics\\.com\\/plugins\\/ua\\/(?:ec|ecommerce)\\.js",
+  "description": "Google analytics enhanced ecommerce is a plug-in which enables the measurement of user interactions with products on ecommerce websites.",
+  "website": "https://developers.google.com/analytics/devguides/collection/analyticsjs/enhanced-ecommerce"
+}

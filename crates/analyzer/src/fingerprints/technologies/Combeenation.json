@@ -1,0 +1,8 @@
+{
+  "cats": [
+    6
+  ],
+  "html": "<iframe[^>]+src=\"[^>]+portal\\.combeenation\\.com",
+  "icon": "Combeenation.png",
+  "website": "https://www.combeenation.com"
+}

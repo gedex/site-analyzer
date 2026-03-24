@@ -1,0 +1,9 @@
+{
+  "cats": [
+    5
+  ],
+  "icon": "Taggbox.svg",
+  "scripts": "web\\.taggbox\\.com",
+  "url": "web\\.taggbox\\.com",
+  "website": "https://taggbox.com/"
+}

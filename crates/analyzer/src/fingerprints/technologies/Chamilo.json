@@ -1,0 +1,16 @@
+{
+  "cats": [
+    21
+  ],
+  "cpe": "cpe:/a:chamilo:chamilo_lms",
+  "headers": {
+    "X-Powered-By": "Chamilo ([\\d.]+)\\;version:\\1"
+  },
+  "html": "\">Chamilo ([\\d.]+)</a>\\;version:\\1",
+  "icon": "Chamilo.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "Chamilo ([\\d.]+)\\;version:\\1"
+  },
+  "website": "http://www.chamilo.org"
+}

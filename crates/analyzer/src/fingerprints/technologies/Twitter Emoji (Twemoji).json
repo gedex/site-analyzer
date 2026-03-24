@@ -1,0 +1,10 @@
+{
+  "cats": [
+    19
+  ],
+  "js": {
+    "twemoji": ""
+  },
+  "scripts": "twemoji(?:\\.min)?\\.js",
+  "website": "https://twitter.github.io/twemoji/"
+}

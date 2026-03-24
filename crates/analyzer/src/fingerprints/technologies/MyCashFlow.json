@@ -1,0 +1,10 @@
+{
+  "cats": [
+    6
+  ],
+  "headers": {
+    "X-MCF-ID": ""
+  },
+  "icon": "mycashflow.png",
+  "website": "https://www.mycashflow.fi/"
+}

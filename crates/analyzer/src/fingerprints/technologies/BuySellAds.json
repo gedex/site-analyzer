@@ -1,0 +1,14 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "BuySellAds.png",
+  "js": {
+    "_bsa": "",
+    "_bsaPRO": "",
+    "_bsap": "",
+    "_bsap_serving_callback": ""
+  },
+  "scripts": "^https?://s\\d\\.buysellads\\.com/",
+  "website": "http://buysellads.com"
+}

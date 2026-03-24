@@ -1,0 +1,8 @@
+{
+  "cats": [
+    17
+  ],
+  "html": "<link[^>]* href=[^>]+ionicons(?:\\.min)?\\.css",
+  "icon": "Ionicons.png",
+  "website": "http://ionicons.com"
+}

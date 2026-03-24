@@ -1,0 +1,11 @@
+{
+  "cats": [
+    26
+  ],
+  "icon": "jQTouch.png",
+  "js": {
+    "jQT": ""
+  },
+  "scripts": "jqtouch.*\\.js",
+  "website": "http://jqtouch.com"
+}

@@ -1,0 +1,16 @@
+{
+  "cats": [
+    29,
+    25
+  ],
+  "cpe": "cpe:/a:elasticsearch:kibana",
+  "headers": {
+    "kbn-name": "kibana",
+    "kbn-version": "^([\\d.]+)$\\;version:\\1"
+  },
+  "html": "<title>Kibana</title>",
+  "icon": "kibana.svg",
+  "implies": "Node.js",
+  "url": "kibana#/dashboard/",
+  "website": "http://www.elastic.co/products/kibana"
+}

@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "Powered by <a href=\"[^>]+SilverStripe",
+  "icon": "SilverStripe.svg",
+  "implies": "PHP",
+  "meta": {
+    "generator": "^SilverStripe"
+  },
+  "website": "https://www.silverstripe.org"
+}

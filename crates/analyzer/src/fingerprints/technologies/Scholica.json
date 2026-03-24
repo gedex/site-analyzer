@@ -1,0 +1,10 @@
+{
+  "cats": [
+    21
+  ],
+  "headers": {
+    "X-Scholica-Version": ""
+  },
+  "icon": "Scholica.svg",
+  "website": "http://scholica.com"
+}

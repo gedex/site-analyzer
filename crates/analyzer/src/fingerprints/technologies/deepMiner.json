@@ -1,0 +1,11 @@
+{
+  "cats": [
+    56
+  ],
+  "icon": "deepminer.png",
+  "js": {
+    "deepMiner": ""
+  },
+  "scripts": "deepMiner\\.js",
+  "website": "https://github.com/deepwn/deepMiner"
+}

@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1,
+    11,
+    51,
+    53,
+    61
+  ],
+  "html": "(?:<!-- /*BeraCode script)",
+  "icon": "Duopana.svg",
+  "scripts": "\\*berajs.beracode.com\\*",
+  "description": "Duopana is a platform for creating online communities, blogs and managing collaborative content.",
+  "website": "https://duopana.com/"
+}

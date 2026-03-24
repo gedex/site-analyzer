@@ -1,0 +1,11 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:embedthis:appweb",
+  "headers": {
+    "Server": "Mbedthis-Appweb(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "Embedthis.png",
+  "website": "http://embedthis.com/appweb"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:oracle:application_server",
+  "headers": {
+    "Server": "Oracle[- ]Application[- ]Server(?: Containers for J2EE)?(?:[- ](\\d[\\da-z./]+))?\\;version:\\1"
+  },
+  "icon": "Oracle.png",
+  "website": "http://www.oracle.com/technetwork/middleware/ias/overview/index.html"
+}

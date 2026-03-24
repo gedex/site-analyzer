@@ -1,0 +1,22 @@
+{
+  "cats": [
+    10,
+    61
+  ],
+  "icon": "Adobe Analytics.svg",
+  "js": {
+    "s_c_il.0._c": "s_c",
+    "s_c_il.0.constructor.name": "AppMeasurement",
+    "s_c_il.1._c": "s_c",
+    "s_c_il.1.constructor.name": "AppMeasurement",
+    "s_c_il.2._c": "s_c",
+    "s_c_il.2.constructor.name": "AppMeasurement",
+    "s_c_il.3._c": "s_c",
+    "s_c_il.3.constructor.name": "AppMeasurement",
+    "s_c_il.4._c": "s_c",
+    "s_c_il.4.constructor.name": "AppMeasurement",
+    "s_c_il.5._c": "s_c",
+    "s_c_il.5.constructor.name": "AppMeasurement"
+  },
+  "website": "https://www.adobe.com/analytics/adobe-analytics.html"
+}

@@ -1,0 +1,12 @@
+{
+  "cats": [
+    26
+  ],
+  "icon": "jQuery Mobile.svg",
+  "implies": "jQuery",
+  "js": {
+    "jQuery.mobile.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "jquery[.-]mobile(?:-([\\d.]))?(?:\\.min)?\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1?\\1:\\2",
+  "website": "https://jquerymobile.com"
+}

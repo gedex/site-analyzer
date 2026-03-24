@@ -1,0 +1,8 @@
+{
+  "cats": [
+    68
+  ],
+  "icon": "Recite Me.png",
+  "scripts": "api\\.reciteme\\.com/asset/js",
+  "website": "https://reciteme.com/"
+}

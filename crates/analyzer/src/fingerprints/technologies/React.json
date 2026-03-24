@@ -1,0 +1,18 @@
+{
+  "cats": [
+    12
+  ],
+  "cpe": "cpe:/a:facebook:react",
+  "html": "<[^>]+data-react",
+  "icon": "React.png",
+  "js": {
+    "React.version": "^(.+)$\\;version:\\1",
+    "react.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": [
+    "react(?:-with-addons)?[.-]([\\d.]*\\d)[^/]*\\.js\\;version:\\1",
+    "/([\\d.]+)/react(?:\\.min)?\\.js\\;version:\\1",
+    "^react\\b.*\\.js"
+  ],
+  "website": "https://reactjs.org"
+}

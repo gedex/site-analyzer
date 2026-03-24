@@ -1,0 +1,12 @@
+{
+  "cats": [
+    23,
+    33
+  ],
+  "headers": {
+    "X-Mod-Pagespeed": "([\\d.]+)\\;version:\\1",
+    "X-Page-Speed": "(.+)\\;version:\\1"
+  },
+  "icon": "Google PageSpeed.png",
+  "website": "http://developers.google.com/speed/pagespeed/mod"
+}

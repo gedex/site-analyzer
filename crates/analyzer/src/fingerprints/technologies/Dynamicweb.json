@@ -1,0 +1,16 @@
+{
+  "cats": [
+    1,
+    6,
+    10
+  ],
+  "cookies": {
+    "Dynamicweb": ""
+  },
+  "icon": "Dynamicweb.png",
+  "implies": "Microsoft ASP.NET",
+  "meta": {
+    "generator": "Dynamicweb ([\\d.]+)\\;version:\\1"
+  },
+  "website": "http://www.dynamicweb.dk"
+}

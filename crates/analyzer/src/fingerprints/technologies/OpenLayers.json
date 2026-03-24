@@ -1,0 +1,12 @@
+{
+  "cats": [
+    35
+  ],
+  "icon": "OpenLayers.png",
+  "js": {
+    "OpenLayers.VERSION_NUMBER": "([\\d.]+)\\;version:\\1",
+    "ol.CanvasMap": ""
+  },
+  "scripts": "openlayers",
+  "website": "https://openlayers.org"
+}

@@ -1,0 +1,10 @@
+{
+  "cats": [
+    5
+  ],
+  "icon": "Po.st.png",
+  "js": {
+    "pwidget_config": ""
+  },
+  "website": "http://www.po.st/"
+}

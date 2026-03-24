@@ -1,0 +1,12 @@
+{
+  "cats": [
+    10
+  ],
+  "html": "<img[^>]+id=\"DCSIMG\"[^>]+webtrends",
+  "icon": "Webtrends.png",
+  "js": {
+    "WTOptimize": "",
+    "WebTrends": ""
+  },
+  "website": "http://worldwide.webtrends.com"
+}

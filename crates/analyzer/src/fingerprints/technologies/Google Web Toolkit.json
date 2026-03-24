@@ -1,0 +1,20 @@
+{
+  "cats": [
+    18
+  ],
+  "cpe": "cpe:/a:google:web_toolkit",
+  "icon": "Google Web Toolkit.png",
+  "implies": "Java",
+  "js": {
+    "__gwt_": "",
+    "__gwt_activeModules": "",
+    "__gwt_getMetaProperty": "",
+    "__gwt_isKnownPropertyValue": "",
+    "__gwt_stylesLoaded": "",
+    "__gwtlistener": ""
+  },
+  "meta": {
+    "gwt:property": ""
+  },
+  "website": "http://developers.google.com/web-toolkit"
+}

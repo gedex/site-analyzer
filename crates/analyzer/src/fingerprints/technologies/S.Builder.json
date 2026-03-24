@@ -1,0 +1,10 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "S.Builder.png",
+  "meta": {
+    "generator": "S\\.Builder"
+  },
+  "website": "http://www.sbuilder.ru"
+}

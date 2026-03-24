@@ -1,0 +1,19 @@
+{
+  "cats": [
+    10
+  ],
+  "cookies": {
+    "__utma": "",
+    "_ga": "",
+    "_gat": ""
+  },
+  "html": "<amp-analytics [^>]*type=[\"']googleanalytics[\"']",
+  "icon": "Google Analytics.svg",
+  "js": {
+    "GoogleAnalyticsObject": "",
+    "gaGlobal": ""
+  },
+  "scripts": "google-analytics\\.com\\/(?:ga|urchin|analytics)\\.js",
+  "description": "Google Analytics is a free web analytics service that tracks and reports website traffic.",
+  "website": "http://google.com/analytics"
+}

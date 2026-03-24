@@ -1,0 +1,13 @@
+{
+  "cats": [
+    10
+  ],
+  "html": "<iframe[^>]* (?:id=\"comscore\"|scr=[^>]+comscore)|\\.scorecardresearch\\.com/beacon\\.js|COMSCORE\\.beacon",
+  "icon": "comScore.png",
+  "js": {
+    "COMSCORE": "",
+    "_COMSCORE": ""
+  },
+  "scripts": "\\.scorecardresearch\\.com/beacon\\.js|COMSCORE\\.beacon",
+  "website": "http://comscore.com"
+}

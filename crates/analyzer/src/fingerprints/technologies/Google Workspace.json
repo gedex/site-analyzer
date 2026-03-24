@@ -1,0 +1,9 @@
+{
+  "cats": [30],
+  "website": "https://workspace.google.com",
+  "description": "Google Workspace (formerly G Suite) is a collection of cloud computing, productivity and collaboration tools",
+  "dns": {
+    "mx": "google\\.com$",
+    "txt": "v=spf1.*include:_spf\\.google\\.com"
+  }
+}

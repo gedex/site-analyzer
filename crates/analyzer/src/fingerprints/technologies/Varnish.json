@@ -1,0 +1,15 @@
+{
+  "cats": [
+    23
+  ],
+  "headers": {
+    "Via": "varnish(?: \\(Varnish/([\\d.]+)\\))?\\;version:\\1",
+    "X-Varnish": "",
+    "X-Varnish-Action": "",
+    "X-Varnish-Age": "",
+    "X-Varnish-Cache": "",
+    "X-Varnish-Hostname": ""
+  },
+  "icon": "Varnish.svg",
+  "website": "http://www.varnish-cache.org"
+}

@@ -1,0 +1,9 @@
+{
+  "cats": [
+    60
+  ],
+  "cpe": "cpe:/a:docker:engine",
+  "html": "<!-- This comment is expected by the docker HEALTHCHECK  -->",
+  "icon": "Docker.svg",
+  "website": "https://www.docker.com/"
+}

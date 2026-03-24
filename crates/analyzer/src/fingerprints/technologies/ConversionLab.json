@@ -1,0 +1,8 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "ConversionLab.png",
+  "scripts": "conversionlab\\.trackset\\.com/track/tsend\\.js",
+  "website": "http://www.trackset.it/conversionlab"
+}

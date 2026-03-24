@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Jimdo-Instance": "",
+    "X-Jimdo-Wid": ""
+  },
+  "icon": "jimdo.png",
+  "url": "\\.jimdo\\.com/",
+  "website": "https://www.jimdo.com"
+}

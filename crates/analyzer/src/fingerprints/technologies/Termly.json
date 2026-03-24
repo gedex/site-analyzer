@@ -1,0 +1,8 @@
+{
+  "cats": [
+    67
+  ],
+  "icon": "termly.svg",
+  "scripts": "app\\.termly\\.io/embed\\.min\\.js",
+  "website": "https://termly.io/"
+}

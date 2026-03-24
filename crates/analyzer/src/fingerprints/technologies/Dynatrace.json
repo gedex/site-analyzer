@@ -1,0 +1,13 @@
+{
+  "cats": [
+    10
+  ],
+  "cookies": {
+    "dtCookie1": ""
+  },
+  "icon": "Dynatrace.png",
+  "js": {
+    "dtrum": ""
+  },
+  "website": "https://www.dynatrace.com"
+}

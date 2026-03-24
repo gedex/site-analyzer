@@ -1,0 +1,13 @@
+{
+  "cats": [
+    18,
+    22
+  ],
+  "cpe": "cpe:/a:expressjs:express",
+  "headers": {
+    "X-Powered-By": "^Express$"
+  },
+  "icon": "Express.png",
+  "implies": "Node.js",
+  "website": "http://expressjs.com"
+}

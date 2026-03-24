@@ -1,0 +1,23 @@
+{
+  "cats": [
+    18
+  ],
+  "cookies": {
+    "nette-browser": ""
+  },
+  "headers": {
+    "X-Powered-By": "^Nette Framework"
+  },
+  "html": [
+    "<input[^>]+data-nette-rules",
+    "<div[^>]+id=\"snippet-",
+    "<input[^>]+id=\"frm-"
+  ],
+  "icon": "Nette Framework.png",
+  "implies": "PHP",
+  "js": {
+    "Nette": "",
+    "Nette.version": "^(.+)$\\;version:\\1"
+  },
+  "website": "https://nette.org"
+}

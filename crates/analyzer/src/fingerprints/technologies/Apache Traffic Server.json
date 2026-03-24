@@ -1,0 +1,11 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:apache:traffic_server",
+  "headers": {
+    "Server": "ATS/?([\\d.]+)?\\;version:\\1"
+  },
+  "icon": "Apache Traffic Server.png",
+  "website": "http://trafficserver.apache.org/"
+}

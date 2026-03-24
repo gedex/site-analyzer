@@ -1,0 +1,11 @@
+{
+  "cats": [
+    27
+  ],
+  "cpe": "cpe:/a:lua:lua",
+  "headers": {
+    "X-Powered-By": "\\bLua(?: ([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "Lua.png",
+  "website": "http://www.lua.org"
+}

@@ -1,0 +1,10 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "transifex.png",
+  "js": {
+    "Transifex.live.lib_version": "(.+)\\;version:\\1"
+  },
+  "website": "https://www.transifex.com"
+}

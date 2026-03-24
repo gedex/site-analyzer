@@ -1,0 +1,12 @@
+{
+  "cats": [
+    18
+  ],
+  "cookies": {
+    "bf_session": ""
+  },
+  "html": "Powered by <a[^>]+href=\"https?://(?:www\\.)?cibonfire\\.com[^>]*>Bonfire v([^<]+)\\;version:\\1",
+  "icon": "Bonfire.png",
+  "implies": "CodeIgniter",
+  "website": "http://cibonfire.com"
+}

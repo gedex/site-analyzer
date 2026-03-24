@@ -1,0 +1,12 @@
+{
+  "cats": [
+    28
+  ],
+  "cpe": "cpe:/o:redhat:linux",
+  "headers": {
+    "Server": "Red Hat",
+    "X-Powered-By": "Red Hat"
+  },
+  "icon": "Red Hat.svg",
+  "website": "https://www.redhat.com"
+}

@@ -1,0 +1,12 @@
+{
+  "cats": [
+    59
+  ],
+  "html": "<link[^>]+?href=\"[^\"]+sweet-alert(?:\\.min)?\\.css",
+  "icon": "SweetAlert.png",
+  "js": {
+    "swal": ""
+  },
+  "scripts": "sweet-alert(?:\\.min)?\\.js",
+  "website": "https://t4t5.github.io/sweetalert/"
+}

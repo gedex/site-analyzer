@@ -1,0 +1,11 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "Fusion Ads.png",
+  "js": {
+    "_fusion": ""
+  },
+  "scripts": "^[^\\/]*//[ac]dn\\.fusionads\\.net/(?:api/([\\d.]+)/)?\\;version:\\1",
+  "website": "http://fusionads.net"
+}

@@ -1,0 +1,15 @@
+{
+  "cats": [
+    18
+  ],
+  "cookies": {
+    "cakephp": ""
+  },
+  "cpe": "cpe:/a:cakephp:cakephp",
+  "icon": "CakePHP.png",
+  "implies": "PHP",
+  "meta": {
+    "application-name": "CakePHP"
+  },
+  "website": "http://cakephp.org"
+}

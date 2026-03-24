@@ -1,0 +1,12 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "Reveal.js.png",
+  "implies": "Highlight.js",
+  "js": {
+    "Reveal.VERSION": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "(?:^|/)reveal(?:\\.min)?\\.js",
+  "website": "http://lab.hakim.se/reveal-js"
+}

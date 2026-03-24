@@ -1,0 +1,17 @@
+{
+  "cats": [
+    6
+  ],
+  "cookies": {
+    "_hybris": ""
+  },
+  "cpe": "cpe:/a:sap:commerce_cloud",
+  "html": [
+    "<[^>]+/(?:sys_master|hybr|_ui/(?:.*responsive/)?(?:desktop|common(?:/images|/img|/css|ico)?))/",
+    "<script[^>].*hybris.*.js"
+  ],
+  "icon": "SAP.png",
+  "implies": "Java",
+  "description": "SAP Commerce Cloud is a cloud-native omnichannel commerce solution for B2B, B2C, and B2B2C companies.",
+  "website": "https://www.sap.com/products/crm/e-commerce-platforms.html"
+}

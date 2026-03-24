@@ -1,0 +1,13 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "VigLink.png",
+  "js": {
+    "vglnk": "",
+    "vl_cB": "",
+    "vl_disable": ""
+  },
+  "scripts": "(?:^[^/]*//[^/]*viglink\\.com/api/|vglnk\\.js)",
+  "website": "http://viglink.com"
+}

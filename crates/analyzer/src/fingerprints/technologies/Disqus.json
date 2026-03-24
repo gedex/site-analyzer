@@ -1,0 +1,15 @@
+{
+  "cats": [
+    15
+  ],
+  "cpe": "cpe:/a:disqus:disqus_comment_system",
+  "html": "<div[^>]+id=\"disqus_thread\"",
+  "icon": "Disqus.svg",
+  "js": {
+    "DISQUS": "",
+    "disqus_shortname": "",
+    "disqus_url": ""
+  },
+  "scripts": "disqus_url",
+  "website": "https://disqus.com"
+}

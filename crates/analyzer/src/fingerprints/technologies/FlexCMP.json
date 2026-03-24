@@ -1,0 +1,15 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Flex-Lang": "",
+    "X-Powered-By": "FlexCMP.+\\[v\\. ([\\d.]+)\\;version:\\1"
+  },
+  "html": "<!--[^>]+FlexCMP[^>v]+v\\. ([\\d.]+)\\;version:\\1",
+  "icon": "FlexCMP.png",
+  "meta": {
+    "generator": "^FlexCMP"
+  },
+  "website": "http://www.flexcmp.com/cms/home"
+}

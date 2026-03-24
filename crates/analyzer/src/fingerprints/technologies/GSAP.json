@@ -1,0 +1,12 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "TweenMax.png",
+  "js": {
+    "TweenMax": "",
+    "gsapVersions": ""
+  },
+  "scripts": "TweenMax(?:\\.min)?\\.js",
+  "website": "https://greensock.com/gsap"
+}

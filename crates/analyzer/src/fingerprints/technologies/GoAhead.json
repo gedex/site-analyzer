@@ -1,0 +1,11 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:embedthis:goahead",
+  "headers": {
+    "Server": "GoAhead"
+  },
+  "icon": "GoAhead.png",
+  "website": "http://embedthis.com/products/goahead/index.html"
+}

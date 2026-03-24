@@ -1,0 +1,19 @@
+{
+  "cats": [
+    4
+  ],
+  "cpe": "cpe:/a:adobe:robohelp",
+  "icon": "Adobe RoboHelp.svg",
+  "js": {
+    "gbWhLang": "",
+    "gbWhMsg": "",
+    "gbWhProxy": "",
+    "gbWhUtil": "",
+    "gbWhVer": ""
+  },
+  "meta": {
+    "generator": "^Adobe RoboHelp(?: ([\\d]+))?\\;version:\\1"
+  },
+  "scripts": "(?:wh(?:utils|ver|proxy|lang|topic|msg)|ehlpdhtm)\\.js",
+  "website": "http://adobe.com/products/robohelp.html"
+}

@@ -1,0 +1,15 @@
+{
+  "cats": [
+    18
+  ],
+  "cookies": {
+    "sf_redirect": ""
+  },
+  "html": "(?:<div class=\"sf-toolbar[^>]+?>[^]+<span class=\"sf-toolbar-value\">([\\d.])+|<div id=\"sfwdt[^\"]+\" class=\"[^\"]*sf-toolbar)\\;version:\\1",
+  "icon": "Symfony.svg",
+  "implies": "PHP",
+  "js": {
+    "Sfjs": ""
+  },
+  "website": "http://symfony.com"
+}

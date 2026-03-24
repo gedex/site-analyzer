@@ -1,0 +1,13 @@
+{
+  "cats": [
+    20
+  ],
+  "cpe": "cpe:/a:microsoft:publisher",
+  "html": "(?:<html [^>]*xmlns:w=\"urn:schemas-microsoft-com:office:publisher\"|<!--[if pub]><xml>)",
+  "icon": "Microsoft Publisher.svg",
+  "meta": {
+    "ProgId": "^Publisher\\.",
+    "generator": "Microsoft Publisher( [\\d.]+)?\\;version:\\1"
+  },
+  "website": "https://office.microsoft.com/publisher"
+}

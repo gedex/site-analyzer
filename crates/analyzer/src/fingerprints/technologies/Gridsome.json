@@ -1,0 +1,11 @@
+{
+  "cats": [
+    57
+  ],
+  "icon": "Gridsome.svg",
+  "implies": "Vue.js",
+  "meta": {
+    "generator": "^Gridsome v([\\d.]+)$\\;version:\\1"
+  },
+  "website": "https://gridsome.org"
+}

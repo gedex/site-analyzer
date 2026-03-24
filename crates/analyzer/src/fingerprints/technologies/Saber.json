@@ -1,0 +1,14 @@
+{
+  "cats": [
+    57
+  ],
+  "html": [
+    "<div [^>]*id=\"_saber\""
+  ],
+  "icon": "Saber.svg",
+  "implies": "Vue.js",
+  "meta": {
+    "generator": "^Saber v([\\d.]+)$\\;version:\\1"
+  },
+  "website": "https://saber.land/"
+}

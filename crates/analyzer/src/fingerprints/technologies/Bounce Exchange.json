@@ -1,0 +1,11 @@
+{
+  "cats": [
+    32
+  ],
+  "icon": "Bounce Exchange.svg",
+  "js": {
+    "bouncex": ""
+  },
+  "scripts": "^https?://tag\\.bounceexchange\\.com/",
+  "website": "http://www.bounceexchange.com"
+}

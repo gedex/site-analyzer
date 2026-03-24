@@ -1,0 +1,12 @@
+{
+  "cats": [
+    6
+  ],
+  "cpe": "cpe:/a:open-classifieds:open_classifieds",
+  "icon": "Open Classifieds.png",
+  "meta": {
+    "author": "open-classifieds\\.com",
+    "copyright": "Open Classifieds ?([0-9.]+)?\\;version:\\1"
+  },
+  "website": "http://open-classifieds.com"
+}

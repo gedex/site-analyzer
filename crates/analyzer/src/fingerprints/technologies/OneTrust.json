@@ -1,0 +1,17 @@
+{
+  "cats": [
+    67
+  ],
+  "cookies": {
+    "OptanonConsent": ""
+  },
+  "icon": "OneTrust.png",
+  "scripts": [
+    "cdn\\.cookielaw\\.org",
+    "optanon\\.blob\\.core\\.windows\\.net",
+    "otSDKStub\\.js",
+    "cdn\\.cookielaw\\.org",
+    "optanon\\.blob\\.core\\.windows\\.net"
+  ],
+  "website": "http://www.onetrust.com"
+}

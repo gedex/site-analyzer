@@ -1,0 +1,12 @@
+{
+  "cats": [
+    13
+  ],
+  "cookies": {
+    "flyspray_project": ""
+  },
+  "html": "(?:<a[^>]+>Powered by Flyspray|<map id=\"projectsearchform)",
+  "icon": "Flyspray.png",
+  "implies": "PHP",
+  "website": "http://flyspray.org"
+}

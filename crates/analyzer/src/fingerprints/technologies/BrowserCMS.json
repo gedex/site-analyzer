@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "BrowserCMS.png",
+  "implies": "Ruby",
+  "meta": {
+    "generator": "BrowserCMS ([\\d.]+)\\;version:\\1"
+  },
+  "website": "http://browsercms.org"
+}

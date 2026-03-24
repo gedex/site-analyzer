@@ -1,0 +1,12 @@
+{
+  "cats": [
+    32
+  ],
+  "cpe": "cpe:/a:mautic:mautic",
+  "icon": "mautic.svg",
+  "js": {
+    "MauticTrackingObject": ""
+  },
+  "scripts": "[^a-z]mtc.*\\.js",
+  "website": "https://www.mautic.org/"
+}

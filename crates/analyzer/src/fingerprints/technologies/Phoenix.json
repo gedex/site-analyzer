@@ -1,0 +1,18 @@
+{
+  "cats": [
+    18
+  ],
+  "icon": "sazito-phoenix.png",
+  "implies": [
+    "React",
+    "webpack",
+    "Node.js"
+  ],
+  "js": {
+    "Phoenix": ""
+  },
+  "meta": {
+    "generator": "^phoenix"
+  },
+  "website": "https://github.com/Sazito/phoenix/"
+}

@@ -1,0 +1,13 @@
+{
+  "cats": [
+    1,
+    18
+  ],
+  "html": "Built upon the <a href=\"[^>]+banshee-php\\.org/\">[a-z]+</a>(?:v([\\d.]+))?\\;version:\\1",
+  "icon": "Banshee.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "Banshee PHP"
+  },
+  "website": "http://www.banshee-php.org"
+}

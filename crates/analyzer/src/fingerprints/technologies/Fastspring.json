@@ -1,0 +1,11 @@
+{
+  "cats": [
+    6
+  ],
+  "html": [
+    "<a [^>]*href=\"https?://sites\\.fastspring\\.com",
+    "<form [^>]*action=\"https?://sites\\.fastspring\\.com"
+  ],
+  "icon": "fastspring.png",
+  "website": "https://fastspring.com"
+}

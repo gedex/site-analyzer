@@ -1,0 +1,16 @@
+{
+  "cats": [
+    12,
+    18
+  ],
+  "headers": {
+    "X-Powered-By": "Catberry"
+  },
+  "icon": "Catberry.js.png",
+  "implies": "Node.js",
+  "js": {
+    "catberry": "",
+    "catberry.version": "^(.+)$\\;version:\\1"
+  },
+  "website": "https://catberry.github.io/"
+}

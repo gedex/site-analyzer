@@ -1,0 +1,17 @@
+{
+  "cats": [
+    59
+  ],
+  "cpe": "cpe:/a:jquery:jquery_ui",
+  "icon": "jQuery UI.svg",
+  "implies": "jQuery",
+  "js": {
+    "jQuery.ui.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": [
+    "jquery-ui[.-]([\\d.]*\\d)[^/]*\\.js\\;version:\\1",
+    "([\\d.]+)/jquery-ui(?:\\.min)?\\.js\\;version:\\1",
+    "jquery-ui.*\\.js"
+  ],
+  "website": "http://jqueryui.com"
+}

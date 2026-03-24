@@ -1,0 +1,11 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Quantcast.png",
+  "js": {
+    "quantserve": ""
+  },
+  "scripts": "\\.quantserve\\.com/quant\\.js",
+  "website": "https://www.quantcast.com/products/measure-audience-insights/"
+}

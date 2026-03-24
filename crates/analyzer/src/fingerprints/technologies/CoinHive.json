@@ -1,0 +1,15 @@
+{
+  "cats": [
+    56
+  ],
+  "icon": "CoinHive.svg",
+  "js": {
+    "CoinHive": ""
+  },
+  "scripts": [
+    "\\/(?:coinhive|(authedmine))(?:\\.min)?\\.js\\;version:\\1?opt-in:",
+    "coinhive\\.com/lib"
+  ],
+  "url": "https?://cnhv\\.co/",
+  "website": "https://coinhive.com"
+}

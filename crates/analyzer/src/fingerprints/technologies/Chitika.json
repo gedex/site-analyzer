@@ -1,0 +1,12 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "Chitika.png",
+  "js": {
+    "ch_client": "",
+    "ch_color_site_link": ""
+  },
+  "scripts": "scripts\\.chitika\\.net/",
+  "website": "http://chitika.com"
+}

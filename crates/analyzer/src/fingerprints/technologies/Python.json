@@ -1,0 +1,11 @@
+{
+  "cats": [
+    27
+  ],
+  "cpe": "cpe:/a:python:python",
+  "headers": {
+    "Server": "(?:^|\\s)Python(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "Python.png",
+  "website": "http://python.org"
+}

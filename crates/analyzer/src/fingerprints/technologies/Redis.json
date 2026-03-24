@@ -1,0 +1,8 @@
+{
+  "cats": [
+    34
+  ],
+  "cpe": "cpe:/a:redislabs:redis",
+  "icon": "Redis.svg",
+  "website": "https://redis.io"
+}

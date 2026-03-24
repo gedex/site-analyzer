@@ -1,0 +1,11 @@
+{
+  "cats": [
+    17
+  ],
+  "icon": "Cufon.png",
+  "js": {
+    "Cufon": ""
+  },
+  "scripts": "cufon-yui\\.js",
+  "website": "http://cufon.shoqolate.com"
+}

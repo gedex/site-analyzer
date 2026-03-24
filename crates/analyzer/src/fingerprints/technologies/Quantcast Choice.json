@@ -1,0 +1,11 @@
+{
+  "cats": [
+    67
+  ],
+  "icon": "Quantcast.png",
+  "js": {
+    "quantserve": ""
+  },
+  "scripts": "quantcast\\.mgr\\.consensu\\.org",
+  "website": "https://www.quantcast.com/gdpr/consent-management-solution/"
+}

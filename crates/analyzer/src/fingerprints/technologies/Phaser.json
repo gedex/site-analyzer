@@ -1,0 +1,11 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "Phaser.png",
+  "js": {
+    "Phaser": "",
+    "Phaser.VERSION": "^(.+)$\\;version:\\1"
+  },
+  "website": "https://phaser.io"
+}

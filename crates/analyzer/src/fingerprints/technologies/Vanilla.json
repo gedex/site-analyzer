@@ -1,0 +1,12 @@
+{
+  "cats": [
+    2
+  ],
+  "headers": {
+    "X-Powered-By": "Vanilla"
+  },
+  "html": "<body id=\"(?:DiscussionsPage|vanilla)",
+  "icon": "Vanilla.png",
+  "implies": "PHP",
+  "website": "http://vanillaforums.org"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    5
+  ],
+  "icon": "ShareThis.png",
+  "js": {
+    "SHARETHIS": ""
+  },
+  "scripts": "w\\.sharethis\\.com/",
+  "website": "http://sharethis.com"
+}

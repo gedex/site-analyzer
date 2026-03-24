@@ -1,0 +1,16 @@
+{
+  "cats": [
+    6
+  ],
+  "html": [
+    "<a[^>]*href=[^>]*/Cart",
+    "<a[^>]*href=[^>]*/Basket",
+    "<a[^>]*href=[^>]*/Trolley",
+    "<a[^>]*href=[^>]*/Bag",
+    "<a[^>]*href=[^>]*/ShoppingBag",
+    "<a[^>]*href=[^>]*/Checkout"
+  ],
+  "icon": "Cart-generic.svg",
+  "description": "Websites that have a shopping cart or checkout page, either using a known ecommerce platform or a custom solution.",
+  "website": "https://www.wappalyzer.com/technologies/ecommerce/cart-functionality"
+}

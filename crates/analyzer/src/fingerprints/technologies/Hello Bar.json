@@ -1,0 +1,11 @@
+{
+  "cats": [
+    5
+  ],
+  "icon": "Hello Bar.png",
+  "js": {
+    "HelloBar": ""
+  },
+  "scripts": "hellobar\\.js",
+  "website": "http://hellobar.com"
+}

@@ -1,0 +1,13 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-ServedBy": "pagevamp"
+  },
+  "icon": "Pagevamp.png",
+  "js": {
+    "Pagevamp": ""
+  },
+  "website": "https://www.pagevamp.com"
+}

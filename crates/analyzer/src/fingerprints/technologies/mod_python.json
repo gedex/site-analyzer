@@ -1,0 +1,14 @@
+{
+  "cats": [
+    33
+  ],
+  "headers": {
+    "Server": "mod_python(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "mod_python.png",
+  "implies": [
+    "Python",
+    "Apache"
+  ],
+  "website": "http://www.modpython.org"
+}

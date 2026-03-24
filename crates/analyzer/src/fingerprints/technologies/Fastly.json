@@ -1,0 +1,13 @@
+{
+  "cats": [
+    31
+  ],
+  "headers": {
+    "Fastly-Debug-Digest": "",
+    "Vary": "Fastly-SSL",
+    "X-Fastly-Request-ID": "",
+    "x-via-fastly:": ""
+  },
+  "icon": "Fastly.svg",
+  "website": "https://www.fastly.com"
+}

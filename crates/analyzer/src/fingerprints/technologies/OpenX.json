@@ -1,0 +1,12 @@
+{
+  "cats": [
+    36
+  ],
+  "cpe": "cpe:/a:openx:openx",
+  "icon": "OpenX.png",
+  "scripts": [
+    "https?://[^/]*\\.openx\\.net",
+    "https?://[^/]*\\.servedbyopenx\\.com"
+  ],
+  "website": "http://openx.com"
+}

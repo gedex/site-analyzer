@@ -1,0 +1,13 @@
+{
+  "cats": [
+    31
+  ],
+  "headers": {
+    "Via": "\\(CloudFront\\)$",
+    "X-Amz-Cf-Id": ""
+  },
+  "icon": "Amazon-Cloudfront.svg",
+  "implies": "Amazon Web Services",
+  "description": "Amazon CloudFront is a content delivery network offered by Amazon Web Services.",
+  "website": "http://aws.amazon.com/cloudfront/"
+}

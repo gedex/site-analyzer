@@ -1,0 +1,9 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<link[^>]* href=[^>]+tilda(?:cdn|\\.ws|-blocks)",
+  "icon": "Tilda.svg",
+  "scripts": "tilda(?:cdn|\\.ws|-blocks)",
+  "website": "https://tilda.cc"
+}

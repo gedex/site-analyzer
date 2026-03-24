@@ -1,0 +1,12 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "strapdown.js.png",
+  "implies": [
+    "Bootstrap",
+    "Google Code Prettify"
+  ],
+  "scripts": "strapdown\\.js",
+  "website": "http://strapdownjs.com"
+}

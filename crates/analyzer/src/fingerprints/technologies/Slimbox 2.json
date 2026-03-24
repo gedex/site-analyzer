@@ -1,0 +1,10 @@
+{
+  "cats": [
+    59
+  ],
+  "html": "<link [^>]*href=\"[^/]*slimbox2(?:-rtl)?\\.css",
+  "icon": "Slimbox 2.png",
+  "implies": "jQuery",
+  "scripts": "slimbox2\\.js",
+  "website": "http://www.digitalia.be/software/slimbox2"
+}

@@ -1,0 +1,8 @@
+{
+  "cats": [
+    5
+  ],
+  "icon": "AddShoppers.png",
+  "scripts": "cdn\\.shop\\.pe/widget/",
+  "website": "http://www.addshoppers.com"
+}

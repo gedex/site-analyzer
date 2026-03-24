@@ -1,0 +1,8 @@
+{
+  "cats": [
+    52
+  ],
+  "icon": "BoldChat.png",
+  "scripts": "^https?://vmss\\.boldchat\\.com/aid/\\d{18}/bc\\.vms4/vms\\.js",
+  "website": "https://www.boldchat.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "cats": [
+    1,
+    2
+  ],
+  "html": "(?:Powered|Code) by <a href=\"[^\"]+phpwind\\.net",
+  "icon": "phpwind.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "^phpwind(?: v([0-9-]+))?\\;version:\\1"
+  },
+  "website": "https://www.phpwind.net"
+}

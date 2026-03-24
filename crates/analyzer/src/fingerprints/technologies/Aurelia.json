@@ -1,0 +1,15 @@
+{
+  "cats": [
+    12
+  ],
+  "html": [
+    "<[^>]+aurelia-app=[^>]",
+    "<[^>]+data-main=[^>]aurelia-bootstrapper",
+    "<[^>]+au-target-id=[^>]\\d"
+  ],
+  "icon": "Aurelia.svg",
+  "scripts": [
+    "aurelia(?:\\.min)?\\.js"
+  ],
+  "website": "http://aurelia.io"
+}

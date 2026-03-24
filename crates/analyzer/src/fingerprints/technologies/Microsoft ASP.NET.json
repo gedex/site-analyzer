@@ -1,0 +1,19 @@
+{
+  "cats": [
+    18
+  ],
+  "cookies": {
+    "ASP.NET_SessionId": "",
+    "ASPSESSION": ""
+  },
+  "cpe": "cpe:/a:microsoft:asp.net",
+  "headers": {
+    "X-AspNet-Version": "(.+)\\;version:\\1",
+    "X-Powered-By": "^ASP\\.NET"
+  },
+  "html": "<input[^>]+name=\"__VIEWSTATE",
+  "icon": "Microsoft ASP.NET.png",
+  "implies": "IIS\\;confidence:50",
+  "url": "\\.aspx?(?:$|\\?)",
+  "website": "https://www.asp.net"
+}

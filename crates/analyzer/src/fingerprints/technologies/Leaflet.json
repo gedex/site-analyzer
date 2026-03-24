@@ -1,0 +1,13 @@
+{
+  "cats": [
+    35
+  ],
+  "icon": "Leaflet.png",
+  "js": {
+    "L.DistanceGrid": "",
+    "L.PosAnimation": "",
+    "L.version": "^(.+)$\\;version:\\1\\;confidence:0"
+  },
+  "scripts": "leaflet.{0,32}\\.js",
+  "website": "http://leafletjs.com"
+}

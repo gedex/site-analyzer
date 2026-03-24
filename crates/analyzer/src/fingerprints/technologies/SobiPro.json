@@ -1,0 +1,11 @@
+{
+  "cats": [
+    19
+  ],
+  "icon": "SobiPro.png",
+  "implies": "Joomla",
+  "js": {
+    "SobiProUrl": ""
+  },
+  "website": "http://sigsiu.net/sobipro.html"
+}

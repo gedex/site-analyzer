@@ -1,0 +1,13 @@
+{
+  "cats": [
+    13,
+    62
+  ],
+  "headers": {
+    "X-StatusPage-Skip-Logging": "",
+    "X-StatusPage-Version": ""
+  },
+  "html": "<a[^>]*href=\"https?://(?:www\\.)?statuspage\\.io/powered-by[^>]+>",
+  "icon": "Atlassian Statuspage.svg",
+  "website": "https://www.statuspage.io/"
+}

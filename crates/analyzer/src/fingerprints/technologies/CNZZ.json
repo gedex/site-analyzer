@@ -1,0 +1,11 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "cnzz.png",
+  "js": {
+    "cnzz_protocol": ""
+  },
+  "scripts": "//[^./]+\\.cnzz\\.com/(?:z_stat.php|core)\\?",
+  "website": "https://web.umeng.com/"
+}

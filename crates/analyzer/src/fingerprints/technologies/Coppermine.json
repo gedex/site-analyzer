@@ -1,0 +1,10 @@
+{
+  "cats": [
+    7
+  ],
+  "cpe": "cpe:/a:coppermine-gallery:coppermine_photo_gallery",
+  "html": "<!--Coppermine Photo Gallery ([\\d.]+)\\;version:\\1",
+  "icon": "Coppermine.png",
+  "implies": "PHP",
+  "website": "http://coppermine-gallery.net"
+}

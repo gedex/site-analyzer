@@ -1,0 +1,11 @@
+{
+  "cats": [
+    36
+  ],
+  "html": "<img[^>]+smartadserver\\.com\\/call",
+  "icon": "Smart Ad Server.png",
+  "js": {
+    "SmartAdServer": ""
+  },
+  "website": "http://smartadserver.com"
+}

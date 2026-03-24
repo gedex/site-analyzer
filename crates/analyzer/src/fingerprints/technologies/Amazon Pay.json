@@ -1,0 +1,16 @@
+{
+  "cats": [
+    41
+  ],
+  "html": "<meta id=\"amazon-payments",
+  "icon": "Amazon Pay.svg",
+  "js": {
+    "AmazonPayments": ""
+  },
+  "scripts": [
+    "/amazonpayments(?:\\.min)?\\.js",
+    "static-[^.]\\.payments-amazon\\.com/OffAmazonPayments"
+  ],
+  "description": "Amazon Pay is an online payments processing service that is owned by Amazon. It lets you use the payment methods associated with your Amazon account to make payments for goods and services.",
+  "website": "https://pay.amazon.com"
+}

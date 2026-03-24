@@ -1,0 +1,12 @@
+{
+  "cats": [
+    36
+  ],
+  "html": "<div[^>]+id=\"pw_adbox_",
+  "icon": "Project Wonderful.png",
+  "js": {
+    "pw_adloader": ""
+  },
+  "scripts": "^https?://(?:www\\.)?projectwonderful\\.com/(?:pwa\\.js|gen\\.php)",
+  "website": "http://projectwonderful.com"
+}

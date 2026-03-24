@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<!--\\s+Powered by GX",
+  "icon": "GX WebManager.png",
+  "meta": {
+    "generator": "GX WebManager(?: ([\\d.]+))?\\;version:\\1"
+  },
+  "website": "http://www.gxsoftware.com/en/products/web-content-management.htm"
+}

@@ -1,0 +1,10 @@
+{
+  "cats": [
+    31
+  ],
+  "headers": {
+    "X-CDN": "Incapsula"
+  },
+  "icon": "Incapsula.png",
+  "website": "http://www.incapsula.com"
+}

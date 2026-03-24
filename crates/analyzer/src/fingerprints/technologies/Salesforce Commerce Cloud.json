@@ -1,0 +1,18 @@
+{
+  "cats": [
+    6
+  ],
+  "headers": {
+    "Server": "Demandware eCommerce Server"
+  },
+  "html": [
+    "<[^>]+demandware\\.edgesuite"
+  ],
+  "icon": "Salesforce.svg",
+  "js": {
+    "dwAnalytics": ""
+  },
+  "scripts": "/demandware\\.static/",
+  "description": "Salesforce Commerce Cloud is a cloud-based software-as-a-service (SaaS) ecommerce solution.",
+  "website": "http://demandware.com"
+}

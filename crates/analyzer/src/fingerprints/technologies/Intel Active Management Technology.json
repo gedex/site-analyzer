@@ -1,0 +1,12 @@
+{
+  "cats": [
+    22,
+    46
+  ],
+  "cpe": "cpe:/a:intel:active_management_technology",
+  "headers": {
+    "Server": "Intel\\(R\\) Active Management Technology(?: ([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "Intel Active Management Technology.png",
+  "website": "http://intel.com"
+}

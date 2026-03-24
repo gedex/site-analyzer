@@ -1,0 +1,12 @@
+{
+  "cats": [
+    10,
+    32
+  ],
+  "icon": "Jirafe.png",
+  "js": {
+    "jirafe": ""
+  },
+  "scripts": "/jirafe\\.js",
+  "website": "https://docs.jirafe.com"
+}

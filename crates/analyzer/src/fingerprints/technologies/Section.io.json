@@ -1,0 +1,12 @@
+{
+  "cats": [
+    31
+  ],
+  "headers": {
+    "section-io-id": "",
+    "section-io-origin-status": "",
+    "section-io-origin-time-seconds": ""
+  },
+  "icon": "sectionio.svg",
+  "website": "https://www.section.io"
+}

@@ -1,0 +1,12 @@
+{
+  "cats": [
+    25
+  ],
+  "html": "<link[^>]* href=\"[^\"]*xcharts(?:\\.min)?\\.css",
+  "implies": "D3",
+  "js": {
+    "xChart": ""
+  },
+  "scripts": "xcharts\\.js",
+  "website": "https://tenxer.github.io/xcharts/"
+}

@@ -1,0 +1,32 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "DotNetNukeAnonymous": ""
+  },
+  "cpe": "cpe:/a:dnnsoftware:dotnetnuke",
+  "headers": {
+    "Cookie": "dnn_IsMobile=",
+    "DNNOutputCache": "",
+    "X-Compressed-By": "DotNetNuke"
+  },
+  "html": [
+    "<!-- by DotNetNuke Corporation",
+    "<!-- DNN Platform"
+  ],
+  "icon": "DNN.png",
+  "implies": "Microsoft ASP.NET",
+  "js": {
+    "DotNetNuke": "",
+    "dnn.apiversion": "^(.+)$\\;version:\\1"
+  },
+  "meta": {
+    "generator": "DotNetNuke"
+  },
+  "scripts": [
+    "/js/dnncore\\.js",
+    "/js/dnn\\.js"
+  ],
+  "website": "http://dnnsoftware.com"
+}

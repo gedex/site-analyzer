@@ -1,0 +1,11 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "hantana.png",
+  "js": {
+    "Hantana": ""
+  },
+  "scripts": "//hantana\\.org/widget",
+  "website": "https://hantana.org/"
+}

@@ -1,0 +1,14 @@
+{
+  "cats": [
+    32
+  ],
+  "icon": "Oracle.png",
+  "js": {
+    "elqCurESite": "",
+    "elqLoad": "",
+    "elqSiteID": "",
+    "elq_global": ""
+  },
+  "scripts": "elqCfg\\.js",
+  "website": "http://eloqua.com"
+}

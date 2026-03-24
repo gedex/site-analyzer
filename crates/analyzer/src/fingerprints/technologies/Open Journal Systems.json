@@ -1,0 +1,15 @@
+{
+  "cats": [
+    50
+  ],
+  "cookies": {
+    "OJSSID": ""
+  },
+  "cpe": "cpe:/a:public_knowledge_project:open_journal_systems",
+  "icon": "Open Journal Systems.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "Open Journal Systems(?: ([\\d.]+))?\\;version:\\1"
+  },
+  "website": "http://pkp.sfu.ca/ojs"
+}

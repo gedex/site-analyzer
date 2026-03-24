@@ -1,0 +1,10 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "RCMS.png",
+  "meta": {
+    "generator": "^(?:RCMS|ReallyCMS)"
+  },
+  "website": "http://www.rcms.fi"
+}

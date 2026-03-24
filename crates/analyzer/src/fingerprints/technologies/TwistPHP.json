@@ -1,0 +1,11 @@
+{
+  "cats": [
+    18
+  ],
+  "headers": {
+    "X-Powered-By": "TwistPHP"
+  },
+  "icon": "TwistPHP.png",
+  "implies": "PHP",
+  "website": "http://twistphp.com"
+}

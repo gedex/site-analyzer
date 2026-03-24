@@ -1,0 +1,11 @@
+{
+  "cats": [
+    59
+  ],
+  "icon": "math.js.png",
+  "js": {
+    "mathjs": ""
+  },
+  "scripts": "math(?:\\.min)?\\.js",
+  "website": "http://mathjs.org"
+}

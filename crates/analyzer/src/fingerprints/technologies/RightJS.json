@@ -1,0 +1,11 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "RightJS.png",
+  "js": {
+    "RightJS": ""
+  },
+  "scripts": "right\\.js",
+  "website": "http://rightjs.org"
+}

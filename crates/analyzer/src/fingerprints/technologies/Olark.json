@@ -1,0 +1,8 @@
+{
+  "cats": [
+    52
+  ],
+  "icon": "Olark.png",
+  "scripts": "^https?:\\/\\/static\\.olark\\.com\\/jsclient\\/loader1\\.js",
+  "website": "https://www.olark.com/"
+}

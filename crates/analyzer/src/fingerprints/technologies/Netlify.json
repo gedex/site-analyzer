@@ -1,0 +1,13 @@
+{
+  "cats": [
+    62,
+    31
+  ],
+  "headers": {
+    "Server": "^Netlify",
+    "X-NF-Request-ID": ""
+  },
+  "icon": "Netlify.svg",
+  "url": "^https?://[^/]+\\.netlify\\.(?:com|app)/",
+  "website": "https://www.netlify.com/"
+}

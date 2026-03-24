@@ -1,0 +1,17 @@
+{
+  "cats": [
+    62
+  ],
+  "cookies": {
+    "ARRAffinity": "",
+    "TiPMix": ""
+  },
+  "headers": {
+    "azure-regionname": "",
+    "azure-sitename": "",
+    "azure-slotname": "",
+    "azure-version": ""
+  },
+  "icon": "azure.svg",
+  "website": "https://azure.microsoft.com"
+}

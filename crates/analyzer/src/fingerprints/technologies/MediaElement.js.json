@@ -1,0 +1,11 @@
+{
+  "cats": [
+    14
+  ],
+  "icon": "MediaElement.js.png",
+  "js": {
+    "mejs": "",
+    "mejs.version": "^(.+)$\\;version:\\1"
+  },
+  "website": "http://www.mediaelementjs.com"
+}

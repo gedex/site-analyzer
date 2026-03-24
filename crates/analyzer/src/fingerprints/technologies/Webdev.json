@@ -1,0 +1,14 @@
+{
+  "cats": [
+    20
+  ],
+  "headers": {
+    "WebDevSrc": ""
+  },
+  "html": "<!-- [a-zA-Z0-9_]+ [\\d/]+ [\\d:]+ WebDev \\d\\d ([\\d.]+) -->\\;version:\\1",
+  "icon": "webdev.png",
+  "meta": {
+    "generator": "^WEBDEV$"
+  },
+  "website": "https://www.windev.com/webdev/index.html"
+}

@@ -1,0 +1,16 @@
+{
+  "cats": [
+    6
+  ],
+  "cpe": "cpe:/a:arastta:ecommerce",
+  "excludes": "OpenCart",
+  "headers": {
+    "Arastta": "^(.+)$\\;version:\\1",
+    "X-Arastta": ""
+  },
+  "html": "Powered by <a [^>]*href=\"https?://(?:www\\.)?arastta\\.org[^>]+>Arastta",
+  "icon": "Arastta.svg",
+  "implies": "PHP",
+  "scripts": "arastta\\.js",
+  "website": "http://arastta.org"
+}

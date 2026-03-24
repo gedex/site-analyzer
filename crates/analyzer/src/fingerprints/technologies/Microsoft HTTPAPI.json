@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "Microsoft-HTTPAPI(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "Microsoft.png",
+  "website": "http://microsoft.com"
+}

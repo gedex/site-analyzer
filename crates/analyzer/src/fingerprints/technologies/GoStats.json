@@ -1,0 +1,12 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "GoStats.png",
+  "js": {
+    "_goStatsRun": "",
+    "_go_track_src": "",
+    "go_msie": ""
+  },
+  "website": "http://gostats.com/"
+}

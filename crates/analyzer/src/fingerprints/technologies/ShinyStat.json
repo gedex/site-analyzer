@@ -1,0 +1,12 @@
+{
+  "cats": [
+    10
+  ],
+  "html": "<img[^>]*\\s+src=['\"]?https?://www\\.shinystat\\.com/cgi-bin/shinystat\\.cgi\\?[^'\"\\s>]*['\"\\s/>]",
+  "icon": "ShinyStat.png",
+  "js": {
+    "SSsdk": ""
+  },
+  "scripts": "^https?://codice(?:business|ssl|pro|isp)?\\.shinystat\\.com/cgi-bin/getcod\\.cgi",
+  "website": "http://shinystat.com"
+}

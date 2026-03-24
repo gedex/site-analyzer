@@ -1,0 +1,15 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "lm_online": ""
+  },
+  "html": "<!-- Lightmon Engine Copyright Lightmon",
+  "icon": "LightMon Engine.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "LightMon Engine"
+  },
+  "website": "http://lightmon.ru"
+}

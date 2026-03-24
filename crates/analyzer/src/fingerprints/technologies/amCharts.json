@@ -1,0 +1,12 @@
+{
+  "cats": [
+    25
+  ],
+  "html": "<svg[^>]*><desc>JavaScript chart by amCharts ([\\d.]*)\\;version:\\1",
+  "icon": "amCharts.png",
+  "js": {
+    "AmCharts": ""
+  },
+  "scripts": "amcharts.*\\.js",
+  "website": "http://amcharts.com"
+}

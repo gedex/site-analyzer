@@ -1,0 +1,13 @@
+{
+  "cats": [
+    12
+  ],
+  "html": "<[^>]*type=[^>]text\\/x-handlebars-template",
+  "icon": "Handlebars.png",
+  "js": {
+    "Handlebars": "",
+    "Handlebars.VERSION": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "handlebars(?:\\.runtime)?(?:-v([\\d.]+?))?(?:\\.min)?\\.js\\;version:\\1",
+  "website": "http://handlebarsjs.com"
+}

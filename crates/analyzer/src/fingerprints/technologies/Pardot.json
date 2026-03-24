@@ -1,0 +1,19 @@
+{
+  "cats": [
+    32
+  ],
+  "headers": {
+    "X-Pardot-LB": "",
+    "X-Pardot-Route": "",
+    "X-Pardot-Rsp": ""
+  },
+  "icon": "Pardot.png",
+  "js": {
+    "piAId": "",
+    "piCId": "",
+    "piHostname": "",
+    "piProtocol": "",
+    "piTracker": ""
+  },
+  "website": "https://www.pardot.com"
+}

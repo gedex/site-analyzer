@@ -1,0 +1,26 @@
+{
+  "cats": [
+    1,
+    6,
+    11
+  ],
+  "cookies": {
+    "Domain": "\\.wix\\.com"
+  },
+  "headers": {
+    "X-Wix-Renderer-Server": "",
+    "X-Wix-Request-Id": "",
+    "X-Wix-Server-Artifact-Id": ""
+  },
+  "icon": "Wix.png",
+  "implies": "React",
+  "js": {
+    "wixBiSession": ""
+  },
+  "meta": {
+    "generator": "Wix\\.com Website Builder"
+  },
+  "scripts": "static\\.parastorage\\.com",
+  "description": "Wix provides cloud-based web development services, allowing users to create HTML5 websites and mobile sites.",
+  "website": "https://www.wix.com"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "AppDynamics.png",
+  "js": {
+    "ADRUM.conf.agentVer": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "adrum",
+  "website": "https://appdynamics.com"
+}

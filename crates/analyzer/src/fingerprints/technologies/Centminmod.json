@@ -1,0 +1,15 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "X-Powered-By": "centminmod"
+  },
+  "icon": "centminmod.png",
+  "implies": [
+    "CentOS",
+    "Nginx",
+    "PHP"
+  ],
+  "website": "https://centminmod.com"
+}

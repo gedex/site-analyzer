@@ -1,0 +1,17 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "AdOcean.png",
+  "implies": "Gemius",
+  "js": {
+    "ado.master": "",
+    "ado.placement": "",
+    "ado.slave": ""
+  },
+  "scripts": [
+    "adocean\\.pl/files/js/ado\\.js",
+    "adocean\\.pl\\;confidence:80"
+  ],
+  "website": "https://adocean-global.com"
+}

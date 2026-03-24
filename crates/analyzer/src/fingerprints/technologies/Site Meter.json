@@ -1,0 +1,8 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Site Meter.png",
+  "scripts": "sitemeter\\.com/js/counter\\.js\\?site=",
+  "website": "http://www.sitemeter.com"
+}

@@ -1,0 +1,10 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<link[^>]* href=\"\\/DovetailWRP\\/",
+  "icon": "DovetailWRP.png",
+  "implies": "Microsoft ASP.NET",
+  "scripts": "\\/DovetailWRP\\/",
+  "website": "http://www.dovetailinternet.com"
+}

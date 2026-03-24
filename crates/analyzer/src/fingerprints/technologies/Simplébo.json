@@ -1,0 +1,10 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-ServedBy": "simplebo"
+  },
+  "icon": "Simplebo.png",
+  "website": "https://www.simplebo.fr"
+}

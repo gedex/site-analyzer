@@ -1,0 +1,13 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Statcounter.svg",
+  "js": {
+    "_statcounter": "",
+    "sc_project": "\\;confidence:50",
+    "sc_security": "\\;confidence:50"
+  },
+  "scripts": "statcounter\\.com/counter/counter",
+  "website": "http://www.statcounter.com"
+}

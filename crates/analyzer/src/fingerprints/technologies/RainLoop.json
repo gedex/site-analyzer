@@ -1,0 +1,22 @@
+{
+  "cats": [
+    30
+  ],
+  "headers": {
+    "Server": "^RainLoop"
+  },
+  "html": [
+    "<link[^>]href=\"rainloop/v/([0-9.]+)/static/apple-touch-icon\\.png/>\\;version:\\1"
+  ],
+  "icon": "RainLoop.png",
+  "implies": "PHP",
+  "js": {
+    "rainloop": "",
+    "rainloopI18N": ""
+  },
+  "meta": {
+    "rlAppVersion": "^([0-9.]+)$\\;version:\\1"
+  },
+  "scripts": "^rainloop/v/([0-9.]+)/\\;version:\\1",
+  "website": "https://www.rainloop.net/"
+}

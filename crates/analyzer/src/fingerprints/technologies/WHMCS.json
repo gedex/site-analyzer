@@ -1,0 +1,11 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "WHMCS.png",
+  "js": {
+    "WHMCS": ""
+  },
+  "description": "WHMCS is an automation platform that simplifies and automates all aspects of operating an online web hosting and domain registrar business.",
+  "website": "http://www.whmcs.com"
+}

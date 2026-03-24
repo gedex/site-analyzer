@@ -1,0 +1,11 @@
+{
+  "cats": [
+    18
+  ],
+  "headers": {
+    "X-Application-Context": ""
+  },
+  "icon": "Spring.png",
+  "implies": "Java",
+  "website": "https://spring.io/"
+}

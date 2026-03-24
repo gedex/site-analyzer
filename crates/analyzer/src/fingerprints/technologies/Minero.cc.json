@@ -1,0 +1,9 @@
+{
+  "cats": [
+    56
+  ],
+  "scripts": [
+    "//minero\\.cc/lib/minero(?:-miner|-hidden)?\\.min\\.js"
+  ],
+  "website": "http://minero.cc/"
+}

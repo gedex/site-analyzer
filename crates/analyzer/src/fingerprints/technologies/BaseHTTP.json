@@ -1,0 +1,11 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "BaseHTTP\\/?([\\d\\.]+)?\\;version:\\1"
+  },
+  "icon": "BaseHTTP.png",
+  "implies": "Python",
+  "website": "http://docs.python.org/2/library/basehttpserver.html"
+}

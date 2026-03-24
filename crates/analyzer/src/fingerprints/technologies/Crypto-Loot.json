@@ -1,0 +1,17 @@
+{
+  "cats": [
+    56
+  ],
+  "icon": "Crypto-Loot.png",
+  "js": {
+    "CRLT.CONFIG.ASMJS_NAME": "",
+    "CryptoLoot": ""
+  },
+  "scripts": [
+    "^/crypto-loot\\.com/lib/",
+    "^/webmine\\.pro/",
+    "^/cryptoloot\\.pro/",
+    "/crlt\\.js\\;confidence:75"
+  ],
+  "website": "https://crypto-loot.com/"
+}

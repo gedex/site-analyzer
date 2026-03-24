@@ -1,0 +1,11 @@
+{
+  "cats": [
+    57
+  ],
+  "icon": "VuePress.svg",
+  "implies": "Vue.js",
+  "meta": {
+    "generator": "^VuePress(?: ([0-9.]+))?$\\;version:\\1"
+  },
+  "website": "https://vuepress.vuejs.org/"
+}

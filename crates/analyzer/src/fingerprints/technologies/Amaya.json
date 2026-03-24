@@ -1,0 +1,10 @@
+{
+  "cats": [
+    20
+  ],
+  "icon": "Amaya.png",
+  "meta": {
+    "generator": "Amaya(?: V?([\\d.]+[a-z]))?\\;version:\\1"
+  },
+  "website": "http://www.w3.org/Amaya"
+}

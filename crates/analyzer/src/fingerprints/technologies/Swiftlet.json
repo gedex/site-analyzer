@@ -1,0 +1,17 @@
+{
+  "cats": [
+    18
+  ],
+  "headers": {
+    "X-Generator": "Swiftlet",
+    "X-Powered-By": "Swiftlet",
+    "X-Swiftlet-Cache": ""
+  },
+  "html": "Powered by <a href=\"[^>]+Swiftlet",
+  "icon": "Swiftlet.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "Swiftlet"
+  },
+  "website": "http://swiftlet.org"
+}

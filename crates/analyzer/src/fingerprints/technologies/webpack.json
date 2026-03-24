@@ -1,0 +1,10 @@
+{
+  "cats": [
+    19
+  ],
+  "icon": "webpack.svg",
+  "js": {
+    "webpackJsonp": ""
+  },
+  "website": "https://webpack.js.org/"
+}

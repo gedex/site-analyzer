@@ -1,0 +1,12 @@
+{
+  "cats": [
+    59
+  ],
+  "icon": "Immutable.js.png",
+  "js": {
+    "Immutable": "",
+    "Immutable.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "^immutable\\.(?:min\\.)?js$",
+  "website": "https://facebook.github.io/immutable-js/"
+}

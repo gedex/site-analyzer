@@ -1,0 +1,8 @@
+{
+  "cats": [
+    5
+  ],
+  "icon": "Facebook.svg",
+  "scripts": "//connect\\.facebook\\.net/[^/]*/[a-z]*\\.js",
+  "website": "http://facebook.com"
+}

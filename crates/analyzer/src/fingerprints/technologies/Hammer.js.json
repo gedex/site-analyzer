@@ -1,0 +1,13 @@
+{
+  "cats": [
+    59
+  ],
+  "icon": "Hammer.js.png",
+  "js": {
+    "Ha.VERSION": "^(.+)$\\;version:\\1",
+    "Hammer": "",
+    "Hammer.VERSION": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "hammer(?:\\.min)?\\.js",
+  "website": "https://hammerjs.github.io"
+}

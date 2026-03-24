@@ -1,0 +1,17 @@
+{
+  "cats": [
+    47
+  ],
+  "cpe": "cpe:/a:jfrog:artifactory",
+  "html": [
+    "<span class=\"version\">Artifactory(?: Pro)?(?: Power Pack)?(?: ([\\d.]+))?\\;version:\\1"
+  ],
+  "icon": "Artifactory.svg",
+  "js": {
+    "ArtifactoryUpdates": ""
+  },
+  "scripts": [
+    "wicket/resource/org\\.artifactory\\."
+  ],
+  "website": "http://jfrog.com/open-source/#os-arti"
+}

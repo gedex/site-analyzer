@@ -1,0 +1,16 @@
+{
+  "cats": [
+    59
+  ],
+  "html": "(?:<link [^>]*href=\"[^\"]*prettyPhoto(?:\\.min)?\\.css|<a [^>]*rel=\"prettyPhoto)",
+  "icon": "prettyPhoto.png",
+  "implies": "jQuery",
+  "js": {
+    "pp_alreadyInitialized": "",
+    "pp_descriptions": "",
+    "pp_images": "",
+    "pp_titles": ""
+  },
+  "scripts": "jquery\\.prettyPhoto\\.js",
+  "website": "http://no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/"
+}

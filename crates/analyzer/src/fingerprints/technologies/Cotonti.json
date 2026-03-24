@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:cotonti:cotonti_siena",
+  "icon": "Cotonti.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "Cotonti"
+  },
+  "website": "http://www.cotonti.com"
+}

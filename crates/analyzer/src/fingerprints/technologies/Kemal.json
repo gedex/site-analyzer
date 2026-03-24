@@ -1,0 +1,11 @@
+{
+  "cats": [
+    18,
+    22
+  ],
+  "headers": {
+    "X-Powered-By": "Kemal"
+  },
+  "icon": "kemalcr.png",
+  "website": "http://kemalcr.com"
+}

@@ -1,0 +1,13 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "mouseflow.png",
+  "js": {
+    "_mfq": ""
+  },
+  "scripts": [
+    "cdn\\.mouseflow\\.com"
+  ],
+  "website": "https://mouseflow.com/"
+}

@@ -1,0 +1,12 @@
+{
+  "cats": [
+    25
+  ],
+  "icon": "MathJax.png",
+  "js": {
+    "MathJax": "",
+    "MathJax.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "([\\d.]+)?/mathjax\\.js\\;version:\\1",
+  "website": "https://www.mathjax.org"
+}

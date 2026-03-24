@@ -1,0 +1,13 @@
+{
+  "cats": [
+    7
+  ],
+  "cpe": "cpe:/a:imagely:nextgen_gallery",
+  "html": [
+    "<!-- <meta name=\"NextGEN\" version=\"([\\d.]+)\" /> -->\\;version:\\1"
+  ],
+  "icon": "NextGEN Gallery.png",
+  "implies": "WordPress",
+  "scripts": "/nextgen-gallery/js/",
+  "website": "https://www.imagely.com/wordpress-gallery-plugin"
+}

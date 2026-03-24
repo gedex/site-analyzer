@@ -1,0 +1,8 @@
+{
+  "cats": [
+    25
+  ],
+  "implies": "jQuery",
+  "scripts": "jquery\\.sparkline.*\\.js",
+  "website": "http://omnipotent.net/jquery.sparkline/"
+}

@@ -1,0 +1,29 @@
+{
+  "cats": [
+    6
+  ],
+  "headers": {
+    "sw-context-token": "^[\\w]{32}$\\;version:6",
+    "sw-invalidation-states": "\\;version:6",
+    "sw-language-id": "^[a-fA-F0-9]{32}$\\;version:6",
+    "sw-version-id": "\\;version:6"
+  },
+  "html": "<title>Shopware ([\\d\\.]+) [^<]+\\;version:\\1",
+  "icon": "Shopware.svg",
+  "implies": [
+    "PHP",
+    "MySQL",
+    "jQuery",
+    "Symfony"
+  ],
+  "meta": {
+    "application-name": "Shopware"
+  },
+  "scripts": [
+    "(?:(shopware)|/web/cache/[0-9]{10}_.+)\\.js\\;version:\\1?4:5",
+    "/jquery\\.shopware\\.min\\.js",
+    "/engine/Shopware/"
+  ],
+  "description": "Shopware is an enterprise-level ecommerce platform.",
+  "website": "https://www.shopware.com"
+}

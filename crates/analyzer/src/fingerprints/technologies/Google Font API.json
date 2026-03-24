@@ -1,0 +1,12 @@
+{
+  "cats": [
+    17
+  ],
+  "html": "<link[^>]* href=[^>]+fonts\\.(?:googleapis|google)\\.com",
+  "icon": "Google Font API.png",
+  "js": {
+    "WebFonts": ""
+  },
+  "scripts": "googleapis\\.com/.+webfont",
+  "website": "http://google.com/fonts"
+}

@@ -1,0 +1,15 @@
+{
+  "cats": [
+    13
+  ],
+  "html": "<script[^>]*>\\s*Raven\\.config\\('[^']*', \\{\\s+release: '([0-9\\.]+)'\\;version:\\1",
+  "icon": "Sentry.svg",
+  "js": {
+    "Raven.config": "",
+    "Sentry": "",
+    "Sentry.SDK_VERSION": "(.+)\\;version:\\1",
+    "__SENTRY__": "",
+    "ravenOptions.whitelistUrls": ""
+  },
+  "website": "https://sentry.io/"
+}

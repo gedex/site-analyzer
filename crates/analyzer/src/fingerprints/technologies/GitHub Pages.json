@@ -1,0 +1,13 @@
+{
+  "cats": [
+    62
+  ],
+  "headers": {
+    "Server": "^GitHub\\.com$",
+    "X-GitHub-Request-Id": ""
+  },
+  "icon": "GitHub.svg",
+  "implies": "Ruby on Rails",
+  "url": "^https?://[^/]+\\.github\\.io",
+  "website": "https://pages.github.com/"
+}

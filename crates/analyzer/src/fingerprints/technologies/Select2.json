@@ -1,0 +1,12 @@
+{
+  "cats": [
+    59
+  ],
+  "icon": "Select2.png",
+  "implies": "jQuery",
+  "js": {
+    "jQuery.fn.select2": ""
+  },
+  "scripts": "select2(?:\\.min|\\.full)?\\.js",
+  "website": "https://select2.org/"
+}

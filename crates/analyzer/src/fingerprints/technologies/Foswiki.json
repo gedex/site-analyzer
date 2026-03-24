@@ -1,0 +1,27 @@
+{
+  "cats": [
+    8
+  ],
+  "cookies": {
+    "FOSWIKISTRIKEONE": "",
+    "SFOSWIKISID": ""
+  },
+  "cpe": "cpe:/a:foswiki:foswiki",
+  "headers": {
+    "X-Foswikiaction": "",
+    "X-Foswikiuri": ""
+  },
+  "html": [
+    "<div class=\"foswiki(?:Copyright|Page|Main)\">"
+  ],
+  "icon": "foswiki.png",
+  "implies": "Perl",
+  "js": {
+    "foswiki": ""
+  },
+  "meta": {
+    "foswiki.SERVERTIME": "",
+    "foswiki.WIKINAME": ""
+  },
+  "website": "http://foswiki.org"
+}

@@ -1,0 +1,15 @@
+{
+  "cats": [
+    33
+  ],
+  "headers": {
+    "Server": "mod_wsgi(?:/([\\d.]+))?\\;version:\\1",
+    "X-Powered-By": "mod_wsgi(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "mod_wsgi.png",
+  "implies": [
+    "Python\\;confidence:50",
+    "Apache"
+  ],
+  "website": "https://code.google.com/p/modwsgi"
+}

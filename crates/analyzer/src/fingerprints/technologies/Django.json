@@ -1,0 +1,14 @@
+{
+  "cats": [
+    18
+  ],
+  "cpe": "cpe:/a:djangoproject:django",
+  "html": "(?:powered by <a[^>]+>Django ?([\\d.]+)?<\\/a>|<input[^>]*name=[\"']csrfmiddlewaretoken[\"'][^>]*>)\\;version:\\1",
+  "icon": "Django.png",
+  "implies": "Python",
+  "js": {
+    "__admin_media_prefix__": "",
+    "django": ""
+  },
+  "website": "https://djangoproject.com"
+}

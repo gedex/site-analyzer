@@ -1,0 +1,8 @@
+{
+  "cats": [
+    67
+  ],
+  "icon": "TrustArc.svg",
+  "scripts": "consent\\.trustarc\\.com",
+  "website": "http://trustarc.com"
+}

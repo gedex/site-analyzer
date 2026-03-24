@@ -1,0 +1,21 @@
+{
+  "cats": [
+    12
+  ],
+  "html": [
+    "<div [^>]*id=\"__nuxt\"",
+    "<script [^>]*>window\\.__NUXT__"
+  ],
+  "icon": "Nuxt.js.svg",
+  "implies": [
+    "Vue.js",
+    "Node.js"
+  ],
+  "js": {
+    "$nuxt": ""
+  },
+  "scripts": [
+    "/_nuxt/"
+  ],
+  "website": "https://nuxtjs.org"
+}

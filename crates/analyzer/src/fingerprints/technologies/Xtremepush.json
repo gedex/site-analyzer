@@ -1,0 +1,10 @@
+{
+  "cats": [
+    32
+  ],
+  "icon": "Xtremepush.svg",
+  "js": {
+    "xtremepush": ""
+  },
+  "website": "https://xtremepush.com"
+}

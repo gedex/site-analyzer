@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "TNEW": ""
+  },
+  "icon": "tessitura.svg",
+  "implies": "Tessitura",
+  "description": "Tessitura is an enterprise application to manage activities in ticketing, fundraising, customer relationship management, and marketing.",
+  "website": "https://www.tessituranetwork.com"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    28
+  ],
+  "headers": {
+    "Server": "SunOS( [\\d\\.]+)?\\;version:\\1",
+    "Servlet-engine": "SunOS( [\\d\\.]+)?\\;version:\\1"
+  },
+  "icon": "Oracle.png",
+  "website": "http://oracle.com/solaris"
+}

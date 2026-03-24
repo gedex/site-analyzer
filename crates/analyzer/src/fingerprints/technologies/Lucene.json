@@ -1,0 +1,9 @@
+{
+  "cats": [
+    34
+  ],
+  "cpe": "cpe:/a:apache:lucene",
+  "icon": "Lucene.png",
+  "implies": "Java",
+  "website": "http://lucene.apache.org/core/"
+}

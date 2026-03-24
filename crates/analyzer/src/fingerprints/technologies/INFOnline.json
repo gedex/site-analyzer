@@ -1,0 +1,12 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "INFOnline.png",
+  "js": {
+    "iam_data": "",
+    "szmvars": ""
+  },
+  "scripts": "^https?://(?:[^/]+\\.)?i(?:oam|v)wbox\\.de/",
+  "website": "https://www.infonline.de"
+}

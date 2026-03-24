@@ -1,0 +1,10 @@
+{
+  "cats": [
+    59
+  ],
+  "html": "<link [^>]*href=\"[^/]*slimbox(?:-rtl)?\\.css",
+  "icon": "Slimbox.png",
+  "implies": "MooTools",
+  "scripts": "slimbox\\.js",
+  "website": "http://www.digitalia.be/software/slimbox"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    62
+  ],
+  "headers": {
+    "x-powered-by": "WordPress VIP"
+  },
+  "icon": "wpvip.svg",
+  "implies": "WordPress",
+  "website": "https://wpvip.com"
+}

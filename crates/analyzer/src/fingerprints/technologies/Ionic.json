@@ -1,0 +1,11 @@
+{
+  "cats": [
+    18
+  ],
+  "icon": "ionic.png",
+  "js": {
+    "Ionic.config": "",
+    "Ionic.version": "^(.+)$\\;version:\\1"
+  },
+  "website": "https://ionicframework.com"
+}

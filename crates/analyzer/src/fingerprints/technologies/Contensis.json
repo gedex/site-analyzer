@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Contensis.png",
+  "implies": [
+    "Java",
+    "CFML"
+  ],
+  "meta": {
+    "generator": "Contensis CMS Version ([\\d.]+)\\;version:\\1"
+  },
+  "website": "https://zengenti.com/en-gb/products/contensis"
+}

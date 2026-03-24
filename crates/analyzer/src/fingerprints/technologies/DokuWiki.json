@@ -1,0 +1,19 @@
+{
+  "cats": [
+    8
+  ],
+  "cookies": {
+    "DokuWiki": ""
+  },
+  "cpe": "cpe:/a:dokuwiki:dokuwiki",
+  "html": [
+    "<div[^>]+id=\"dokuwiki__>",
+    "<a[^>]+href=\"#dokuwiki__"
+  ],
+  "icon": "DokuWiki.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "^DokuWiki( Release [\\d-]+)?\\;version:\\1"
+  },
+  "website": "https://www.dokuwiki.org"
+}

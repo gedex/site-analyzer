@@ -1,0 +1,11 @@
+{
+  "cats": [
+    18
+  ],
+  "cookies": {
+    "cookie_name": "adonis-session"
+  },
+  "icon": "AdonisJS.png",
+  "implies": "Node.js",
+  "website": "https://adonisjs.com"
+}

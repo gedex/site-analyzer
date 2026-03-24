@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Powered-By": "LiveStreet CMS"
+  },
+  "icon": "LiveStreet CMS.png",
+  "implies": "PHP",
+  "js": {
+    "LIVESTREET_SECURITY_KEY": ""
+  },
+  "website": "http://livestreetcms.com"
+}

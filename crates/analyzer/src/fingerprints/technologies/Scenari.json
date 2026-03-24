@@ -1,0 +1,16 @@
+{
+  "cats": [
+    1,
+    11
+  ],
+  "icon": "Scenari.png",
+  "implies": [
+    "Roadiz CMS",
+    "PHP",
+    "Symfony"
+  ],
+  "meta": {
+    "generator": "^Roadiz ?(?:master|develop)? v?[0-9\\.]+ - Scenari v?([0-9\\.]+)\\;version:\\1"
+  },
+  "website": "https://demo.scenari.site"
+}

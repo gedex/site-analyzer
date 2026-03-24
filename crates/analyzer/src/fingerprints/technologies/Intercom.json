@@ -1,0 +1,11 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Intercom.svg",
+  "js": {
+    "Intercom": ""
+  },
+  "scripts": "(?:api\\.intercom\\.io/api|static\\.intercomcdn\\.com/intercom\\.v1)",
+  "website": "https://www.intercom.com"
+}

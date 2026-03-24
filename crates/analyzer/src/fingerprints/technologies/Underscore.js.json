@@ -1,0 +1,13 @@
+{
+  "cats": [
+    59
+  ],
+  "excludes": "Lodash",
+  "icon": "Underscore.js.png",
+  "js": {
+    "_.VERSION": "^(.+)$\\;confidence:0\\;version:\\1",
+    "_.restArguments": ""
+  },
+  "scripts": "underscore.*\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1",
+  "website": "http://underscorejs.org"
+}

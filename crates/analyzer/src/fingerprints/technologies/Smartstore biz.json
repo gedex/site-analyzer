@@ -1,0 +1,8 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "Smartstore.biz.png",
+  "scripts": "smjslib\\.js",
+  "website": "http://smartstore.com"
+}

@@ -1,0 +1,8 @@
+{
+  "cats": [
+    34
+  ],
+  "cpe": "cpe:/a:mysql:mysql",
+  "icon": "MySQL.svg",
+  "website": "http://mysql.com"
+}

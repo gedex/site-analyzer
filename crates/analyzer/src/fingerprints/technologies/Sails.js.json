@@ -1,0 +1,14 @@
+{
+  "cats": [
+    18
+  ],
+  "cookies": {
+    "sails.sid": ""
+  },
+  "headers": {
+    "X-Powered-By": "^Sails(?:$|[^a-z0-9])"
+  },
+  "icon": "Sails.js.svg",
+  "implies": "Express",
+  "website": "http://sailsjs.org"
+}

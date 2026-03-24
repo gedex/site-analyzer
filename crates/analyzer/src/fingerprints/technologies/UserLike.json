@@ -1,0 +1,11 @@
+{
+  "cats": [
+    52
+  ],
+  "icon": "UserLike.svg",
+  "scripts": [
+    "userlike\\.min\\.js",
+    "userlikelib\\.min\\.js"
+  ],
+  "website": "http://userlike.com"
+}

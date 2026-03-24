@@ -1,0 +1,13 @@
+{
+  "cats": [
+    41
+  ],
+  "html": "<img [^>]*src=\"[^/]*//[^/]*eway\\.com",
+  "icon": "zip_pay.svg",
+  "scripts": [
+    "static\\.zipmoney\\.com\\.au",
+    "zip\\.co"
+  ],
+  "description": "Zip is a payment service that lets you receive your purchase now and spread the total cost over a interest-free payment schedule.",
+  "website": "https://www.zip.co/"
+}

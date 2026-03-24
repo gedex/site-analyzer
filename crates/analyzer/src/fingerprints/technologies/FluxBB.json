@@ -1,0 +1,10 @@
+{
+  "cats": [
+    2
+  ],
+  "cpe": "cpe:/a:fluxbb:fluxbb",
+  "html": "<p id=\"poweredby\">[^<]+<a href=\"https?://fluxbb\\.org/\">",
+  "icon": "FluxBB.png",
+  "implies": "PHP",
+  "website": "https://fluxbb.org"
+}

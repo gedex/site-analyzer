@@ -1,0 +1,11 @@
+{
+  "cats": [
+    33
+  ],
+  "headers": {
+    "Server": "mod_ssl(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "mod_ssl.png",
+  "implies": "Apache",
+  "website": "http://modssl.org"
+}

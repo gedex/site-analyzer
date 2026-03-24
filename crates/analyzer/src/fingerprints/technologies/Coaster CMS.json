@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:web-feet:coaster_cms",
+  "icon": "coaster-cms.png",
+  "implies": "Laravel",
+  "meta": {
+    "generator": "^Coaster CMS v([\\d.]+)$\\;version:\\1"
+  },
+  "website": "https://www.coastercms.org"
+}

@@ -1,0 +1,10 @@
+{
+  "cats": [
+    5
+  ],
+  "html": "<link [^>]*href=\"[^\"]+owl\\.carousel(?:\\.min)?\\.css",
+  "icon": "OWL Carousel.png",
+  "implies": "jQuery",
+  "scripts": "owl\\.carousel.*\\.js",
+  "website": "https://owlcarousel2.github.io/OwlCarousel2/"
+}

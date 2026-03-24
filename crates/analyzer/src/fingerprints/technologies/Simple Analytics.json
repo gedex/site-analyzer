@@ -1,0 +1,8 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "SimpleAnalytics.svg",
+  "scripts": "^https:\\/\\/cdn\\.simpleanalytics\\.io\\/hello\\.js",
+  "website": "https://simpleanalytics.com"
+}

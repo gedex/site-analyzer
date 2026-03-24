@@ -1,0 +1,10 @@
+{
+  "cats": [
+    41
+  ],
+  "html": "<img [^>]*src=\"[^/]*//[^/]*eway\\.com",
+  "icon": "eway.png",
+  "scripts": "secure\\.ewaypayments\\.com",
+  "description": "eWAY is a global omnichannel payment provider. The company processes secure credit card payments for merchants. eWay works through eCommerce.",
+  "website": "https://www.eway.com.au/"
+}

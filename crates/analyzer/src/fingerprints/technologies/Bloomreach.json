@@ -1,0 +1,8 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<[^>]+/binaries/(?:[^/]+/)*content/gallery/",
+  "icon": "Bloomreach.png",
+  "website": "https://developers.bloomreach.com"
+}

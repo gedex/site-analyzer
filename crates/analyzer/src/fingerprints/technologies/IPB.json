@@ -1,0 +1,22 @@
+{
+  "cats": [
+    2
+  ],
+  "cookies": {
+    "ipbWWLmodpids": "",
+    "ipbWWLsession_id": ""
+  },
+  "html": "<link[^>]+ipb_[^>]+\\.css",
+  "icon": "IPB.png",
+  "implies": [
+    "PHP",
+    "MySQL"
+  ],
+  "js": {
+    "IPBoard": "",
+    "ipb_var": "",
+    "ipsSettings": ""
+  },
+  "scripts": "jscripts/ips_",
+  "website": "https://invisioncommunity.com/"
+}

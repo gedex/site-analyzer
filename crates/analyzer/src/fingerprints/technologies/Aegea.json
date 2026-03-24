@@ -1,0 +1,14 @@
+{
+  "cats": [
+    11
+  ],
+  "headers": {
+    "X-Powered-By": "^E2 Aegea v(\\d+)$\\;version:\\1"
+  },
+  "icon": "Aegea.png",
+  "implies": [
+    "PHP",
+    "jQuery"
+  ],
+  "website": "http://blogengine.ru"
+}

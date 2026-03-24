@@ -1,0 +1,12 @@
+{
+  "cats": [
+    44,
+    47
+  ],
+  "icon": "GitLab CI.png",
+  "implies": "Ruby on Rails",
+  "meta": {
+    "description": "GitLab CI/CD is a tool built into GitLab for software development through continuous methodologies."
+  },
+  "website": "http://about.gitlab.com/gitlab-ci"
+}

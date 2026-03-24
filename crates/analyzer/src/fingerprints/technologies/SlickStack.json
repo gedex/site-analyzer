@@ -1,0 +1,12 @@
+{
+  "cats": [
+    47,
+    9
+  ],
+  "headers": {
+    "x-powered-by": "SlickStack"
+  },
+  "icon": "SlickStack.png",
+  "implies": "WordPress",
+  "website": "https://slickstack.io"
+}

@@ -1,0 +1,9 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Woltlab Community Framework.png",
+  "implies": "PHP",
+  "scripts": "WCF\\..*\\.js",
+  "website": "http://www.woltlab.com"
+}

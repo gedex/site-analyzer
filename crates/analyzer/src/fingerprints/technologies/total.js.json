@@ -1,0 +1,11 @@
+{
+  "cats": [
+    18
+  ],
+  "headers": {
+    "X-Powered-By": "^total\\.js"
+  },
+  "icon": "total.js.png",
+  "implies": "Node.js",
+  "website": "https://totaljs.com"
+}

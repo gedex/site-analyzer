@@ -1,0 +1,10 @@
+{
+  "cats": [
+    59
+  ],
+  "icon": "Day.js.svg",
+  "js": {
+    "dayjs": ""
+  },
+  "website": "https://github.com/iamkun/dayjs"
+}

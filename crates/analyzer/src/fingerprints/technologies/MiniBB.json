@@ -1,0 +1,9 @@
+{
+  "cats": [
+    2
+  ],
+  "cpe": "cpe:/a:minibb:minibb",
+  "html": "<a href=\"[^\"]+minibb[^<]+</a>[^<]+\\n<!--End of copyright link",
+  "icon": "MiniBB.png",
+  "website": "http://www.minibb.com"
+}

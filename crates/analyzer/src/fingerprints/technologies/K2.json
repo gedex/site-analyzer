@@ -1,0 +1,12 @@
+{
+  "cats": [
+    19
+  ],
+  "html": "<!--(?: JoomlaWorks \"K2\"| Start K2)",
+  "icon": "K2.png",
+  "implies": "Joomla",
+  "js": {
+    "K2RatingURL": ""
+  },
+  "website": "https://getk2.org"
+}

@@ -1,0 +1,12 @@
+{
+  "cats": [
+    12
+  ],
+  "html": [
+    "<html[^>]* (?:amp|\u26a1)[^-]",
+    "<link rel=\"amphtml\""
+  ],
+  "icon": "Accelerated-Mobile-Pages.svg",
+  "description": "AMP, originally created by Google, is an open source HTML framework developed by the AMP Open Source Project. AMP is designed to help webpages load faster.",
+  "website": "https://www.amp.dev"
+}

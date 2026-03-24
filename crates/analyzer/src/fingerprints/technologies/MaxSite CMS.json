@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "MaxSite CMS.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "MaxSite CMS"
+  },
+  "website": "http://max-3000.com"
+}

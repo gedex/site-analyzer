@@ -1,0 +1,11 @@
+{
+  "cats": [
+    19
+  ],
+  "icon": "Prism.svg",
+  "js": {
+    "Prism": ""
+  },
+  "scripts": "prism\\.js",
+  "website": "http://prismjs.com"
+}

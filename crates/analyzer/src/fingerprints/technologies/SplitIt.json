@@ -1,0 +1,9 @@
+{
+  "cats": [
+    41
+  ],
+  "icon": "splitit.png",
+  "scripts": "checkout\\.production\\.splitit\\.com",
+  "description": "Splitit is the only buy-now-pay-later plan that lets shoppers set up payment plans with their existing credit card without interest charges or fees.",
+  "website": "https://www.splitit.com/"
+}

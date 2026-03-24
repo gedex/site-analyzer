@@ -1,0 +1,11 @@
+{
+  "cats": [
+    5
+  ],
+  "icon": "AddThis.svg",
+  "js": {
+    "addthis": ""
+  },
+  "scripts": "addthis\\.com/js/",
+  "website": "http://www.addthis.com"
+}

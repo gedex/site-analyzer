@@ -1,0 +1,12 @@
+{
+  "cats": [
+    66,
+    19
+  ],
+  "html": [
+    "<body[^>]+govuk-template__body",
+    "<a[^>]+govuk-link"
+  ],
+  "icon": "govuk.png",
+  "website": "https://design-system.service.gov.uk/"
+}

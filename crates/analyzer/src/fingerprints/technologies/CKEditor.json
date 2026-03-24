@@ -1,0 +1,13 @@
+{
+  "cats": [
+    24
+  ],
+  "cpe": "cpe:/a:ckeditor:ckeditor",
+  "icon": "CKEditor.png",
+  "js": {
+    "CKEDITOR": "",
+    "CKEDITOR.version": "^(.+)$\\;version:\\1",
+    "CKEDITOR_BASEPATH": ""
+  },
+  "website": "http://ckeditor.com"
+}

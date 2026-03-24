@@ -1,0 +1,10 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Powered-By": "swift\\.engine"
+  },
+  "icon": "swift.engine.png",
+  "website": "http://mittec.ru/default"
+}

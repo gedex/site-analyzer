@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1,
+    6
+  ],
+  "html": "<link[^>]+href=[\"'][^\"]+mg-(?:core|plugins|templates)/",
+  "icon": "Moguta.CMS.png",
+  "implies": "PHP",
+  "scripts": "mg-(?:core|plugins|templates)/",
+  "website": "https://moguta.ru"
+}

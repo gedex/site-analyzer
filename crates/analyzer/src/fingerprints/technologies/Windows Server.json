@@ -1,0 +1,10 @@
+{
+  "cats": [
+    28
+  ],
+  "headers": {
+    "Server": "Win32|Win64"
+  },
+  "icon": "WindowsServer.png",
+  "website": "http://microsoft.com/windowsserver"
+}

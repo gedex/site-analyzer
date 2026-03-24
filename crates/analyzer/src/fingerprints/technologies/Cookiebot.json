@@ -1,0 +1,8 @@
+{
+  "cats": [
+    67
+  ],
+  "icon": "Cookiebot.svg",
+  "scripts": "consent\\.cookiebot\\.com",
+  "website": "http://www.cookiebot.com"
+}

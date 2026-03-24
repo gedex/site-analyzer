@@ -1,0 +1,11 @@
+{
+  "cats": [
+    31
+  ],
+  "headers": {
+    "X-EC-Debug": "",
+    "server": "^(?:ECAcc|ECS|ECD)"
+  },
+  "icon": "azure.svg",
+  "website": "https://azure.microsoft.com/en-us/services/cdn/"
+}

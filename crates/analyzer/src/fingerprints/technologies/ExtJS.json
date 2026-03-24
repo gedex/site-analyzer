@@ -1,0 +1,13 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "ExtJS.png",
+  "js": {
+    "Ext": "",
+    "Ext.version": "^(.+)$\\;version:\\1",
+    "Ext.versions.extjs.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "ext-base\\.js",
+  "website": "https://www.sencha.com"
+}

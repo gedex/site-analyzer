@@ -1,0 +1,12 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:microsoft:internet_information_server",
+  "headers": {
+    "Server": "^(?:Microsoft-)?IIS(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "IIS.png",
+  "implies": "Windows Server",
+  "website": "http://www.iis.net"
+}

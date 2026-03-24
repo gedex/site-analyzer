@@ -1,0 +1,16 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:indexhibit:indexhibit",
+  "html": "<(?:link|a href) [^>]+ndxz-studio",
+  "implies": [
+    "PHP",
+    "Apache",
+    "Exhibit"
+  ],
+  "meta": {
+    "generator": "Indexhibit"
+  },
+  "website": "http://www.indexhibit.org"
+}

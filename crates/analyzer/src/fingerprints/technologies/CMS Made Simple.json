@@ -1,0 +1,15 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "CMSSESSID": ""
+  },
+  "cpe": "cpe:/a:cmsmadesimple:cms_made_simple",
+  "icon": "CMS Made Simple.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "CMS Made Simple"
+  },
+  "website": "http://cmsmadesimple.org"
+}

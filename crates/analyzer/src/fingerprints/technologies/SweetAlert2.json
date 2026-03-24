@@ -1,0 +1,13 @@
+{
+  "cats": [
+    59
+  ],
+  "excludes": "SweetAlert",
+  "html": "<link[^>]+?href=\"[^\"]+sweetalert2(?:\\.min)?\\.css",
+  "icon": "SweetAlert2.png",
+  "js": {
+    "Sweetalert2": ""
+  },
+  "scripts": "sweetalert2(?:\\.all)?(?:\\.min)?\\.js",
+  "website": "https://sweetalert2.github.io/"
+}

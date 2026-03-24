@@ -1,0 +1,8 @@
+{
+  "cats": [
+    5
+  ],
+  "icon": "Linkedin.svg",
+  "scripts": "//platform\\.linkedin\\.com/in\\.js",
+  "website": "http://linkedin.com"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "Haravan.png",
+  "js": {
+    "Haravan": ""
+  },
+  "scripts": "haravan.*\\.js",
+  "website": "https://www.haravan.com"
+}

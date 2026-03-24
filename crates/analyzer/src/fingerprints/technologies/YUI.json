@@ -1,0 +1,12 @@
+{
+  "cats": [
+    59
+  ],
+  "icon": "YUI.png",
+  "js": {
+    "YAHOO.VERSION": "^(.+)$\\;version:\\1",
+    "YUI.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "(?:/yui/|yui\\.yahooapis\\.com)",
+  "website": "http://yuilibrary.com"
+}

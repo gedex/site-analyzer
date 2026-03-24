@@ -1,0 +1,12 @@
+{
+  "cats": [
+    8
+  ],
+  "cpe": "cpe:/a:apache:jspwiki",
+  "html": "<html[^>]* xmlns:jspwiki=",
+  "icon": "Apache JSPWiki.png",
+  "implies": "Apache Tomcat",
+  "scripts": "jspwiki",
+  "url": "wiki\\.jsp",
+  "website": "http://jspwiki.org"
+}

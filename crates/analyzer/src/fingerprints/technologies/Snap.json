@@ -1,0 +1,12 @@
+{
+  "cats": [
+    18,
+    22
+  ],
+  "headers": {
+    "Server": "Snap/([.\\d]+)\\;version:\\1"
+  },
+  "icon": "Snap.png",
+  "implies": "Haskell",
+  "website": "http://snapframework.com"
+}

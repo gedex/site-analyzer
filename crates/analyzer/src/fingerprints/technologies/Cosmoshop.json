@@ -1,0 +1,9 @@
+{
+  "cats": [
+    6
+  ],
+  "cpe": "cpe:/a:cosmoshop:cosmoshop",
+  "icon": "Cosmoshop.png",
+  "scripts": "cosmoshop_functions\\.js",
+  "website": "http://cosmoshop.de"
+}

@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1,
+    11
+  ],
+  "html": [
+    "<link rel=[\"']stylesheet[\"'] [^>]+boldgrid",
+    "<link rel=[\"']stylesheet[\"'] [^>]+post-and-page-builder",
+    "<link[^>]+s\\d+\\.boldgrid\\.com"
+  ],
+  "implies": "WordPress",
+  "scripts": "/wp-content/plugins/post-and-page-builder",
+  "website": "https://boldgrid.com"
+}

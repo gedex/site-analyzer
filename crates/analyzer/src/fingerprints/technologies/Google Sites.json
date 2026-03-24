@@ -1,0 +1,8 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Google Sites.png",
+  "url": "^https?://sites\\.google\\.com",
+  "website": "http://sites.google.com"
+}

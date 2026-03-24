@@ -1,0 +1,11 @@
+{
+  "cats": [
+    19
+  ],
+  "html": "<p class=\"footer\">&copy; [-\\d]+ Splunk Inc\\.(?: Splunk ([\\d\\.]+(?: build [\\d\\.]*\\d)?))?[^<]*</p>\\;version:\\1",
+  "icon": "Splunk.png",
+  "meta": {
+    "author": "Splunk Inc\\;confidence:50"
+  },
+  "website": "http://splunk.com"
+}

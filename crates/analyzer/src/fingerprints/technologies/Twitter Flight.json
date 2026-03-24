@@ -1,0 +1,11 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "Twitter Flight.png",
+  "implies": "jQuery",
+  "js": {
+    "flight": ""
+  },
+  "website": "https://flightjs.github.io/"
+}

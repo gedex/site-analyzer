@@ -1,0 +1,16 @@
+{
+  "cats": [
+    6,
+    47
+  ],
+  "cookies": {
+    "memberstack": ""
+  },
+  "icon": "MemberStack.png",
+  "js": {
+    "MemberStack": ""
+  },
+  "scripts": "memberstack\\.js",
+  "url": "^https?//.+\\.memberstack\\.io",
+  "website": "https://www.memberstack.io"
+}

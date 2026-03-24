@@ -1,0 +1,13 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:phpnuke:php-nuke",
+  "html": "<[^>]+Powered by PHP-Nuke",
+  "icon": "PHP-Nuke.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "PHP-Nuke"
+  },
+  "website": "http://phpnuke.org"
+}

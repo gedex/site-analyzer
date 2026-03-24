@@ -1,0 +1,10 @@
+{
+  "cats": [
+    18
+  ],
+  "icon": "Shiny.png",
+  "js": {
+    "Shiny.addCustomMessageHandler": ""
+  },
+  "website": "https://shiny.rstudio.com"
+}

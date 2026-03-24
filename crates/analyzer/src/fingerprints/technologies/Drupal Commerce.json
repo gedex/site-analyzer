@@ -1,0 +1,10 @@
+{
+  "cats": [
+    6
+  ],
+  "cpe": "cpe:/a:commerceguys:commerce",
+  "html": "<[^>]+(?:id=\"block[_-]commerce[_-]cart[_-]cart|class=\"commerce[_-]product[_-]field)",
+  "icon": "Drupal Commerce.png",
+  "implies": "Drupal",
+  "website": "http://drupalcommerce.org"
+}

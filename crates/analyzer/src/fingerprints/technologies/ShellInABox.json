@@ -1,0 +1,14 @@
+{
+  "cats": [
+    46
+  ],
+  "html": [
+    "<title>Shell In A Box</title>",
+    "must be enabled for ShellInABox</noscript>"
+  ],
+  "icon": "ShellInABox.png",
+  "js": {
+    "ShellInABox": ""
+  },
+  "website": "http://shellinabox.com"
+}

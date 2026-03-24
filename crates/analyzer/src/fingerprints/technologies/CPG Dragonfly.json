@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Powered-By": "^Dragonfly CMS"
+  },
+  "icon": "CPG Dragonfly.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "CPG Dragonfly"
+  },
+  "website": "http://dragonflycms.org"
+}

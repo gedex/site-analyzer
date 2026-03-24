@@ -1,0 +1,12 @@
+{
+  "cats": [
+    2
+  ],
+  "html": "credits/?\" title=\"Simple Machines Forum\" target=\"_blank\" class=\"new_win\">SMF ([0-9.]+)</a>\\;version:\\1",
+  "icon": "SMF.png",
+  "implies": "PHP",
+  "js": {
+    "smf_": ""
+  },
+  "website": "http://www.simplemachines.org"
+}

@@ -1,0 +1,15 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:pligg:pligg_cms",
+  "html": "<span[^>]+id=\"xvotes-0",
+  "icon": "Pligg.png",
+  "js": {
+    "pligg_": ""
+  },
+  "meta": {
+    "generator": "Pligg"
+  },
+  "website": "http://pligg.com"
+}

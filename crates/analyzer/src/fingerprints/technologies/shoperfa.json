@@ -1,0 +1,11 @@
+{
+  "cats": [
+    6
+  ],
+  "headers": {
+    "X-Powered-By": "^Shoperfa$"
+  },
+  "icon": "Shoperfa.png",
+  "url": "^https?://(?:www\\.)?shoperfa\\.com",
+  "website": "https://shoperfa.com"
+}

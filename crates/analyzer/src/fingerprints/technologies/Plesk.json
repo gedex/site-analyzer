@@ -1,0 +1,12 @@
+{
+  "cats": [
+    9
+  ],
+  "headers": {
+    "X-Powered-By": "^Plesk(?:L|W)in",
+    "X-Powered-By-Plesk": "^Plesk"
+  },
+  "icon": "Plesk.png",
+  "scripts": "common\\.js\\?plesk",
+  "website": "https://www.plesk.com/"
+}

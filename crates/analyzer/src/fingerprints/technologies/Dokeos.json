@@ -1,0 +1,20 @@
+{
+  "cats": [
+    21
+  ],
+  "headers": {
+    "X-Powered-By": "Dokeos"
+  },
+  "html": "(?:Portal <a[^>]+>Dokeos|@import \"[^\"]+dokeos_blue)",
+  "icon": "Dokeos.png",
+  "implies": [
+    "PHP",
+    "Xajax",
+    "jQuery",
+    "CKEditor"
+  ],
+  "meta": {
+    "generator": "Dokeos"
+  },
+  "website": "https://dokeos.com"
+}

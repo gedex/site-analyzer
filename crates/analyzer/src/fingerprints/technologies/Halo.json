@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1,
+    11
+  ],
+  "icon": "Halo.svg",
+  "implies": "Java",
+  "meta": {
+    "generator": "Halo ([\\d.]+)?\\;version:\\1"
+  },
+  "website": "https://halo.run"
+}

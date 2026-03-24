@@ -1,0 +1,10 @@
+{
+  "cats": [
+    69
+  ],
+  "icon": "Amazon.svg",
+  "js": {
+    "onAmazonLoginReady": ""
+  },
+  "website": "https://developer.amazon.com/apps-and-games/login-with-amazon"
+}

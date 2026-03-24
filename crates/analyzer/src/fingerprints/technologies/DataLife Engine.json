@@ -1,0 +1,18 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:dleviet:datalife_engine",
+  "icon": "DataLife Engine.png",
+  "implies": [
+    "PHP",
+    "Apache"
+  ],
+  "js": {
+    "dle_root": ""
+  },
+  "meta": {
+    "generator": "DataLife Engine"
+  },
+  "website": "https://dle-news.ru"
+}

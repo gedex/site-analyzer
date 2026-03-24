@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "lighttpd(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "lighttpd.png",
+  "website": "http://www.lighttpd.net"
+}

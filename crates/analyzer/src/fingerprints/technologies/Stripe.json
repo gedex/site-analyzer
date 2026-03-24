@@ -1,0 +1,17 @@
+{
+  "cats": [
+    41
+  ],
+  "cookies": {
+    "__stripe_mid": "",
+    "__stripe_sid": ""
+  },
+  "description": "Stripe offers online payment processing for internet businesses as well as fraud prevention, invoicing and subscription management.",
+  "html": "<input[^>]+data-stripe",
+  "icon": "Stripe.png",
+  "js": {
+    "Stripe.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "js\\.stripe\\.com",
+  "website": "http://stripe.com"
+}

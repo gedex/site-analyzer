@@ -1,0 +1,8 @@
+{
+  "cats": [
+    59
+  ],
+  "icon": "Ramda.png",
+  "scripts": "ramda.*\\.js",
+  "website": "http://ramdajs.com"
+}

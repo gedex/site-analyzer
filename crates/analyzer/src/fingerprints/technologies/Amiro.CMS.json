@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Amiro.CMS.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "Amiro"
+  },
+  "website": "http://amirocms.com"
+}

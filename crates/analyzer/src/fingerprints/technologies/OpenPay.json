@@ -1,0 +1,9 @@
+{
+  "cats": [
+    41
+  ],
+  "icon": "openpay.png",
+  "scripts": "openpay\\.com.\\au",
+  "description": "Openpay is an innovative online and in-store payment solution enabling you to purchase now and pay later, with no interest.",
+  "website": "https://www.openpay.com.au/"
+}

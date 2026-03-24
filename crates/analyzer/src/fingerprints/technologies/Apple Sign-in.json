@@ -1,0 +1,12 @@
+{
+  "cats": [
+    69
+  ],
+  "html": [
+    "<meta[\u02c6>]*appleid-signin-client-id",
+    "<a[\u02c6>]*appleid\\.apple\\.com/auth/authorize"
+  ],
+  "icon": "Apple.svg",
+  "scripts": "appleid.auth.js",
+  "website": "https://developer.apple.com/sign-in-with-apple/"
+}

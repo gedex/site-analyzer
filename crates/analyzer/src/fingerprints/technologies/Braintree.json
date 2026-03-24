@@ -1,0 +1,13 @@
+{
+  "cats": [
+    41
+  ],
+  "icon": "Braintree.svg",
+  "js": {
+    "Braintree": "",
+    "Braintree.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "js\\.braintreegateway\\.com",
+  "description": "Braintree, a division of PayPal, specializes in mobile and web payment systems for e-commerce companies. Braintree provides clients with a merchant account and a payment gateway.",
+  "website": "https://www.braintreepayments.com"
+}

@@ -1,0 +1,10 @@
+{
+  "cats": [
+    59
+  ],
+  "icon": "Sulu.svg",
+  "js": {
+    "web.startComponents": ""
+  },
+  "website": "https://github.com/sulu/web-js"
+}

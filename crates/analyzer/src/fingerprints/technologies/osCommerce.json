@@ -1,0 +1,19 @@
+{
+  "cats": [
+    6
+  ],
+  "cookies": {
+    "osCsid": ""
+  },
+  "html": [
+    "<br />Powered by <a href=\"https?://www\\.oscommerce\\.com",
+    "<(?:input|a)[^>]+name=\"osCsid\"",
+    "<(?:tr|td|table)class=\"[^\"]*infoBoxHeading"
+  ],
+  "icon": "osCommerce.png",
+  "implies": [
+    "PHP",
+    "MySQL"
+  ],
+  "website": "https://www.oscommerce.com"
+}

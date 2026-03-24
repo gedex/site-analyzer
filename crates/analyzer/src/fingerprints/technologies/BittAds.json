@@ -1,0 +1,11 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "BittAds.png",
+  "js": {
+    "bitt": ""
+  },
+  "scripts": "bittads\\.com/js/bitt\\.js$",
+  "website": "http://bittads.com"
+}

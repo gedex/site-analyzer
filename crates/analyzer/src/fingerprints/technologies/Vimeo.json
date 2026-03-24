@@ -1,0 +1,8 @@
+{
+  "cats": [
+    14
+  ],
+  "html": "(?:<(?:param|embed)[^>]+vimeo\\.com/moogaloop|<iframe[^>]player\\.vimeo\\.com)",
+  "icon": "Vimeo.png",
+  "website": "http://vimeo.com"
+}

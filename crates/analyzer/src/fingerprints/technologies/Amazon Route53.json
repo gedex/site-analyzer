@@ -1,0 +1,8 @@
+{
+  "cats": [62],
+  "website": "https://aws.amazon.com/route53/",
+  "description": "Amazon Route 53 is a scalable Domain Name System (DNS) web service",
+  "dns": {
+    "ns": "awsdns.*\\.amazonaws\\.com$"
+  }
+}

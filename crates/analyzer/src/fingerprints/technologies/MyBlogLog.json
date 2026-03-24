@@ -1,0 +1,8 @@
+{
+  "cats": [
+    5
+  ],
+  "icon": "MyBlogLog.png",
+  "scripts": "pub\\.mybloglog\\.com",
+  "website": "http://www.mybloglog.com"
+}

@@ -1,0 +1,12 @@
+{
+  "cats": [
+    66
+  ],
+  "html": "<link[^>]* href=\"[^\"]*material(?:\\.[\\w]+-[\\w]+)?(?:\\.min)?\\.css",
+  "icon": "Material Design Lite.png",
+  "js": {
+    "MaterialIconToggle": ""
+  },
+  "scripts": "(?:/([\\d.]+))?/material(?:\\.min)?\\.js\\;version:\\1",
+  "website": "https://getmdl.io"
+}

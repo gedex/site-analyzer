@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "mini_httpd(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "mini_httpd.png",
+  "website": "http://acme.com/software/mini_httpd"
+}

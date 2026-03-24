@@ -1,0 +1,11 @@
+{
+  "cats": [
+    56
+  ],
+  "icon": "JSEcoin.png",
+  "js": {
+    "jseMine": ""
+  },
+  "scripts": "^(?:https):?//load\\.jsecoin\\.com/load/",
+  "website": "https://jsecoin.com/"
+}

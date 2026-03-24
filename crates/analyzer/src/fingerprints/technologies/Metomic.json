@@ -1,0 +1,10 @@
+{
+  "cats": [
+    67
+  ],
+  "icon": "metomic.png",
+  "scripts": [
+    "metomic\\.js"
+  ],
+  "website": "https://metomic.io"
+}

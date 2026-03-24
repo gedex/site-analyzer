@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Sitefinity.svg",
+  "implies": "Microsoft ASP.NET",
+  "meta": {
+    "generator": "^Sitefinity (.+)$\\;version:\\1"
+  },
+  "website": "http://www.sitefinity.com"
+}

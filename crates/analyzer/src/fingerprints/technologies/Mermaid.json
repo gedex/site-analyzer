@@ -1,0 +1,11 @@
+{
+  "cats": [
+    25
+  ],
+  "html": "<div [^>]*class=[\"']mermaid[\"']>\\;confidence:90",
+  "js": {
+    "mermaid": ""
+  },
+  "scripts": "/mermaid(?:\\.min)?\\.js",
+  "website": "https://mermaidjs.github.io/"
+}

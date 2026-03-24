@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "translucide.svg",
+  "implies": [
+    "PHP",
+    "jQuery"
+  ],
+  "scripts": "lucide\\.init(?:\\.min)?\\.js",
+  "website": "http://www.translucide.net"
+}

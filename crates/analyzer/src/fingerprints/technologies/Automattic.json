@@ -1,0 +1,11 @@
+{
+  "cats": [
+    62
+  ],
+  "headers": {
+    "X-Hacker": "join\\.a8c\\.com"
+  },
+  "icon": "automattic.png",
+  "implies": "WordPress",
+  "website": "https://automattic.com/"
+}

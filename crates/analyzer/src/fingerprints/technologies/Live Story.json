@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "LiveStory.png",
+  "js": {
+    "LSHelpers": "",
+    "LiveStory": ""
+  },
+  "website": "https://www.livestory.nyc/"
+}

@@ -1,0 +1,22 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:joomla:joomla",
+  "headers": {
+    "X-Content-Encoded-By": "Joomla! ([\\d.]+)\\;version:\\1"
+  },
+  "html": "(?:<div[^>]+id=\"wrapper_r\"|<(?:link|script)[^>]+(?:feed|components)/com_|<table[^>]+class=\"pill)\\;confidence:50",
+  "icon": "Joomla.svg",
+  "implies": "PHP",
+  "js": {
+    "Joomla": "",
+    "jcomments": ""
+  },
+  "meta": {
+    "generator": "Joomla!(?: ([\\d.]+))?\\;version:\\1"
+  },
+  "url": "option=com_",
+  "description": "Joomla is a free and open-source content management system for publishing web content.",
+  "website": "https://www.joomla.org"
+}

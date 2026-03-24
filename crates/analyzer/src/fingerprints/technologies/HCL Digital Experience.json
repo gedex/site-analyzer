@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:ibm:websphere_portal",
+  "headers": {
+    "IBM-Web2-Location": "",
+    "Itx-Generated-Timestamp": ""
+  },
+  "icon": "IBM.svg",
+  "implies": "Java",
+  "url": "/wps/",
+  "website": "https://www.hcltechsw.com/products/dx"
+}

@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "Hiawatha v([\\d.]+)\\;version:\\1"
+  },
+  "icon": "Hiawatha.png",
+  "website": "http://hiawatha-webserver.org"
+}

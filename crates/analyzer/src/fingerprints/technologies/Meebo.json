@@ -1,0 +1,8 @@
+{
+  "cats": [
+    5
+  ],
+  "html": "(?:<iframe id=\"meebo-iframe\"|Meebo\\('domReady'\\))",
+  "icon": "Meebo.png",
+  "website": "http://www.meebo.com"
+}

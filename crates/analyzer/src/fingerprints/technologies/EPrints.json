@@ -1,0 +1,15 @@
+{
+  "cats": [
+    19
+  ],
+  "icon": "EPrints.png",
+  "implies": "Perl",
+  "js": {
+    "EPJS_menu_template": "",
+    "EPrints": ""
+  },
+  "meta": {
+    "generator": "EPrints ([\\d.]+)\\;version:\\1"
+  },
+  "website": "http://www.eprints.org"
+}

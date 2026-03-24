@@ -1,0 +1,12 @@
+{
+  "cats": [
+    22
+  ],
+  "cpe": "cpe:/a:zed_shaw:mongrel",
+  "headers": {
+    "Server": "Mongrel"
+  },
+  "icon": "Mongrel.png",
+  "implies": "Ruby",
+  "website": "http://mongrel2.org"
+}

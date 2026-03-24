@@ -1,0 +1,13 @@
+{
+  "cats": [
+    2
+  ],
+  "cpe": "cpe:/a:nodebb:nodebb",
+  "headers": {
+    "X-Powered-By": "^NodeBB$"
+  },
+  "icon": "NodeBB.png",
+  "implies": "Node.js",
+  "scripts": "^/nodebb\\.min\\.js\\?",
+  "website": "https://nodebb.org"
+}

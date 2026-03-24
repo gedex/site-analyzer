@@ -1,0 +1,12 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Chartbeat.png",
+  "js": {
+    "_sf_async_config": "",
+    "_sf_endpt": ""
+  },
+  "scripts": "chartbeat\\.js",
+  "website": "http://chartbeat.com"
+}

@@ -1,0 +1,10 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "Globale.png",
+  "scripts": [
+    "web\\.global-e\\.com"
+  ],
+  "website": "https://www.global-e.com/"
+}

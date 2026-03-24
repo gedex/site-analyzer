@@ -1,0 +1,12 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "MadAdsMedia.png",
+  "js": {
+    "setMIframe": "",
+    "setMRefURL": ""
+  },
+  "scripts": "^https?://(?:ads-by|pixel)\\.madadsmedia\\.com/",
+  "website": "http://madadsmedia.com"
+}

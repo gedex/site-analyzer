@@ -1,0 +1,11 @@
+{
+  "cats": [
+    25
+  ],
+  "icon": "Raphael.png",
+  "js": {
+    "Raphael.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "raphael(?:-([\\d.]+))?(?:\\.min)?\\.js\\;version:\\1",
+  "website": "https://dmitrybaranovskiy.github.io/raphael/"
+}

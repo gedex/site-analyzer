@@ -1,0 +1,12 @@
+{
+  "cats": [
+    28
+  ],
+  "cpe": "cpe:/o:debian:debian_linux",
+  "headers": {
+    "Server": "Debian",
+    "X-Powered-By": "(?:Debian|dotdeb|(potato|woody|sarge|etch|lenny|squeeze|wheezy|jessie|stretch|buster|sid))\\;version:\\1"
+  },
+  "icon": "Debian.png",
+  "website": "https://debian.org"
+}

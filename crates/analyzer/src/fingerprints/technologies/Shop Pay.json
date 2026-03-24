@@ -1,0 +1,11 @@
+{
+  "cats": [
+    41
+  ],
+  "html": "<[^>]+aria-labelledby=\"pi-shopify_pay",
+  "icon": "Shopify.svg",
+  "implies": "Shopify",
+  "url": "^https://pay.shopify.com",
+  "description": "Shop Pay is an accelerated checkout that lets customers save their email address, credit card, and shipping and billing information so they can complete their transaction faster the next time they are directed to the Shopify checkout.",
+  "website": "https://pay.google.com"
+}

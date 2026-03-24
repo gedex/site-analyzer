@@ -1,0 +1,11 @@
+{
+  "cats": [
+    32
+  ],
+  "icon": "RD Station.png",
+  "js": {
+    "RDStation": ""
+  },
+  "scripts": "d335luupugsy2\\.cloudfront\\.net/js/loader-scripts/.*-loader\\.js",
+  "website": "http://rdstation.com.br"
+}

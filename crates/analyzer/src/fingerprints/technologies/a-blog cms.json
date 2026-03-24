@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "a-blog cms.svg",
+  "implies": "PHP",
+  "meta": {
+    "generator": "a-blog cms"
+  },
+  "website": "http://www.a-blogcms.jp"
+}

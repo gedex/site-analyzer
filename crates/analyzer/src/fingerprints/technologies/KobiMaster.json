@@ -1,0 +1,12 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "Kobimaster.png",
+  "implies": "Microsoft ASP.NET",
+  "js": {
+    "kmGetSession": "",
+    "kmPageInfo": ""
+  },
+  "website": "https://www.kobimaster.com.tr"
+}

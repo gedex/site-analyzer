@@ -1,0 +1,11 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "OpenUI5.png",
+  "js": {
+    "sap.ui.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "sap-ui-core\\.js",
+  "website": "http://openui5.org/"
+}

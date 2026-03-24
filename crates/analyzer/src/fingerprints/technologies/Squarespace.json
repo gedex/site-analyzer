@@ -1,0 +1,15 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-ServedBy": "squarespace"
+  },
+  "html": "<!-- This is Squarespace\\. -->",
+  "icon": "Squarespace.png",
+  "js": {
+    "Squarespace": ""
+  },
+  "description": "Squarespace provides Software as a Service (SaaS) for website building and hosting, and allows users to use pre-built website templates.",
+  "website": "http://www.squarespace.com"
+}

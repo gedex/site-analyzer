@@ -1,0 +1,8 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "moon.svg",
+  "scripts": "/moon(?:\\.min)?\\.js$",
+  "website": "https://kbrsh.github.io/moon/"
+}

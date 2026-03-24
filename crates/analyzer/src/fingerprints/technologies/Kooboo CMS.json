@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-KoobooCMS-Version": "^(.+)$\\;version:\\1"
+  },
+  "icon": "Kooboo CMS.png",
+  "implies": "Microsoft ASP.NET",
+  "scripts": "/Kooboo",
+  "website": "http://kooboo.com"
+}

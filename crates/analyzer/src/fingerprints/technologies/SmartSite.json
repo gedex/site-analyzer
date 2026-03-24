@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<[^>]+/smartsite\\.(?:dws|shtml)\\?id=",
+  "icon": "SmartSite.png",
+  "meta": {
+    "author": "Redacteur SmartInstant"
+  },
+  "website": "http://www.seneca.nl/pub/Smartsite/Smartsite-Smartsite-iXperion"
+}

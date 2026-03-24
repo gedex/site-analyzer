@@ -1,0 +1,12 @@
+{
+  "cats": [
+    9,
+    16
+  ],
+  "icon": "TencentWaterproofWall.png",
+  "scripts": [
+    "/TCaptcha\\.js",
+    "captcha\\.qq\\.com/.*"
+  ],
+  "website": "https://007.qq.com/"
+}

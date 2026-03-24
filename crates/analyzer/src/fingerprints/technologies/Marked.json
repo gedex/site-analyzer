@@ -1,0 +1,12 @@
+{
+  "cats": [
+    59
+  ],
+  "cpe": "cpe:/a:marked_project:marked",
+  "icon": "marked.svg",
+  "js": {
+    "marked": ""
+  },
+  "scripts": "/marked(?:\\.min)?\\.js",
+  "website": "https://marked.js.org"
+}

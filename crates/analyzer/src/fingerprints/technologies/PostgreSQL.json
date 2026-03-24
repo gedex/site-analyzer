@@ -1,0 +1,8 @@
+{
+  "cats": [
+    34
+  ],
+  "cpe": "cpe:/a:postgresql:postgresql",
+  "icon": "PostgreSQL.png",
+  "website": "http://www.postgresql.org/"
+}

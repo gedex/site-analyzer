@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Orchard CMS.png",
+  "implies": "Microsoft ASP.NET",
+  "meta": {
+    "generator": "Orchard"
+  },
+  "website": "http://orchardproject.net"
+}

@@ -1,0 +1,19 @@
+{
+  "cats": [
+    47
+  ],
+  "cookies": {
+    "i_like_gogits": ""
+  },
+  "cpe": "cpe:/a:gogs:gogs",
+  "html": [
+    "<div class=\"ui left\">\\n\\s+\u00a9 \\d{4} Gogs Version: ([\\d.]+) Page:\\;version:\\1",
+    "<button class=\"ui basic clone button\" id=\"repo-clone-ssh\" data-link=\"gogs@"
+  ],
+  "icon": "gogs.png",
+  "meta": {
+    "keywords": "go, git, self-hosted, gogs"
+  },
+  "scripts": "js/gogs\\.js",
+  "website": "http://gogs.io"
+}

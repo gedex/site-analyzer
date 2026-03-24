@@ -1,0 +1,14 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "iPresta.png",
+  "implies": [
+    "PHP",
+    "PrestaShop"
+  ],
+  "meta": {
+    "designer": "iPresta"
+  },
+  "website": "http://ipresta.ir"
+}

@@ -1,0 +1,14 @@
+{
+  "cats": [
+    6
+  ],
+  "cookies": {
+    "Aws.customer": ""
+  },
+  "icon": "ForoshGostar.svg",
+  "implies": "Microsoft ASP.NET",
+  "meta": {
+    "generator": "^Forosh\\s?Gostar.*|Arsina Webshop.*$"
+  },
+  "website": "https://www.foroshgostar.com"
+}

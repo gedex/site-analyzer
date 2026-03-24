@@ -1,0 +1,15 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<!-- Methode uuid: \"[a-f\\d]+\" ?-->",
+  "icon": "Methode.png",
+  "meta": {
+    "eomportal-id": "\\d+",
+    "eomportal-instanceid": "\\d+",
+    "eomportal-lastUpdate": "",
+    "eomportal-loid": "[\\d.]+",
+    "eomportal-uuid": "[a-f\\d]+"
+  },
+  "website": "https://www.eidosmedia.com/"
+}

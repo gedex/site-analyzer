@@ -1,0 +1,16 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "CraftSessionId": ""
+  },
+  "cpe": "cpe:/a:craftcms:craft_cms",
+  "headers": {
+    "X-Powered-By": "\\bCraft CMS\\b"
+  },
+  "icon": "Craft CMS.svg",
+  "implies": "Yii",
+  "description": "Craft CMS is a content management system for building bespoke websites.",
+  "website": "https://craftcms.com"
+}

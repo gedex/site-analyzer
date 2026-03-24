@@ -1,0 +1,8 @@
+{
+  "cats": [
+    35
+  ],
+  "icon": "HERE.png",
+  "scripts": "https?://js\\.cit\\.api\\.here\\.com/se/([\\d.]+)\\/\\;version:\\1",
+  "website": "http://developer.here.com"
+}

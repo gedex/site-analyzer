@@ -1,0 +1,13 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "Socket.IO.svg",
+  "implies": "Node.js",
+  "js": {
+    "io.Socket": "",
+    "io.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "socket\\.io.*\\.js",
+  "website": "https://socket.io"
+}

@@ -1,0 +1,12 @@
+{
+  "cats": [
+    25
+  ],
+  "cpe": "cpe:/a:d3.js_project:d3.js",
+  "icon": "D3.png",
+  "js": {
+    "d3.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "/d3(?:\\. v\\d+)?(?:\\.min)?\\.js",
+  "website": "http://d3js.org"
+}

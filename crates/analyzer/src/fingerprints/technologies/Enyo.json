@@ -1,0 +1,12 @@
+{
+  "cats": [
+    12,
+    26
+  ],
+  "icon": "Enyo.png",
+  "js": {
+    "enyo": ""
+  },
+  "scripts": "enyo\\.js",
+  "website": "http://enyojs.com"
+}

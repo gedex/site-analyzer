@@ -1,0 +1,12 @@
+{
+  "cats": [
+    11
+  ],
+  "icon": "Blogger.png",
+  "implies": "Python",
+  "meta": {
+    "generator": "^Blogger$"
+  },
+  "url": "^https?://[^/]+\\.(?:blogspot|blogger)\\.com",
+  "website": "http://www.blogger.com"
+}

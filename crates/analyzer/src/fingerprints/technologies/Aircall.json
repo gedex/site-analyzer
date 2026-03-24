@@ -1,0 +1,9 @@
+{
+  "cats": [
+    52
+  ],
+  "icon": "aircall.png",
+  "scripts": "^https?://cdn\\.aircall\\.io/",
+  "description": "Aircall is a cloud-based phone system for customer support and sales teams.",
+  "website": "http://aircall.io"
+}

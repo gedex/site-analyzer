@@ -1,0 +1,16 @@
+{
+  "cats": [
+    47
+  ],
+  "html": "<!-- git web interface version ([\\d.]+)?\\;version:\\1",
+  "icon": "git.svg",
+  "implies": [
+    "Perl",
+    "git"
+  ],
+  "meta": {
+    "generator": "gitweb(?:/([\\d.]+\\d))?\\;version:\\1"
+  },
+  "scripts": "static/gitweb\\.js$",
+  "website": "http://git-scm.com"
+}

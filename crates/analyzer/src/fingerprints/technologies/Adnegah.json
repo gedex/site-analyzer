@@ -1,0 +1,12 @@
+{
+  "cats": [
+    36
+  ],
+  "headers": {
+    "X-Advertising-By": "adnegah\\.net"
+  },
+  "html": "<iframe [^>]*src=\"[^\"]+adnegah\\.net",
+  "icon": "adnegah.png",
+  "scripts": "[^a-z]adnegah.*\\.js$",
+  "website": "https://Adnegah.net"
+}

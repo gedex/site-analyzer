@@ -1,0 +1,11 @@
+{
+  "cats": [
+    31
+  ],
+  "headers": {
+    "Server": "^gocache$",
+    "X-GoCache-CacheStatus": ""
+  },
+  "icon": "GoCache.png",
+  "website": "https://www.gocache.com.br/"
+}

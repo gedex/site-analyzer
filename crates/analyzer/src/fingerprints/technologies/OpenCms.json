@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:alkacon:opencms",
+  "headers": {
+    "Server": "OpenCms"
+  },
+  "html": "<link href=\"/opencms/",
+  "icon": "OpenCms.png",
+  "implies": "Java",
+  "scripts": "opencms",
+  "website": "http://www.opencms.org"
+}

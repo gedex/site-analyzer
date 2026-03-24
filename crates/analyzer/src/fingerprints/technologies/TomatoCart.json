@@ -1,0 +1,13 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "TomatoCart.png",
+  "js": {
+    "AjaxShoppingCart": ""
+  },
+  "meta": {
+    "generator": "TomatoCart"
+  },
+  "website": "http://tomatocart.com"
+}

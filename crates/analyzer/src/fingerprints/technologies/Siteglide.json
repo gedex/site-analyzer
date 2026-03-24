@@ -1,0 +1,13 @@
+{
+  "cats": [
+    1,
+    61,
+    53,
+    6
+  ],
+  "icon": "Siteglide.svg",
+  "implies": "PlatformOS",
+  "scripts": "siteglide\\.js",
+  "description": "SiteGlide is a Digital Experience Platform (DEP) for ecommerce stores, membership sites and customer portals.",
+  "website": "https://www.siteglide.com"
+}

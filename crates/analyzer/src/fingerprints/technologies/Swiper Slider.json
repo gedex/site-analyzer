@@ -1,0 +1,12 @@
+{
+  "cats": [
+    19
+  ],
+  "html": "<[^>]+=swiper-container",
+  "icon": "swiper.svg",
+  "js": {
+    "Swiper": ""
+  },
+  "scripts": "swiper(?:\\.min)?\\.js",
+  "website": "https://swiperjs.com"
+}

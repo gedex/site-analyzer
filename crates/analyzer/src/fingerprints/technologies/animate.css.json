@@ -1,0 +1,9 @@
+{
+  "cats": [
+    66
+  ],
+  "html": [
+    "<link [^>]+(?:/([\\d.]+)/)?animate\\.(?:min\\.)?css\\;version:\\1"
+  ],
+  "website": "https://daneden.github.io/animate.css/"
+}

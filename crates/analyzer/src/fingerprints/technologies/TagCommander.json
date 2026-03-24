@@ -1,0 +1,11 @@
+{
+  "cats": [
+    42
+  ],
+  "icon": "tagcommander.png",
+  "js": {
+    "tc_vars": ""
+  },
+  "scripts": "\\.tagcommander\\.com",
+  "website": "https://www.commandersact.com/en/solutions/tagcommander/"
+}

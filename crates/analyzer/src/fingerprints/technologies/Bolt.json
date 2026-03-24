@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:bolt:bolt",
+  "icon": "Bolt.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "Bolt"
+  },
+  "website": "http://bolt.cm"
+}

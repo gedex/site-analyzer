@@ -1,0 +1,17 @@
+{
+  "cats": [
+    22
+  ],
+  "html": "<title>XAMPP(?: Version ([\\d\\.]+))?</title>\\;version:\\1",
+  "icon": "XAMPP.png",
+  "implies": [
+    "Apache",
+    "MySQL",
+    "PHP",
+    "Perl"
+  ],
+  "meta": {
+    "author": "Kai Oswald Seidler\\;confidence:10"
+  },
+  "website": "http://www.apachefriends.org/en/xampp.html"
+}

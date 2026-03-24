@@ -1,0 +1,11 @@
+{
+  "cats": [
+    62
+  ],
+  "headers": {
+    "x-kinsta-cache": ""
+  },
+  "icon": "kinsta.svg",
+  "implies": "WordPress",
+  "website": "https://kinsta.com"
+}

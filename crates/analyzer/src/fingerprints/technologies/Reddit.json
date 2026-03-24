@@ -1,0 +1,13 @@
+{
+  "cats": [
+    2
+  ],
+  "html": "(?:<a[^>]+Powered by Reddit|powered by <a[^>]+>reddit<)",
+  "icon": "Reddit.png",
+  "implies": "Python",
+  "js": {
+    "reddit": ""
+  },
+  "url": "^https?://(?:www\\.)?reddit\\.com",
+  "website": "http://code.reddit.com"
+}

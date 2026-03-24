@@ -1,0 +1,21 @@
+{
+  "cats": [
+    21
+  ],
+  "cookies": {
+    "MOODLEID_": "",
+    "MoodleSession": ""
+  },
+  "cpe": "cpe:/a:moodle:moodle",
+  "html": "<img[^>]+moodlelogo",
+  "icon": "Moodle.png",
+  "implies": "PHP",
+  "js": {
+    "M.core": "",
+    "Y.Moodle": ""
+  },
+  "meta": {
+    "keywords": "^moodle"
+  },
+  "website": "http://moodle.org"
+}

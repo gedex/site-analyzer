@@ -1,0 +1,13 @@
+{
+  "cats": [
+    41
+  ],
+  "html": [
+    "<(?:iframe|img|form)[^>]+paynow\\.pmnts\\.io",
+    "<(?:iframe)[^>]+FatZebraFrame"
+  ],
+  "icon": "fatzebra.png",
+  "scripts": "paynow\\.pmnts\\.io",
+  "description": "Fat Zebra provides a process of accepting credit card payments online.",
+  "website": "https://www.fatzebra.com/"
+}

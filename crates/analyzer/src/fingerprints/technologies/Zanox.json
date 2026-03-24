@@ -1,0 +1,12 @@
+{
+  "cats": [
+    36
+  ],
+  "html": "<img [^>]*src=\"[^\"]+ad\\.zanox\\.com",
+  "icon": "Zanox.png",
+  "js": {
+    "zanox": ""
+  },
+  "scripts": "zanox\\.com/scripts/zanox\\.js$",
+  "website": "http://zanox.com"
+}

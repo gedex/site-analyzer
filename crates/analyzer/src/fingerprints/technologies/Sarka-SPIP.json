@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Sarka-SPIP.png",
+  "implies": "SPIP",
+  "meta": {
+    "generator": "Sarka-SPIP(?:\\s([\\d.]+))?\\;version:\\1"
+  },
+  "website": "http://sarka-spip.net"
+}

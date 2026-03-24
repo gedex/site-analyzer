@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "hotaru_mobile": ""
+  },
+  "icon": "Hotaru CMS.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "Hotaru CMS"
+  },
+  "website": "http://hotarucms.org"
+}

@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:webedition:webedition_cms",
+  "icon": "webEdition.png",
+  "meta": {
+    "DC.title": "webEdition",
+    "generator": "webEdition"
+  },
+  "website": "http://webedition.de/en"
+}

@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "Allegro-Software-RomPager(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "Allegro RomPager.png",
+  "website": "http://allegrosoft.com/embedded-web-server-s2"
+}

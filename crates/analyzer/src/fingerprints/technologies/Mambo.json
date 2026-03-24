@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "excludes": "Joomla",
+  "icon": "Mambo.png",
+  "meta": {
+    "generator": "Mambo"
+  },
+  "website": "http://mambo-foundation.org"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "Neto.svg",
+  "js": {
+    "NETO": ""
+  },
+  "scripts": "jquery\\.neto.*\\.js",
+  "website": "https://www.neto.com.au"
+}

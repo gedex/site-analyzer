@@ -1,0 +1,15 @@
+{
+  "cats": [
+    6
+  ],
+  "cookies": {
+    "bigWAdminID": "",
+    "bigwareCsid": ""
+  },
+  "cpe": "cpe:/a:bigware:bigware_shop",
+  "html": "(?:Diese <a href=[^>]+bigware\\.de|<a href=[^>]+/main_bigware_\\d+\\.php)",
+  "icon": "Bigware.png",
+  "implies": "PHP",
+  "url": "(?:\\?|&)bigWAdminID=",
+  "website": "http://bigware.de"
+}

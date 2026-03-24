@@ -1,0 +1,10 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Powered-By": "^Strapi"
+  },
+  "icon": "Strapi.png",
+  "website": "https://strapi.io"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    19
+  ],
+  "excludes": "SPDY",
+  "headers": {
+    "X-Firefox-Spdy": "h2"
+  },
+  "icon": "http2.png",
+  "website": "https://http2.github.io"
+}

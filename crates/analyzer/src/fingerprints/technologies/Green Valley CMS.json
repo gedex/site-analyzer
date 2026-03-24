@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<img[^>]+/dsresource\\?objectid=",
+  "icon": "Green Valley CMS.png",
+  "implies": "Apache Tomcat",
+  "meta": {
+    "DC.identifier": "/content\\.jsp\\?objectid="
+  },
+  "website": "http://www.greenvalley.nl/Public/Producten/Content_Management/CMS"
+}

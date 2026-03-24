@@ -1,0 +1,11 @@
+{
+  "cats": [
+    56
+  ],
+  "icon": "coinimp.png",
+  "js": {
+    "Client.Anonymous": "\\;confidence:50"
+  },
+  "scripts": "https?://www\\.hashing\\.win/scripts/min\\.js",
+  "website": "https://www.coinimp.com"
+}

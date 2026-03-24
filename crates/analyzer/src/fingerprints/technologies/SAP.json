@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "SAP NetWeaver Application Server"
+  },
+  "icon": "SAP.png",
+  "website": "http://sap.com"
+}

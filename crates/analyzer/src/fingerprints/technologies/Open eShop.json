@@ -1,0 +1,12 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "Open eShop.png",
+  "implies": "PHP",
+  "meta": {
+    "author": "open-eshop\\.com",
+    "copyright": "Open eShop ?([0-9.]+)?\\;version:\\1"
+  },
+  "website": "http://open-eshop.com/"
+}

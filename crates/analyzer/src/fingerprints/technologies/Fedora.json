@@ -1,0 +1,11 @@
+{
+  "cats": [
+    28
+  ],
+  "cpe": "cpe:/o:fedoraproject:fedora",
+  "headers": {
+    "Server": "Fedora"
+  },
+  "icon": "Fedora.png",
+  "website": "http://fedoraproject.org"
+}

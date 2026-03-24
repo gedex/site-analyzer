@@ -1,0 +1,9 @@
+{
+  "cats": [
+    66
+  ],
+  "html": "<link[^>]* href=[^>]+flat-ui(?:\\.min)?\\.css",
+  "icon": "Flat UI.png",
+  "implies": "Bootstrap",
+  "website": "https://designmodo.github.io/Flat-UI/"
+}

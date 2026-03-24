@@ -1,0 +1,13 @@
+{
+  "cats": [
+    6
+  ],
+  "cpe": "cpe:/a:cubecart:cubecart",
+  "html": "(?:Powered by <a href=[^>]+cubecart\\.com|<p[^>]+>Powered by CubeCart)",
+  "icon": "CubeCart.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "cubecart"
+  },
+  "website": "http://www.cubecart.com"
+}

@@ -1,0 +1,18 @@
+{
+  "cats": [
+    16
+  ],
+  "cookies": {
+    "datadome": "",
+    "datadome-_zldp": "",
+    "datadome-_zldt": ""
+  },
+  "headers": {
+    "Server": "^DataDome$",
+    "X-DataDome": "",
+    "X-DataDome-CID": ""
+  },
+  "icon": "datadome.png",
+  "scripts": "^https://ct\\.datadome\\.co/[a-z]\\.js$",
+  "website": "https://datadome.co/"
+}

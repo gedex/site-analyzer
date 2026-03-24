@@ -1,0 +1,10 @@
+{
+  "cats": [
+    59
+  ],
+  "js": {
+    "Flickity": ""
+  },
+  "scripts": "/flickity(?:\\.pkgd)?(?:\\.min)?\\.js",
+  "website": "https://flickity.metafizzy.co/"
+}

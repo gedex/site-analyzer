@@ -1,0 +1,10 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "OneStat.png",
+  "js": {
+    "OneStat_Pageview": ""
+  },
+  "website": "http://www.onestat.com"
+}

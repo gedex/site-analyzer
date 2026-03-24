@@ -1,0 +1,11 @@
+{
+  "cats": [
+    59
+  ],
+  "icon": "polyfill.svg",
+  "scripts": [
+    "^https?://cdn\\.polyfill\\.io/",
+    "/polyfill\\.min\\.js"
+  ],
+  "website": "https://polyfill.io"
+}

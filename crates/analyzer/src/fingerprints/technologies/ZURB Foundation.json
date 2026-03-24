@@ -1,0 +1,14 @@
+{
+  "cats": [
+    66
+  ],
+  "html": [
+    "<link[^>]+foundation[^>\"]+css",
+    "<div [^>]*class=\"[^\"]*(?:small|medium|large)-\\d{1,2} columns"
+  ],
+  "icon": "ZURB Foundation.png",
+  "js": {
+    "Foundation.version": "([\\d.]+)\\;version:\\1"
+  },
+  "website": "http://foundation.zurb.com"
+}

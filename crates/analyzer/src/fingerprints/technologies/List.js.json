@@ -1,0 +1,11 @@
+{
+  "cats": [
+    59
+  ],
+  "icon": "List.js.png",
+  "js": {
+    "List": ""
+  },
+  "scripts": "^list\\.(?:min\\.)?js$",
+  "website": "http://listjs.com"
+}

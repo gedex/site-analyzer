@@ -1,0 +1,10 @@
+{
+  "cats": [
+    13
+  ],
+  "icon": "Usabilla.svg",
+  "js": {
+    "usabilla_live": ""
+  },
+  "website": "http://usabilla.com"
+}

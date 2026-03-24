@@ -1,0 +1,23 @@
+{
+  "cats": [
+    6
+  ],
+  "cookies": {
+    "xid": "[a-z\\d]{32}(?:;|$)"
+  },
+  "html": [
+    "Powered by X-Cart(?: (\\d+))? <a[^>]+href=\"http://www\\.x-cart\\.com/\"[^>]*>\\;version:\\1",
+    "<a[^>]+href=\"[^\"]*(?:\\?|&)xcart_form_id=[a-z\\d]{32}(?:&|$)"
+  ],
+  "icon": "X-Cart.png",
+  "implies": "PHP",
+  "js": {
+    "xcart_web_dir": "",
+    "xliteConfig": ""
+  },
+  "meta": {
+    "generator": "X-Cart(?: (\\d+))?\\;version:\\1"
+  },
+  "scripts": "/skin/common_files/modules/Product_Options/func\\.js",
+  "website": "http://x-cart.com"
+}

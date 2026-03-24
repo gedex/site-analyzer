@@ -1,0 +1,11 @@
+{
+  "cats": [
+    28
+  ],
+  "headers": {
+    "Server": "SUSE(?:/?\\s?-?([\\d.]+))?\\;version:\\1",
+    "X-Powered-By": "SUSE(?:/?\\s?-?([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "SUSE.png",
+  "website": "http://suse.com"
+}

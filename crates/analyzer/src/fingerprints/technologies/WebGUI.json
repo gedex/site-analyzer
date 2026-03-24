@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "wgSession": ""
+  },
+  "icon": "WebGUI.png",
+  "implies": "Perl",
+  "meta": {
+    "generator": "^WebGUI ([\\d.]+)\\;version:\\1"
+  },
+  "website": "http://www.webgui.org"
+}

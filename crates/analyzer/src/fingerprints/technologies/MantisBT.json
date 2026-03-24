@@ -1,0 +1,10 @@
+{
+  "cats": [
+    13
+  ],
+  "cpe": "cpe:/a:mantisbt:mantisbt",
+  "html": "<img[^>]+ alt=\"Powered by Mantis Bugtracker",
+  "icon": "MantisBT.png",
+  "implies": "PHP",
+  "website": "http://www.mantisbt.org"
+}

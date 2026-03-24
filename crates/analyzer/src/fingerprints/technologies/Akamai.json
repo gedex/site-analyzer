@@ -1,0 +1,11 @@
+{
+  "cats": [
+    31
+  ],
+  "headers": {
+    "X-Akamai-Transformed": ""
+  },
+  "icon": "akamai.svg",
+  "description": "Akamai is global content delivery network (CDN) services provider for media and software delivery, and cloud security solutions.",
+  "website": "http://akamai.com"
+}

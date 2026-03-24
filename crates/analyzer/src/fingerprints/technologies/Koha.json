@@ -1,0 +1,19 @@
+{
+  "cats": [
+    50
+  ],
+  "cpe": "cpe:/a:koha:koha",
+  "html": [
+    "<input name=\"koha_login_context\" value=\"intranet\" type=\"hidden\">",
+    "<a href=\"/cgi-bin/koha/"
+  ],
+  "icon": "koha.png",
+  "implies": "Perl",
+  "js": {
+    "KOHA": ""
+  },
+  "meta": {
+    "generator": "^Koha ([\\d.]+)$\\;version:\\1"
+  },
+  "website": "https://koha-community.org/"
+}

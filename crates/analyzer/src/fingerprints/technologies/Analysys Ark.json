@@ -1,0 +1,14 @@
+{
+  "cats": [
+    10
+  ],
+  "cookies": {
+    "ARK_ID": ""
+  },
+  "icon": "Analysys Ark.svg",
+  "js": {
+    "AnalysysAgent": ""
+  },
+  "scripts": "AnalysysFangzhou_JS_SDK\\.min\\.js\\?v=([\\d.]+)\\;version:\\1",
+  "website": "https://ark.analysys.cn"
+}

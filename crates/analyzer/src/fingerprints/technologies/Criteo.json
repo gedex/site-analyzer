@@ -1,0 +1,16 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "Criteo.svg",
+  "js": {
+    "Criteo": "",
+    "criteo_pubtag": "",
+    "criteo_q": ""
+  },
+  "scripts": [
+    "//(?:cas\\.criteo\\.com|(?:[^/]\\.)?criteo\\.net)/",
+    "//static\\.criteo\\.net/js/ld/ld\\.js"
+  ],
+  "website": "http://criteo.com"
+}

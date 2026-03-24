@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "RiteCMS.png",
+  "implies": [
+    "PHP",
+    "SQLite\\;confidence:80"
+  ],
+  "meta": {
+    "generator": "^RiteCMS(?: (.+))?\\;version:\\1"
+  },
+  "website": "http://ritecms.com"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "Mustache.png",
+  "js": {
+    "Mustache.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "mustache(?:\\.min)?\\.js",
+  "website": "https://mustache.github.io"
+}

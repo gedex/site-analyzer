@@ -1,0 +1,16 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "EPiServer": "",
+    "EPiTrace": ""
+  },
+  "cpe": "cpe:/a:episerver:episerver",
+  "icon": "EPiServer.png",
+  "implies": "Microsoft ASP.NET",
+  "meta": {
+    "generator": "EPiServer"
+  },
+  "website": "http://episerver.com"
+}

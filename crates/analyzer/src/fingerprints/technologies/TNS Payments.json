@@ -1,0 +1,9 @@
+{
+  "cats": [
+    41
+  ],
+  "icon": "tnsi.png",
+  "scripts": "secure\\.ap\\.tnspayments\\.com",
+  "description": "TNS Payments, is designed to deliver payment transaction information to banks, merchants, processors and other payment institutions.",
+  "website": "https://tnsi.com/products/payments/"
+}

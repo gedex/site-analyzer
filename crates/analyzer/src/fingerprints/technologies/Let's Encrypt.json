@@ -1,0 +1,8 @@
+{
+  "cats": [
+    70
+  ],
+  "certIssuer": "Let's Encrypt",
+  "icon": "Lets Encrypt.svg",
+  "website": "https://letsencrypt.org/"
+}

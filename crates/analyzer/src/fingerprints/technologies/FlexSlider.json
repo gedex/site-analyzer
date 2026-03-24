@@ -1,0 +1,11 @@
+{
+  "cats": [
+    5
+  ],
+  "icon": "FlexSlider.png",
+  "implies": "jQuery",
+  "scripts": [
+    "jquery\\.flexslider(?:\\.min)?\\.js$"
+  ],
+  "website": "https://woocommerce.com/flexslider/"
+}

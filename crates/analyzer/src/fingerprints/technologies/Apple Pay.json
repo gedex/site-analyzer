@@ -1,0 +1,12 @@
+{
+  "cats": [
+    41
+  ],
+  "html": [
+    "<[^>]+aria-labelledby=\"pi-apple_pay",
+    "<script id=\"apple-pay"
+  ],
+  "icon": "Apple.svg",
+  "description": "Apple Pay is a mobile payment and digital wallet service by Apple that allows users to make payments in person, in iOS apps, and on the web.",
+  "website": "https://www.apple.com/apple-pay"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    19
+  ],
+  "excludes": "HTTP/2",
+  "headers": {
+    "X-Firefox-Spdy": "\\d\\.\\d"
+  },
+  "icon": "SPDY.png",
+  "website": "http://chromium.org/spdy"
+}

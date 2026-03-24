@@ -1,0 +1,11 @@
+{
+  "cats": [
+    33
+  ],
+  "headers": {
+    "Server": "mod_fastcgi(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "Apache.svg",
+  "implies": "Apache",
+  "website": "http://www.fastcgi.com/mod_fastcgi/docs/mod_fastcgi.html"
+}

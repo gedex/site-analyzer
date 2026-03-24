@@ -1,0 +1,13 @@
+{
+  "cats": [
+    59
+  ],
+  "icon": "MobX.svg",
+  "js": {
+    "__mobxGlobal": "",
+    "__mobxGlobals": "",
+    "__mobxInstanceCount": ""
+  },
+  "scripts": "(?:/([\\d\\.]+))?/mobx(?:\\.[a-z]+){0,2}\\.js(?:$|\\?)\\;version:\\1",
+  "website": "https://mobx.js.org"
+}

@@ -1,0 +1,9 @@
+{
+  "cats": [
+    5,
+    6
+  ],
+  "icon": "Proximis Omnichannel.png",
+  "scripts": "widget-commerce(?:\\.min)?\\.js",
+  "website": "https://www.proximis.com"
+}

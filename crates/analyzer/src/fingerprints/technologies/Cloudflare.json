@@ -1,0 +1,22 @@
+{
+  "cats": [
+    31
+  ],
+  "cookies": {
+    "__cfduid": ""
+  },
+  "headers": {
+    "Server": "^cloudflare$",
+    "cf-cache-status": "",
+    "cf-ray": ""
+  },
+  "dns": {
+    "ns": "cloudflare\\.com$"
+  },
+  "icon": "CloudFlare.svg",
+  "js": {
+    "CloudFlare": ""
+  },
+  "description": "Cloudflare is a web-infrastructure and website-security company, providing content-delivery-network services, DDoS mitigation, Internet security, and distributed domain-name-server services.",
+  "website": "http://www.cloudflare.com"
+}

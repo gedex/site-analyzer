@@ -1,0 +1,11 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "RequireJS.png",
+  "js": {
+    "requirejs.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "require.*\\.js",
+  "website": "http://requirejs.org"
+}

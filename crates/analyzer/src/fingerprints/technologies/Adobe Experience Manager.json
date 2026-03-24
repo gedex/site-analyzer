@@ -1,0 +1,19 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:adobe:experience_manager",
+  "html": [
+    "<div class=\"[^\"]*parbase",
+    "<div[^>]+data-component-path=\"[^\"+]jcr:",
+    "<div class=\"[^\"]*aem-Grid"
+  ],
+  "implies": "Java",
+  "scripts": [
+    "/etc/designs/",
+    "/etc/clientlibs/",
+    "/etc\\.clientlibs/"
+  ],
+  "description": "Adobe Experience Manager (AEM) is a content management solution for building websites, mobile apps and forms.",
+  "website": "https://www.adobe.com/marketing/experience-manager.html"
+}

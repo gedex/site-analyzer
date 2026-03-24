@@ -1,0 +1,12 @@
+{
+  "cats": [
+    18
+  ],
+  "cookies": {
+    "PLAY_SESSION": ""
+  },
+  "cpe": "cpe:/a:playframework:play_framework",
+  "icon": "Play.svg",
+  "implies": "Scala",
+  "website": "https://www.playframework.com"
+}

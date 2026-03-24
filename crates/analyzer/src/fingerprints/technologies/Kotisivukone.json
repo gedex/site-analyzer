@@ -1,0 +1,8 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "Kotisivukone.png",
+  "scripts": "kotisivukone(?:\\.min)?\\.js",
+  "website": "http://www.kotisivukone.fi"
+}

@@ -1,0 +1,17 @@
+{
+  "cats": [
+    10
+  ],
+  "html": [
+    "<!-- (?:Start|End) Visual Website Optimizer A?Synchronous Code -->"
+  ],
+  "icon": "vwo.svg",
+  "js": {
+    "VWO": "",
+    "__vwo": ""
+  },
+  "scripts": [
+    "dev\\.visualwebsiteoptimizer\\.com"
+  ],
+  "website": "https://vwo.com/"
+}

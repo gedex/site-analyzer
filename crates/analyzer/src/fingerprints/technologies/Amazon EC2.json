@@ -1,0 +1,12 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "\\(Amazon\\)"
+  },
+  "icon": "aws-ec2.svg",
+  "implies": "Amazon Web Services",
+  "description": "Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing platform, Amazon Web Services, that allows users to rent virtual computers on which to run their own computer applications.",
+  "website": "http://aws.amazon.com/ec2/"
+}

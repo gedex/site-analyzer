@@ -1,0 +1,17 @@
+{
+  "cats": [
+    12,
+    18
+  ],
+  "html": "<link[^>]+__meteor-css__",
+  "icon": "Meteor.png",
+  "implies": [
+    "MongoDB",
+    "Node.js"
+  ],
+  "js": {
+    "Meteor": "",
+    "Meteor.release": "^METEOR@([\\d.]+)\\;version:\\1"
+  },
+  "website": "https://www.meteor.com"
+}

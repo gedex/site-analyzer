@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "(?:Powered by <a href=\"[^>]+BIGACE|<!--\\s+Site is running BIGACE)",
+  "icon": "BIGACE.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "BIGACE ([\\d.]+)\\;version:\\1"
+  },
+  "website": "http://bigace.de"
+}

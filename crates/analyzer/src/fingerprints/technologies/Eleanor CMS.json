@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:eleanor-cms:eleanor_cms",
+  "icon": "Eleanor CMS.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "Eleanor"
+  },
+  "website": "http://eleanor-cms.ru"
+}

@@ -1,0 +1,20 @@
+{
+  "cats": [
+    6
+  ],
+  "html": [
+    "<!-- WooCommerce",
+    "<link rel='[^']+' id='woocommerce-(?:layout|smallscreen|general)-css'  href='https?://[^/]+/wp-content/plugins/woocommerce/assets/css/woocommerce(?:-layout|-smallscreen)?\\.css?ver=([\\d.]+)'\\;version:\\1"
+  ],
+  "icon": "WooCommerce.png",
+  "implies": "WordPress",
+  "js": {
+    "woocommerce_params": ""
+  },
+  "meta": {
+    "generator": "WooCommerce ([\\d.]+)\\;version:\\1"
+  },
+  "scripts": "/woocommerce(?:\\.min)?\\.js(?:\\?ver=([0-9.]+))?\\;version:\\1",
+  "description": "WooCommerce is an open-source e-commerce plugin for WordPress.",
+  "website": "https://woocommerce.com"
+}

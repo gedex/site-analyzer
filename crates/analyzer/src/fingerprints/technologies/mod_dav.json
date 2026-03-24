@@ -1,0 +1,11 @@
+{
+  "cats": [
+    33
+  ],
+  "headers": {
+    "Server": "\\b(?:mod_)?DAV\\b(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "Apache.svg",
+  "implies": "Apache",
+  "website": "http://webdav.org/mod_dav"
+}

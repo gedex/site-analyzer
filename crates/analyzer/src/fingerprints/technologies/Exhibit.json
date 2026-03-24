@@ -1,0 +1,12 @@
+{
+  "cats": [
+    25
+  ],
+  "icon": "Exhibit.png",
+  "js": {
+    "Exhibit": "",
+    "Exhibit.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "exhibit.*\\.js",
+  "website": "http://simile-widgets.org/exhibit/"
+}

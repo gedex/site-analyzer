@@ -1,0 +1,13 @@
+{
+  "cats": [
+    20
+  ],
+  "cpe": "cpe:/a:microsoft:powerpoint",
+  "html": "(?:<html [^>]*xmlns:w=\"urn:schemas-microsoft-com:office:powerpoint\"|<link rel=\"?Presentation-XML\"? href=\"?[^\"]+\\.xml\"?>|<o:PresentationFormat>[^<]+</o:PresentationFormat>[^!]+<o:Slides>\\d+</o:Slides>(?:[^!]+<o:Version>([\\d.]+)</o:Version>)?)\\;version:\\1",
+  "icon": "Microsoft PowerPoint.svg",
+  "meta": {
+    "ProgId": "^PowerPoint\\.",
+    "generator": "Microsoft PowerPoint ( [\\d.]+)?\\;version:\\1"
+  },
+  "website": "https://office.microsoft.com/powerpoint"
+}

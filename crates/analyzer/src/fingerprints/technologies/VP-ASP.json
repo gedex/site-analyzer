@@ -1,0 +1,10 @@
+{
+  "cats": [
+    6
+  ],
+  "html": "<a[^>]+>Powered By VP-ASP Shopping Cart</a>",
+  "icon": "VP-ASP.png",
+  "implies": "Microsoft ASP.NET",
+  "scripts": "vs350\\.js",
+  "website": "http://www.vpasp.com"
+}

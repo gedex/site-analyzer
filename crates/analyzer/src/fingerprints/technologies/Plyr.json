@@ -1,0 +1,11 @@
+{
+  "cats": [
+    14
+  ],
+  "icon": "Plyr.png",
+  "js": {
+    "Plyr": ""
+  },
+  "scripts": "https://cdn\\.plyr\\.io/([0-9.]+)/.+\\.js\\;version:\\1",
+  "website": "https://plyr.io/"
+}

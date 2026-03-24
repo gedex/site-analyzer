@@ -1,0 +1,13 @@
+{
+  "cats": [
+    59
+  ],
+  "cpe": "cpe:/a:dojotoolkit:dojo",
+  "icon": "Dojo.png",
+  "js": {
+    "dojo": "",
+    "dojo.version.major": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "([\\d.]+)/dojo/dojo(?:\\.xd)?\\.js\\;version:\\1",
+  "website": "https://dojotoolkit.org"
+}

@@ -1,0 +1,8 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<[^>]+=\"vgn-?ext",
+  "icon": "Vignette.png",
+  "website": "http://www.vignette.com"
+}

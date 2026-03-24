@@ -1,0 +1,11 @@
+{
+  "cats": [
+    4
+  ],
+  "html": "Created using <a href=\"https?://(?:www\\.)?sphinx-doc\\.org/\">Sphinx</a> ([0-9.]+)\\.\\;version:\\1",
+  "icon": "Sphinx.png",
+  "js": {
+    "DOCUMENTATION_OPTIONS": ""
+  },
+  "website": "https://www.sphinx-doc.org/"
+}

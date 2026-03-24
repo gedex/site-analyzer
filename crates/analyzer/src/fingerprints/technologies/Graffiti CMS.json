@@ -1,0 +1,15 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "graffitibot": ""
+  },
+  "icon": "Graffiti CMS.png",
+  "implies": "Microsoft ASP.NET",
+  "meta": {
+    "generator": "Graffiti CMS ([^\"]+)\\;version:\\1"
+  },
+  "scripts": "/graffiti\\.js",
+  "website": "http://graffiticms.codeplex.com"
+}

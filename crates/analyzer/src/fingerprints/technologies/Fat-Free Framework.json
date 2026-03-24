@@ -1,0 +1,11 @@
+{
+  "cats": [
+    18
+  ],
+  "headers": {
+    "X-Powered-By": "^Fat-Free Framework$"
+  },
+  "icon": "Fat-Free Framework.png",
+  "implies": "PHP",
+  "website": "http://fatfreeframework.com"
+}

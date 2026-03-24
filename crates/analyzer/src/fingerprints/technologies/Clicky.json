@@ -1,0 +1,11 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Clicky.png",
+  "js": {
+    "clicky": ""
+  },
+  "scripts": "static\\.getclicky\\.com",
+  "website": "http://getclicky.com"
+}

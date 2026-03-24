@@ -1,0 +1,10 @@
+{
+  "cats": [
+    18
+  ],
+  "headers": {
+    "Content-Type": "^application\\/grpc"
+  },
+  "icon": "gRPC.png",
+  "website": "https://grpc.io"
+}

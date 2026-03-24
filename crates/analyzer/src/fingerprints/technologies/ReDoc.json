@@ -1,0 +1,13 @@
+{
+  "cats": [
+    4
+  ],
+  "html": "<redoc ",
+  "icon": "redoc.png",
+  "implies": "React",
+  "js": {
+    "Redoc.version": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "/redoc\\.(?:min\\.)?js",
+  "website": "https://github.com/Rebilly/ReDoc"
+}

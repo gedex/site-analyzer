@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:sixapart:movable_type",
+  "icon": "Movable Type.png",
+  "meta": {
+    "generator": "Movable Type"
+  },
+  "website": "http://movabletype.org"
+}

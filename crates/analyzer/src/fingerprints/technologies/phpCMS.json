@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "PHP.svg",
+  "implies": "PHP",
+  "js": {
+    "phpcms": ""
+  },
+  "website": "http://phpcms.de"
+}

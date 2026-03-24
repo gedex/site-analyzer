@@ -1,0 +1,10 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "salesfloor.png",
+  "scripts": [
+    "salesFloor\\.js"
+  ],
+  "website": "https://salesfloor.net/"
+}

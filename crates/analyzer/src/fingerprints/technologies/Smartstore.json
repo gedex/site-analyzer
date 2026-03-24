@@ -1,0 +1,16 @@
+{
+  "cats": [
+    1,
+    6
+  ],
+  "cookies": {
+    "SMARTSTORE.VISITOR": ""
+  },
+  "html": "<!--Powered by Smartstore - https://www\\.smartstore\\.com-->",
+  "icon": "Smartstore.png",
+  "implies": "Microsoft ASP.NET",
+  "meta": {
+    "generator": "^Smartstore (.+)$\\;version:\\1"
+  },
+  "website": "https://www.smartstore.com"
+}

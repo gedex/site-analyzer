@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "html": [
+    "<a[^>]+Site Powered by DTG"
+  ],
+  "icon": "DTG.png",
+  "implies": "Mono.net",
+  "website": "https://www.dtg.nl"
+}

@@ -1,0 +1,10 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Parse.ly.png",
+  "js": {
+    "PARSELY": ""
+  },
+  "website": "https://www.parse.ly"
+}

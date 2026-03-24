@@ -1,0 +1,18 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Powered-By": "Pars Elecom Portal"
+  },
+  "icon": "parselecom.png",
+  "implies": [
+    "Microsoft ASP.NET",
+    "IIS",
+    "Windows Server"
+  ],
+  "meta": {
+    "copyright": "Pars Elecom Portal"
+  },
+  "website": "http://parselecom.net"
+}

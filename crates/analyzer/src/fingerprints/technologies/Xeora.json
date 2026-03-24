@@ -1,0 +1,14 @@
+{
+  "cats": [
+    18
+  ],
+  "headers": {
+    "Server": "XeoraEngine",
+    "X-Powered-By": "XeoraCube"
+  },
+  "html": "<input type=\"hidden\" name=\"_sys_bind_\\d+\" id=\"_sys_bind_\\d+\" />",
+  "icon": "xeora.png",
+  "implies": "Microsoft ASP.NET",
+  "scripts": "/_bi_sps_v.+\\.js",
+  "website": "http://www.xeora.org"
+}

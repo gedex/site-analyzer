@@ -1,0 +1,12 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "borderfree.png",
+  "scripts": [
+    "global\\.prd\\.borderfree\\.com",
+    "wm\\.prd\\.borderfree\\.com",
+    "bfx\\.js"
+  ],
+  "website": "https://www.borderfree.com/"
+}

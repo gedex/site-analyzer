@@ -1,0 +1,8 @@
+{
+  "cats": [
+    5
+  ],
+  "html": "<iframe src=\"[^>]+whooshkaa\\.com",
+  "icon": "Whooshkaa.svg",
+  "website": "https://www.whooshkaa.com"
+}

@@ -1,0 +1,14 @@
+{
+  "cats": [
+    19
+  ],
+  "cookies": {
+    "OpenGrok": ""
+  },
+  "icon": "OpenGrok.png",
+  "implies": "Java",
+  "meta": {
+    "generator": "OpenGrok(?: v?([\\d.]+))?\\;version:\\1"
+  },
+  "website": "http://hub.opensolaris.org/bin/view/Project+opengrok/WebHome"
+}

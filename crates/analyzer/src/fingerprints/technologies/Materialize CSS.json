@@ -1,0 +1,9 @@
+{
+  "cats": [
+    66
+  ],
+  "html": "<link[^>]* href=\"[^\"]*materialize(?:\\.min)?\\.css",
+  "icon": "Materialize CSS.png",
+  "scripts": "materialize(?:\\.min)?\\.js",
+  "website": "http://materializecss.com"
+}

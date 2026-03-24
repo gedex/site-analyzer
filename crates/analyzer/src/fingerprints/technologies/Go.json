@@ -1,0 +1,8 @@
+{
+  "cats": [
+    27
+  ],
+  "cpe": "cpe:/a:golang:go",
+  "icon": "Go.svg",
+  "website": "https://golang.org"
+}

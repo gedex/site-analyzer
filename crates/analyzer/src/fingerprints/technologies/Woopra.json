@@ -1,0 +1,8 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Woopra.png",
+  "scripts": "static\\.woopra\\.com",
+  "website": "http://www.woopra.com"
+}

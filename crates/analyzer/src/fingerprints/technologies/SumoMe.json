@@ -1,0 +1,9 @@
+{
+  "cats": [
+    5,
+    32
+  ],
+  "icon": "SumoMe.png",
+  "scripts": "load\\.sumome\\.com",
+  "website": "http://sumome.com"
+}

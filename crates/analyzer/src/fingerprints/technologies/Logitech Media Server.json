@@ -1,0 +1,11 @@
+{
+  "cats": [
+    22,
+    38
+  ],
+  "headers": {
+    "Server": "Logitech Media Server(?: \\(([\\d\\.]+))?\\;version:\\1"
+  },
+  "icon": "Logitech Media Server.png",
+  "website": "http://www.mysqueezebox.com"
+}

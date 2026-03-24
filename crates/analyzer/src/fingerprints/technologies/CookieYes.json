@@ -1,0 +1,8 @@
+{
+  "cats": [
+    67
+  ],
+  "icon": "cookieyes.png",
+  "scripts": "app\\.cookieyes\\.com/client_data/",
+  "website": "https://www.cookieyes.com/"
+}

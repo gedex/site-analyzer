@@ -1,0 +1,12 @@
+{
+  "cats": [
+    36
+  ],
+  "html": "<img [^>]*src=\"[^\"]+tracking\\.veoxa\\.com",
+  "icon": "Veoxa.png",
+  "js": {
+    "VuVeoxaContent": ""
+  },
+  "scripts": "tracking\\.veoxa\\.com",
+  "website": "http://veoxa.com"
+}

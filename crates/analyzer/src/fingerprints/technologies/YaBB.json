@@ -1,0 +1,8 @@
+{
+  "cats": [
+    2
+  ],
+  "html": "Powered by <a href=\"[^>]+yabbforum",
+  "icon": "YaBB.png",
+  "website": "http://www.yabbforum.com"
+}

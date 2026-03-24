@@ -1,0 +1,11 @@
+{
+  "cats": [
+    31
+  ],
+  "headers": {
+    "Server": "^ECD\\s\\(\\S+\\)"
+  },
+  "icon": "EdgeCast.png",
+  "url": "https?://(?:[^/]+\\.)?edgecastcdn\\.net/",
+  "website": "http://www.edgecast.com"
+}

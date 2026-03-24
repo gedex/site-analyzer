@@ -1,0 +1,9 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "Ubercart.png",
+  "implies": "Drupal",
+  "scripts": "uc_cart/uc_cart_block\\.js",
+  "website": "http://www.ubercart.org"
+}

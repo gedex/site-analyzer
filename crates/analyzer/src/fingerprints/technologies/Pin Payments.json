@@ -1,0 +1,9 @@
+{
+  "cats": [
+    41
+  ],
+  "icon": "pinpayments.png",
+  "scripts": "api\\.pinpayments\\.com",
+  "description": "Pin Payments is an all-in-one online payment system. It offers merchants a simple JSON API, secure credit card storage, multi-currency capabilities, bank account compatibility, onsite payment processing and automatic fund transfer to specified bank accounts.",
+  "website": "https://www.pinpayments.com/"
+}

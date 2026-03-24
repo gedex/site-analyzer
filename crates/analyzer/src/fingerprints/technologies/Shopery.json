@@ -1,0 +1,15 @@
+{
+  "cats": [
+    6
+  ],
+  "headers": {
+    "X-Shopery": ""
+  },
+  "icon": "Shopery.svg",
+  "implies": [
+    "PHP",
+    "Symfony",
+    "Elcodi"
+  ],
+  "website": "http://shopery.com"
+}

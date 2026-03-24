@@ -1,0 +1,11 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "Riot.png",
+  "js": {
+    "riot": ""
+  },
+  "scripts": "riot(?:\\+compiler)?(?:\\.min)?\\.js",
+  "website": "https://riot.js.org/"
+}

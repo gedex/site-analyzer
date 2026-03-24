@@ -1,0 +1,12 @@
+{
+  "cats": [
+    18
+  ],
+  "cpe": "cpe:/a:apache:wicket",
+  "icon": "Apache Wicket.svg",
+  "implies": "Java",
+  "js": {
+    "Wicket": ""
+  },
+  "website": "http://wicket.apache.org"
+}

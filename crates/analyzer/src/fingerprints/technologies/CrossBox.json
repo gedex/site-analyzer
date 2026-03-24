@@ -1,0 +1,10 @@
+{
+  "cats": [
+    30
+  ],
+  "headers": {
+    "server": "CBX-WS"
+  },
+  "icon": "CrossBox.png",
+  "website": "https://crossbox.io"
+}

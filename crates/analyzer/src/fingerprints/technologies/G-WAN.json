@@ -1,0 +1,10 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "G-WAN"
+  },
+  "icon": "G-WAN.png",
+  "website": "http://gwan.com"
+}

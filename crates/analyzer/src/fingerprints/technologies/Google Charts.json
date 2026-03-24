@@ -1,0 +1,11 @@
+{
+  "cats": [
+    25
+  ],
+  "icon": "Google Charts.png",
+  "js": {
+    "__googleVisualizationAbstractRendererElementsCount__": "",
+    "__gvizguard__": ""
+  },
+  "website": "http://developers.google.com/chart/"
+}

@@ -1,0 +1,16 @@
+{
+  "cats": [
+    57
+  ],
+  "cpe": "cpe:/a:jekyllrb:jekyll",
+  "html": [
+    "Powered by <a href=\"https?://jekyllrb\\.com\"[^>]*>Jekyll</",
+    "<!-- Created with Jekyll Now -",
+    "<!-- Begin Jekyll SEO tag"
+  ],
+  "icon": "Jekyll.png",
+  "meta": {
+    "generator": "Jekyll (v[\\d.]+)?\\;version:\\1"
+  },
+  "website": "http://jekyllrb.com"
+}

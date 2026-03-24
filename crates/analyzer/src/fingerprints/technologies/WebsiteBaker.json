@@ -1,0 +1,14 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "WebsiteBaker.png",
+  "implies": [
+    "PHP",
+    "MySQL"
+  ],
+  "meta": {
+    "generator": "WebsiteBaker"
+  },
+  "website": "http://websitebaker2.org/en/home.php"
+}

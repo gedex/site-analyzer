@@ -1,0 +1,10 @@
+{
+  "cats": [
+    16
+  ],
+  "cpe": "cpe:/a:acquia:mollom",
+  "html": "<img[^>]+\\.mollom\\.com",
+  "icon": "Mollom.png",
+  "scripts": "mollom(?:\\.min)?\\.js",
+  "website": "http://mollom.com"
+}

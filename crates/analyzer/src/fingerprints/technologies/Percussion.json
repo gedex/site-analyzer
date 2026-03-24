@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<[^>]+class=\"perc-region\"",
+  "icon": "Percussion.png",
+  "meta": {
+    "generator": "(?:Percussion|Rhythmyx)"
+  },
+  "website": "http://percussion.com"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    29
+  ],
+  "html": "<link[^>]+href=\"[^>]*awesomplete(?:\\.min)?\\.css",
+  "js": {
+    "awesomplete": ""
+  },
+  "scripts": "/awesomplete\\.js(?:$|\\?)",
+  "website": "https://leaverou.github.io/awesomplete/"
+}

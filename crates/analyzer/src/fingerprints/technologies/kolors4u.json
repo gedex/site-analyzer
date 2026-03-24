@@ -1,0 +1,17 @@
+{
+  "cats": [
+    1,
+    11,
+    23,
+    6
+  ],
+  "headers": {
+    "X-Content-Encoded-By": "kolors4u ([\\d.]+)\\;version:\\1"
+  },
+  "icon": "kolors4u.png",
+  "implies": "WordPress",
+  "meta": {
+    "generator": "kolors4u (?: ([\\d.]+))?\\;version:\\1"
+  },
+  "website": "http://kolors4u.com"
+}

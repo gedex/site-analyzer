@@ -1,0 +1,12 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "Cafe24.png",
+  "js": {
+    "EC_GLOBAL_DATETIME": "",
+    "EC_GLOBAL_INFO": "",
+    "EC_ROOT_DOMAIN": ""
+  },
+  "website": "https://ec.cafe24.com/"
+}

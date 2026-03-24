@@ -1,0 +1,12 @@
+{
+  "cats": [
+    18,
+    22
+  ],
+  "cpe": "cpe:/a:lightbend:akka_http",
+  "headers": {
+    "Server": "akka-http(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "akka-http.png",
+  "website": "http://akka.io"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    6
+  ],
+  "html": [
+    "<a[^>]+title=\"POWERGAP",
+    "<input type=\"hidden\" name=\"shopid\""
+  ],
+  "icon": "Powergap.png",
+  "website": "http://powergap.de"
+}

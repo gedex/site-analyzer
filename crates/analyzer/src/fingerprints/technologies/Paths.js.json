@@ -1,0 +1,7 @@
+{
+  "cats": [
+    25
+  ],
+  "scripts": "paths(?:\\.min)?\\.js",
+  "website": "https://github.com/andreaferretti/paths-js"
+}

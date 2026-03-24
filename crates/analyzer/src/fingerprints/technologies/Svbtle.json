@@ -1,0 +1,11 @@
+{
+  "cats": [
+    11
+  ],
+  "icon": "svbtle.png",
+  "meta": {
+    "generator": "^Svbtle\\.com$"
+  },
+  "url": "^https?://[^/]+\\.svbtle\\.com",
+  "website": "https://www.svbtle.com"
+}

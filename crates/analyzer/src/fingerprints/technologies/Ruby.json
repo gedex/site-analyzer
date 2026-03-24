@@ -1,0 +1,11 @@
+{
+  "cats": [
+    27
+  ],
+  "cpe": "cpe:/a:ruby-lang:ruby",
+  "headers": {
+    "Server": "(?:Mongrel|WEBrick|Ruby)"
+  },
+  "icon": "Ruby.png",
+  "website": "http://ruby-lang.org"
+}

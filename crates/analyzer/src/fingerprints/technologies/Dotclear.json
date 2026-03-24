@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:dotclear:dotclear",
+  "headers": {
+    "X-Dotclear-Static-Cache": ""
+  },
+  "icon": "Dotclear.png",
+  "implies": "PHP",
+  "website": "http://dotclear.org"
+}

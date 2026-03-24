@@ -1,0 +1,9 @@
+{
+  "cats": [
+    12,
+    26
+  ],
+  "icon": "Sencha Touch.png",
+  "scripts": "sencha-touch.*\\.js",
+  "website": "http://www.sencha.com/products/touch"
+}

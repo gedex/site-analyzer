@@ -1,0 +1,11 @@
+{
+  "cats": [
+    28
+  ],
+  "headers": {
+    "Server": "Raspbian",
+    "X-Powered-By": "Raspbian"
+  },
+  "icon": "Raspbian.svg",
+  "website": "https://www.raspbian.org/"
+}

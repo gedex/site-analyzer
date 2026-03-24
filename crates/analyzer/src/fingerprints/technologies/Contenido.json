@@ -1,0 +1,12 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:contenido:contendio",
+  "icon": "Contenido.png",
+  "implies": "PHP",
+  "meta": {
+    "generator": "Contenido ([\\d.]+)\\;version:\\1"
+  },
+  "website": "http://contenido.org/en"
+}

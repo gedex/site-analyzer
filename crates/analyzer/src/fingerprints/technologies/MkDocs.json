@@ -1,0 +1,10 @@
+{
+  "cats": [
+    4
+  ],
+  "icon": "mkdocs.png",
+  "meta": {
+    "generator": "^mkdocs-([\\d.]+)\\;version:\\1"
+  },
+  "website": "http://www.mkdocs.org/"
+}

@@ -1,0 +1,10 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "KISSmetrics.png",
+  "js": {
+    "KM_COOKIE_DOMAIN": ""
+  },
+  "website": "https://www.kissmetrics.com"
+}

@@ -1,0 +1,20 @@
+{
+  "cats": [
+    1,
+    18
+  ],
+  "headers": {
+    "x-bubble-capacity-limit": "",
+    "x-bubble-capacity-used": "",
+    "x-bubble-perf": ""
+  },
+  "icon": "bubble.png",
+  "implies": "Node.js",
+  "js": {
+    "_bubble_page_load_data": "",
+    "bubble_environment": "",
+    "bubble_hostname_modifier": "",
+    "bubble_version": ""
+  },
+  "website": "http://bubble.is"
+}

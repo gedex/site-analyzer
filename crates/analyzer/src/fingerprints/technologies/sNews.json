@@ -1,0 +1,10 @@
+{
+  "cats": [
+    1
+  ],
+  "icon": "sNews.png",
+  "meta": {
+    "generator": "sNews"
+  },
+  "website": "https://snewscms.com"
+}

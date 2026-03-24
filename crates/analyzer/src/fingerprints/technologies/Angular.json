@@ -1,0 +1,17 @@
+{
+  "cats": [
+    12
+  ],
+  "excludes": [
+    "AngularDart",
+    "AngularJS"
+  ],
+  "html": "<[^>]+ ng-version=\"([\\d.]+)\"\\;version:\\1",
+  "icon": "Angular.svg",
+  "js": {
+    "ng.coreTokens": "",
+    "ng.probe": ""
+  },
+  "description": "Angular is a TypeScript-based open-source web application framework led by the Angular Team at Google.",
+  "website": "https://angular.io"
+}

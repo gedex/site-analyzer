@@ -1,0 +1,11 @@
+{
+  "cats": [
+    5
+  ],
+  "icon": "Stackla.png",
+  "js": {
+    "Stackla": ""
+  },
+  "scripts": "assetscdn\\.stackla\\.com\\/media\\/js\\/widget\\/(?:[a-zA-Z0-9.]+)?\\.js",
+  "website": "http://stackla.com/"
+}

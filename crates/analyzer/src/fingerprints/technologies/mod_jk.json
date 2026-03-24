@@ -1,0 +1,14 @@
+{
+  "cats": [
+    33
+  ],
+  "headers": {
+    "Server": "mod_jk(?:/([\\d\\.]+))?\\;version:\\1"
+  },
+  "icon": "Apache.svg",
+  "implies": [
+    "Apache Tomcat",
+    "Apache"
+  ],
+  "website": "http://tomcat.apache.org/tomcat-3.3-doc/mod_jk-howto.html"
+}

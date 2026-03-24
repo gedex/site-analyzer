@@ -1,0 +1,11 @@
+{
+  "cats": [
+    25
+  ],
+  "icon": "GoJS.png",
+  "js": {
+    "go.GraphObject": "",
+    "go.version": "(.*)\\;version:\\1"
+  },
+  "website": "https://gojs.net/"
+}

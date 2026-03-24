@@ -1,0 +1,10 @@
+{
+  "cats": [
+    49
+  ],
+  "icon": "Planet.png",
+  "meta": {
+    "generator": "^Planet(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "website": "http://planetplanet.org"
+}

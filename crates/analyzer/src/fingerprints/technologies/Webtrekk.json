@@ -1,0 +1,18 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Webtrekk.png",
+  "js": {
+    "WebtrekkV3": "",
+    "webtrekk": "",
+    "webtrekkConfig": "",
+    "webtrekkHeatmapObjects": "",
+    "webtrekkLinktrackObjects": "",
+    "webtrekkUnloadObjects": "",
+    "webtrekkV3": "",
+    "wt_tt": "",
+    "wt_ttv2": ""
+  },
+  "website": "http://www.webtrekk.com"
+}

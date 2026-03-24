@@ -1,0 +1,14 @@
+{
+  "cats": [
+    13,
+    47
+  ],
+  "cookies": {
+    "phsid": ""
+  },
+  "html": "<[^>]+(?:class|id)=\"phabricator-",
+  "icon": "Phabricator.png",
+  "implies": "PHP",
+  "scripts": "/phabricator/[a-f0-9]{8}/rsrc/js/phui/[a-z-]+\\.js$",
+  "website": "http://phacility.com"
+}

@@ -1,0 +1,17 @@
+{
+  "cats": [
+    47
+  ],
+  "cookies": {
+    "i_like_gitea": ""
+  },
+  "cpe": "cpe:/a:gitea:gitea",
+  "html": [
+    "<div class=\"ui left\">\\n\\s+\u00a9 Gitea Version: ([\\d.]+)\\;version:\\1"
+  ],
+  "icon": "gitea.svg",
+  "meta": {
+    "keywords": "^go,git,self-hosted,gitea$"
+  },
+  "website": "https://gitea.io"
+}

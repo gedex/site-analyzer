@@ -1,0 +1,13 @@
+{
+  "cats": [
+    6
+  ],
+  "icon": "Sazito.svg",
+  "js": {
+    "Sazito": ""
+  },
+  "meta": {
+    "generator": "^Sazito"
+  },
+  "website": "http://sazito.com"
+}

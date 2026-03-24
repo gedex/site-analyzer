@@ -1,0 +1,12 @@
+{
+  "cats": [
+    47
+  ],
+  "cookies": {
+    "FESESSIONID": ""
+  },
+  "cpe": "cpe:/a:atlassian:fisheye",
+  "html": "<title>(?:Log in to )?FishEye (?:and Crucible )?([\\d.]+)?</title>\\;version:\\1",
+  "icon": "Atlassian FishEye.svg",
+  "website": "http://www.atlassian.com/software/fisheye/overview/"
+}

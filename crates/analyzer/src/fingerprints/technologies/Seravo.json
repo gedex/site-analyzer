@@ -1,0 +1,11 @@
+{
+  "cats": [
+    62
+  ],
+  "headers": {
+    "x-powered-by": "^Seravo"
+  },
+  "icon": "seravo.svg",
+  "implies": "WordPress",
+  "website": "https://seravo.com"
+}

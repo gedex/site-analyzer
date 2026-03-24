@@ -1,0 +1,11 @@
+{
+  "cats": [
+    19
+  ],
+  "html": [
+    "<link[^>]+rel=[\"']web-socket[\"']",
+    "<(?:link|a)[^>]+href=[\"']wss?://"
+  ],
+  "icon": "websocket.png",
+  "website": "https://en.wikipedia.org/wiki/WebSocket"
+}

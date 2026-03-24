@@ -1,0 +1,11 @@
+{
+  "cats": [
+    18
+  ],
+  "cpe": "cpe:/a:mono:mono",
+  "headers": {
+    "X-Powered-By": "Mono"
+  },
+  "icon": "Mono.png",
+  "website": "http://mono-project.com"
+}

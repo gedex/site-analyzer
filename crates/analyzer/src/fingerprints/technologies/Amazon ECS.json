@@ -1,0 +1,14 @@
+{
+  "cats": [
+    63
+  ],
+  "headers": {
+    "Server": "^ECS"
+  },
+  "icon": "aws.svg",
+  "implies": [
+    "Amazon Web Services",
+    "Docker"
+  ],
+  "website": "https://aws.amazon.com/elasticloadbalancing/"
+}

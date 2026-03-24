@@ -1,0 +1,12 @@
+{
+  "cats": [
+    32
+  ],
+  "cpe": "cpe:/a:infusionsoft_project:infusionsoft",
+  "html": [
+    "<input [^>]*name=\"infusionsoft_version\" [^>]*value=\"([^>]*)\" [^>]*\\/>\\;version:\\1",
+    "<input [^>]*value=\"([^>]*)\" [^>]*name=\"infusionsoft_version\" [^>]*\\/>\\;version:\\1"
+  ],
+  "icon": "infusionsoft.svg",
+  "website": "http://infusionsoft.com"
+}

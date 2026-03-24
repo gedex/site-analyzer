@@ -1,0 +1,11 @@
+{
+  "cats": [
+    19
+  ],
+  "html": "<[^>]+gravatar\\.com/avatar/",
+  "icon": "Gravatar.png",
+  "js": {
+    "Gravatar": ""
+  },
+  "website": "http://gravatar.com"
+}

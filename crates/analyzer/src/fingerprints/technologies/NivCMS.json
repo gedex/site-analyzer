@@ -1,0 +1,16 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "cookie_name": "NivCMSPro"
+  },
+  "headers": {
+    "X-Powered-By": "NivCMS"
+  },
+  "icon": "nivsoft.png",
+  "meta": {
+    "generator": "^NivCMS"
+  },
+  "website": "https://NivSoft.ir"
+}

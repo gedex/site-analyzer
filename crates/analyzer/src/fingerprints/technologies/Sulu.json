@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "headers": {
+    "X-Generator": "Sulu/?(.+)?$\\;version:\\1"
+  },
+  "icon": "Sulu.svg",
+  "implies": "Symfony",
+  "website": "http://sulu.io"
+}

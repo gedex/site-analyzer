@@ -1,0 +1,13 @@
+{
+  "cats": [
+    30
+  ],
+  "html": "<title>RoundCube",
+  "icon": "RoundCube.png",
+  "implies": "PHP",
+  "js": {
+    "rcmail": "",
+    "roundcube": ""
+  },
+  "website": "http://roundcube.net"
+}

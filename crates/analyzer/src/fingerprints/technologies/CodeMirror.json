@@ -1,0 +1,11 @@
+{
+  "cats": [
+    19
+  ],
+  "icon": "CodeMirror.png",
+  "js": {
+    "CodeMirror": "",
+    "CodeMirror.version": "^(.+)$\\;version:\\1"
+  },
+  "website": "http://codemirror.net"
+}

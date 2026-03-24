@@ -1,0 +1,12 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "TrackJs.png",
+  "js": {
+    "TrackJs": ""
+  },
+  "scripts": "tracker\\.js",
+  "description": "TrackJS is an error monitoring agent for production web sites and applications.",
+  "website": "http://trackjs.com"
+}

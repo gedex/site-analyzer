@@ -1,0 +1,12 @@
+{
+  "cats": [
+    61
+  ],
+  "html": "<iframe[^>]+\\blocalfocus\\b",
+  "icon": "LocalFocus.png",
+  "implies": [
+    "Angular",
+    "D3"
+  ],
+  "website": "https://www.localfocus.nl/en/"
+}

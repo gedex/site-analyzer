@@ -1,0 +1,16 @@
+{
+  "cats": [
+    12
+  ],
+  "icon": "Marionette.js.svg",
+  "implies": [
+    "Underscore.js",
+    "Backbone.js"
+  ],
+  "js": {
+    "Marionette": "",
+    "Marionette.VERSION": "^(.+)$\\;version:\\1"
+  },
+  "scripts": "backbone\\.marionette.*\\.js",
+  "website": "https://marionettejs.com"
+}

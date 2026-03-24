@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "cookies": {
+    "MAKACSESSION": ""
+  },
+  "html": "Powered by\\s+(?:CERN )?<a href=\"http://(?:cdsware\\.cern\\.ch/indico/|indico-software\\.org|cern\\.ch/indico)\">(?:CDS )?Indico( [\\d\\.]+)?\\;version:\\1",
+  "icon": "Indico.png",
+  "website": "http://indico-software.org"
+}

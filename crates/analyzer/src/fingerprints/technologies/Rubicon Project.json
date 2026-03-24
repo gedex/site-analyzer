@@ -1,0 +1,8 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "Rubicon Project.png",
+  "scripts": "https?://[^/]*\\.rubiconproject\\.com",
+  "website": "http://rubiconproject.com/"
+}

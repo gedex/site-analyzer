@@ -1,0 +1,13 @@
+{
+  "cats": [
+    1
+  ],
+  "excludes": "TYPO3 CMS",
+  "headers": {
+    "X-Flow-Powered": "Neos/?(.+)?$\\;version:\\1"
+  },
+  "icon": "Neos.svg",
+  "implies": "Neos Flow",
+  "url": "/neos/",
+  "website": "https://neos.io"
+}

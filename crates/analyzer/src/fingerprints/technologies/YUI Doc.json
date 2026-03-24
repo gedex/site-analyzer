@@ -1,0 +1,8 @@
+{
+  "cats": [
+    4
+  ],
+  "html": "(?:<html[^>]* yuilibrary\\.com/rdf/[\\d.]+/yui\\.rdf|<body[^>]+class=\"yui3-skin-sam)",
+  "icon": "yahoo.png",
+  "website": "http://developer.yahoo.com/yui/yuidoc"
+}

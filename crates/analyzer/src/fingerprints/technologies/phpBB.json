@@ -1,0 +1,25 @@
+{
+  "cats": [
+    2
+  ],
+  "cookies": {
+    "phpbb": ""
+  },
+  "html": [
+    "Powered by <a[^>]+phpBB",
+    "<div class=phpbb_copyright>",
+    "<[^>]+styles/(?:sub|pro)silver/theme",
+    "<img[^>]+i_icon_mini",
+    "<table class=\"[^\"]*forumline"
+  ],
+  "icon": "phpBB.png",
+  "implies": "PHP",
+  "js": {
+    "phpbb": "",
+    "style_cookie_settings": ""
+  },
+  "meta": {
+    "copyright": "phpBB Group"
+  },
+  "website": "https://phpbb.com"
+}

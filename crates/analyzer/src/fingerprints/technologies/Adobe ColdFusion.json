@@ -1,0 +1,18 @@
+{
+  "cats": [
+    18
+  ],
+  "cpe": "cpe:/a:adobe:coldfusion",
+  "headers": {
+    "Cookie": "CFTOKEN="
+  },
+  "html": "<!-- START headerTags\\.cfm",
+  "icon": "Adobe ColdFusion.svg",
+  "implies": "CFML",
+  "js": {
+    "_cfEmails": ""
+  },
+  "scripts": "/cfajax/",
+  "url": "\\.cfm(?:$|\\?)",
+  "website": "http://adobe.com/products/coldfusion-family.html"
+}

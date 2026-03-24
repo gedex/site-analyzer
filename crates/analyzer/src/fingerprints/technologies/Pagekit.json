@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "cpe": "cpe:/a:pagekit:pagekit",
+  "icon": "Pagekit.png",
+  "meta": {
+    "generator": "Pagekit"
+  },
+  "website": "http://pagekit.com"
+}

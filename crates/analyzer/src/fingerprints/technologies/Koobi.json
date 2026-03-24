@@ -1,0 +1,11 @@
+{
+  "cats": [
+    1
+  ],
+  "html": "<!--[^K>-]+Koobi ([a-z\\d.]+)\\;version:\\1",
+  "icon": "Koobi.png",
+  "meta": {
+    "generator": "Koobi"
+  },
+  "website": "http://dream4.de/cms"
+}

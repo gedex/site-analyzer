@@ -1,0 +1,11 @@
+{
+  "cats": [
+    6
+  ],
+  "html": "<a href=\"[^>]+opensolution\\.org/\">(?:Shopping cart by|Sklep internetowy)",
+  "icon": "Quick.Cart.png",
+  "meta": {
+    "generator": "Quick\\.Cart(?: v([\\d.]+))?\\;version:\\1"
+  },
+  "website": "http://opensolution.org"
+}

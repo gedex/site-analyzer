@@ -1,0 +1,15 @@
+{
+  "cats": [
+    33
+  ],
+  "headers": {
+    "Server": "mod_rack(?:/([\\d.]+))?\\;version:\\1",
+    "X-Powered-By": "mod_rack(?:/([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "Phusion Passenger.png",
+  "implies": [
+    "Ruby on Rails\\;confidence:50",
+    "Apache"
+  ],
+  "website": "http://phusionpassenger.com"
+}

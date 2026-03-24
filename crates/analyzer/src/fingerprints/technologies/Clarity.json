@@ -1,0 +1,16 @@
+{
+  "cats": [
+    66
+  ],
+  "html": [
+    "<clr-main-container",
+    "<link [^>]*href=\"[^\"]*clr-ui(?:\\.min)?\\.css"
+  ],
+  "icon": "clarity.svg",
+  "implies": "Angular",
+  "js": {
+    "ClarityIcons": ""
+  },
+  "scripts": "clr-angular(?:\\.umd)?(?:\\.min)?\\.js",
+  "website": "https://clarity.design/"
+}

@@ -1,0 +1,12 @@
+{
+  "cats": [
+    36
+  ],
+  "icon": "AdRoll.svg",
+  "js": {
+    "adroll_adv_id": "",
+    "adroll_pix_id": ""
+  },
+  "scripts": "(?:a|s)\\.adroll\\.com",
+  "website": "http://adroll.com"
+}

@@ -1,0 +1,9 @@
+{
+  "cats": [
+    22
+  ],
+  "headers": {
+    "Server": "nghttpx nghttp2/?([\\d.]+)?\\;version:\\1"
+  },
+  "website": "https://nghttp2.org"
+}

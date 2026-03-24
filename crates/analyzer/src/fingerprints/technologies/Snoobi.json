@@ -1,0 +1,11 @@
+{
+  "cats": [
+    10
+  ],
+  "icon": "Snoobi.png",
+  "js": {
+    "snoobi": ""
+  },
+  "scripts": "snoobi\\.com/snoop\\.php",
+  "website": "http://www.snoobi.com"
+}

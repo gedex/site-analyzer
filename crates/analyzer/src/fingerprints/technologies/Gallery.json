@@ -1,0 +1,15 @@
+{
+  "cats": [
+    7
+  ],
+  "html": [
+    "<div id=\"gsNavBar\" class=\"gcBorder1\">",
+    "<a href=\"http://gallery\\.sourceforge\\.net\"><img[^>]+Powered by Gallery\\s*(?:(?:v|Version)\\s*([0-9.]+))?\\;version:\\1"
+  ],
+  "icon": "Gallery.png",
+  "js": {
+    "$.fn.gallery_valign": "",
+    "galleryAuthToken": ""
+  },
+  "website": "http://galleryproject.org/"
+}

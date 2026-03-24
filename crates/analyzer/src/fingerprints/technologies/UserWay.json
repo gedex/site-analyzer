@@ -1,0 +1,8 @@
+{
+  "cats": [
+    68
+  ],
+  "icon": "UserWay.png",
+  "scripts": "cdn\\.userway\\.org/widget.*\\.js",
+  "website": "https://userway.org/"
+}

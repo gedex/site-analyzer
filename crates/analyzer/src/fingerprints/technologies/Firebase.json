@@ -1,0 +1,11 @@
+{
+  "cats": [
+    34
+  ],
+  "icon": "Firebase.png",
+  "js": {
+    "firebase.SDK_VERSION": "([\\d.]+)$\\;version:\\1"
+  },
+  "scripts": "/(?:([\\d.]+)/)?firebase(?:\\.min)?\\.js\\;version:\\1",
+  "website": "https://firebase.com"
+}

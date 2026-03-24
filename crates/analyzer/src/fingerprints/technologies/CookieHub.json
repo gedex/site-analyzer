@@ -1,0 +1,10 @@
+{
+  "cats": [
+    67
+  ],
+  "icon": "CookieHub.png",
+  "scripts": [
+    "cookiehub\\.net/.*\\.js"
+  ],
+  "website": "https://www.cookiehub.com"
+}

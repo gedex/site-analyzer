@@ -1,0 +1,24 @@
+{
+  "cats": [
+    13
+  ],
+  "cookies": {
+    "Bugzilla_login_request_cookie": ""
+  },
+  "cpe": "cpe:/a:mozilla:bugzilla",
+  "html": [
+    "href=\"enter_bug\\.cgi\">",
+    "<main id=\"bugzilla-body\"",
+    "<a href=\"https?://www\\.bugzilla\\.org/docs/([0-9.]+)/[^>]+>Help<\\;version:\\1",
+    "<span id=\"information\" class=\"header_addl_info\">version ([\\d.]+)<\\;version:\\1"
+  ],
+  "icon": "Bugzilla.png",
+  "implies": "Perl",
+  "js": {
+    "BUGZILLA": ""
+  },
+  "meta": {
+    "generator": "Bugzilla ?([\\d.]+)?\\;version:\\1"
+  },
+  "website": "http://www.bugzilla.org"
+}

@@ -1,0 +1,11 @@
+{
+  "cats": [
+    10,
+    29
+  ],
+  "icon": "Luigisbox.svg",
+  "js": {
+    "Luigis": ""
+  },
+  "website": "https://www.luigisbox.com"
+}

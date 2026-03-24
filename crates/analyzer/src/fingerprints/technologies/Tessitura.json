@@ -1,0 +1,13 @@
+{
+  "cats": [
+    53
+  ],
+  "html": "<!--[^>]+Tessitura Version: (\\d*\\.\\d*\\.\\d*)?\\;version:\\1",
+  "icon": "tessitura.svg",
+  "implies": [
+    "Microsoft ASP.NET",
+    "IIS",
+    "Windows Server"
+  ],
+  "website": "https://www.tessituranetwork.com"
+}

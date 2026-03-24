@@ -1,0 +1,11 @@
+{
+  "cats": [
+    35
+  ],
+  "icon": "arcgis_icon.png",
+  "scripts": [
+    "js\\.arcgis\\.com",
+    "basemaps\\.arcgis\\.com"
+  ],
+  "website": "https://developers.arcgis.com/javascript/"
+}

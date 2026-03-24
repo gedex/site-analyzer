@@ -1,0 +1,12 @@
+{
+  "cats": [
+    22
+  ],
+  "excludes": "Apache Tomcat",
+  "headers": {
+    "X-Powered-By": "JBossWeb(?:-([\\d.]+))?\\;version:\\1"
+  },
+  "icon": "JBoss Web.png",
+  "implies": "JBoss Application Server",
+  "website": "http://jboss.org/jbossweb"
+}

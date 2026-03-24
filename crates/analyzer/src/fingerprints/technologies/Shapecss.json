@@ -1,0 +1,16 @@
+{
+  "cats": [
+    66
+  ],
+  "html": "<link[^>]* href=\"[^\"]*shapecss(?:\\.min)?\\.css",
+  "icon": "Shapecss.svg",
+  "js": {
+    "Shapecss": ""
+  },
+  "scripts": [
+    "shapecss[-.]([\\d.]*\\d)[^/]*\\.js\\;version:\\1",
+    "/([\\d.]+)/shapecss(?:\\.min)?\\.js\\;version:\\1",
+    "shapecss.*\\.js"
+  ],
+  "website": "https://shapecss.com"
+}
