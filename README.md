@@ -4,12 +4,25 @@ A Rust-based tool that analyzes websites to detect which technologies they use â
 
 ## Installation
 
+### Shell installer (macOS, Linux, Windows)
 ```bash
-cargo install --path crates/cli
+curl --proto '=https' --tlsv1.2 -LsSf https://github.com/gedex/site-analyzer/releases/latest/download/aw-installer.sh | sh
 ```
 
-Or build from source:
+### Homebrew
+```bash
+brew install gedex/tap/aw
+```
 
+### Pre-built binaries
+Download from [releases](https://github.com/gedex/site-analyzer/releases/latest)
+
+### Cargo
+```bash
+cargo install aw
+```
+
+### Build from source
 ```bash
 cargo build --release
 ./target/release/aw --help
