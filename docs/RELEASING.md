@@ -1,5 +1,65 @@
 # Releasing Guide
 
+This project uses [cargo-dist](https://github.com/axodotdev/cargo-dist) for automated multi-platform releases.
+
+## Quick Release Process (Automated)
+
+### 1. Update Version
+
+Edit the workspace version in `Cargo.toml`:
+
+```toml
+[workspace.package]
+version = "0.2.0"  # Update this
+```
+
+### 2. Commit and Tag
+
+```bash
+git add Cargo.toml
+git commit -m "Bump version to 0.2.0"
+git tag v0.2.0
+git push origin trunk
+git push origin v0.2.0
+```
+
+### 3. Wait for Automation
+
+The GitHub Actions workflow will automatically:
+- Build binaries for all platforms (Linux, macOS Intel/ARM, Windows)
+- Create a GitHub Release with all artifacts
+- Generate shell installer scripts
+- Publish Homebrew formula to `gedex/homebrew-tap`
+
+### Supported Platforms
+
+cargo-dist builds for:
+- `aarch64-apple-darwin` (macOS Apple Silicon)
+- `x86_64-apple-darwin` (macOS Intel)
+- `aarch64-unknown-linux-gnu` (Linux ARM64)
+- `x86_64-unknown-linux-gnu` (Linux x86_64)
+- `x86_64-pc-windows-msvc` (Windows)
+
+### Installation Methods (Automated)
+
+**Shell installer (Linux/macOS):**
+```bash
+curl --proto '=https' --tlsv1.2 -LsSf https://github.com/gedex/site-analyzer/releases/latest/download/aw-installer.sh | sh
+```
+
+**Homebrew:**
+```bash
+brew install gedex/tap/aw
+```
+
+**Direct download from GitHub Releases:**
+Visit https://github.com/gedex/site-analyzer/releases
+
+### Required GitHub Secrets
+
+For Homebrew publishing to work, add this secret in repository settings:
+- `HOMEBREW_TAP_TOKEN` - Personal access token with write access to `gedex/homebrew-tap`
+
 ## Building Release Binaries
 
 ### Development Build
@@ -57,25 +117,41 @@ cargo install site-analyzer
 
 **Note:** `cargo install` places binaries in `~/.cargo/bin/`, which should be in your PATH.
 
-### 3. Prebuilt Binaries
+### 3. Prebuilt Binaries (via cargo-dist)
 
-Download from GitHub Releases:
+**Recommended: Shell installer (Linux/macOS)**
 
 ```bash
-# Linux
-curl -L https://github.com/yourusername/site-analyzer/releases/download/v0.1.0/aw-linux-x86_64 -o aw
-chmod +x aw
+curl --proto '=https' --tlsv1.2 -LsSf https://github.com/gedex/site-analyzer/releases/latest/download/aw-installer.sh | sh
+```
+
+**Homebrew (macOS/Linux)**
+
+```bash
+brew install gedex/tap/aw
+```
+
+**Manual download from GitHub Releases:**
+
+Download the appropriate tarball from https://github.com/gedex/site-analyzer/releases/latest
+
+```bash
+# Linux x86_64
+curl -L https://github.com/gedex/site-analyzer/releases/latest/download/aw-x86_64-unknown-linux-gnu.tar.gz | tar xz
 sudo mv aw /usr/local/bin/
 
-# macOS
-curl -L https://github.com/yourusername/site-analyzer/releases/download/v0.1.0/aw-macos-x86_64 -o aw
-chmod +x aw
+# macOS Intel
+curl -L https://github.com/gedex/site-analyzer/releases/latest/download/aw-x86_64-apple-darwin.tar.gz | tar xz
 sudo mv aw /usr/local/bin/
 
-# macOS (Apple Silicon)
-curl -L https://github.com/yourusername/site-analyzer/releases/download/v0.1.0/aw-macos-aarch64 -o aw
-chmod +x aw
+# macOS Apple Silicon
+curl -L https://github.com/gedex/site-analyzer/releases/latest/download/aw-aarch64-apple-darwin.tar.gz | tar xz
 sudo mv aw /usr/local/bin/
+
+# Windows (PowerShell)
+Invoke-WebRequest -Uri "https://github.com/gedex/site-analyzer/releases/latest/download/aw-x86_64-pc-windows-msvc.zip" -OutFile "aw.zip"
+Expand-Archive aw.zip
+Move-Item aw\aw.exe C:\Windows\System32\
 ```
 
 ## Cross-Platform Compilation
@@ -196,141 +272,68 @@ cargo publish
 
 ## Creating GitHub Releases
 
-### 1. Tag the Release
+### Automated (via cargo-dist)
+
+Simply push a version tag and cargo-dist handles everything:
 
 ```bash
-git tag -a v0.1.0 -m "Release v0.1.0"
+git tag v0.1.0
 git push origin v0.1.0
 ```
 
-### 2. Build Binaries for All Platforms
+The `.github/workflows/release.yml` workflow will:
+1. Build binaries for all platforms
+2. Create GitHub Release with generated changelog
+3. Upload all artifacts (tarballs, installers, checksums)
+4. Publish to Homebrew tap
+
+### Manual (for testing)
+
+You can test the release process locally:
 
 ```bash
-# Linux
-cross build --release --target x86_64-unknown-linux-gnu
-cp target/x86_64-unknown-linux-gnu/release/aw aw-linux-x86_64
+# Install cargo-dist if not already installed
+cargo install cargo-dist
 
-# macOS Intel
-cargo build --release --target x86_64-apple-darwin
-cp target/x86_64-apple-darwin/release/aw aw-macos-x86_64
+# Test the build process
+cargo dist build
 
-# macOS Apple Silicon
-cargo build --release --target aarch64-apple-darwin
-cp target/aarch64-apple-darwin/release/aw aw-macos-aarch64
+# Preview what will be released
+cargo dist plan
 
-# Windows
-cross build --release --target x86_64-pc-windows-gnu
-cp target/x86_64-pc-windows-gnu/release/aw.exe aw-windows-x86_64.exe
+# Generate installer scripts locally
+cargo dist generate
 ```
 
-### 3. Create Release on GitHub
+## cargo-dist Configuration
 
-1. Go to **Releases** → **Draft a new release**
-2. Choose tag: `v0.1.0`
-3. Title: `v0.1.0 - Initial Release`
-4. Description:
-   ```markdown
-   ## Features
-   - Detect 1,270+ web technologies
-   - Fast async analysis
-   - JSON and human-readable output
+The release process is configured in `dist-workspace.toml`:
 
-   ## Installation
-   Download the binary for your platform:
-   - **Linux:** `aw-linux-x86_64`
-   - **macOS (Intel):** `aw-macos-x86_64`
-   - **macOS (Apple Silicon):** `aw-macos-aarch64`
-   - **Windows:** `aw-windows-x86_64.exe`
-   ```
-5. Upload binaries
-6. Publish release
+```toml
+[dist]
+cargo-dist-version = "0.31.0"
+ci = "github"
+installers = ["shell", "homebrew"]
+tap = "gedex/homebrew-tap"
+targets = [
+  "aarch64-apple-darwin",
+  "aarch64-unknown-linux-gnu",
+  "x86_64-apple-darwin",
+  "x86_64-unknown-linux-gnu",
+  "x86_64-pc-windows-msvc"
+]
+install-path = "CARGO_HOME"
+publish-jobs = ["homebrew"]
+```
 
-## Automated Releases with GitHub Actions
+To modify the release configuration:
 
-### .github/workflows/release.yml
+```bash
+# Update configuration
+cargo dist init
 
-```yaml
-name: Release
-
-on:
-  push:
-    tags:
-      - 'v*'
-
-jobs:
-  build:
-    name: Build for ${{ matrix.os }}
-    runs-on: ${{ matrix.os }}
-    strategy:
-      matrix:
-        include:
-          - os: ubuntu-latest
-            target: x86_64-unknown-linux-gnu
-            binary: aw
-            name: aw-linux-x86_64
-          - os: macos-latest
-            target: x86_64-apple-darwin
-            binary: aw
-            name: aw-macos-x86_64
-          - os: macos-latest
-            target: aarch64-apple-darwin
-            binary: aw
-            name: aw-macos-aarch64
-          - os: windows-latest
-            target: x86_64-pc-windows-gnu
-            binary: aw.exe
-            name: aw-windows-x86_64.exe
-
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Install Rust
-        uses: actions-rs/toolchain@v1
-        with:
-          toolchain: stable
-          target: ${{ matrix.target }}
-          override: true
-
-      - name: Build
-        run: cargo build --release --target ${{ matrix.target }}
-
-      - name: Rename binary
-        run: |
-          cp target/${{ matrix.target }}/release/${{ matrix.binary }} ${{ matrix.name }}
-
-      - name: Upload artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: ${{ matrix.name }}
-          path: ${{ matrix.name }}
-
-  release:
-    name: Create Release
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Download artifacts
-        uses: actions/download-artifact@v3
-
-      - name: Create Release
-        uses: softprops/action-gh-release@v1
-        with:
-          files: |
-            aw-linux-x86_64/aw-linux-x86_64
-            aw-macos-x86_64/aw-macos-x86_64
-            aw-macos-aarch64/aw-macos-aarch64
-            aw-windows-x86_64.exe/aw-windows-x86_64.exe
-          body: |
-            ## Installation
-            Download the binary for your platform and run:
-            ```bash
-            chmod +x aw-*
-            sudo mv aw-* /usr/local/bin/aw
-            ```
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+# Regenerate CI workflows
+cargo dist generate
 ```
 
 ## Release Checklist
@@ -339,32 +342,36 @@ Use this checklist before each release:
 
 ### Pre-Release
 
-- [ ] All tests pass: `cargo test --package site-analyzer`
+- [ ] All tests pass: `cargo test --workspace`
 - [ ] Code formatted: `cargo fmt -- --check`
 - [ ] No Clippy warnings: `cargo clippy --all-targets`
 - [ ] Documentation updated (README.md, CHANGELOG.md)
-- [ ] Version bumped in both Cargo.toml files
+- [ ] Version bumped in `Cargo.toml` workspace.package section
 - [ ] CHANGELOG.md updated with changes
+- [ ] Test local build: `cargo dist build`
 
-### Build
+### Publish (Automated via cargo-dist)
 
-- [ ] Release build succeeds: `cargo build --release`
-- [ ] Binary size reasonable (~5MB)
-- [ ] Test binary on target platforms
-- [ ] Cross-compilation succeeds for all platforms
+- [ ] Commit version bump: `git commit -am "Bump version to vX.Y.Z"`
+- [ ] Create git tag: `git tag vX.Y.Z`
+- [ ] Push commits: `git push origin trunk`
+- [ ] Push tag: `git push origin vX.Y.Z`
+- [ ] Monitor GitHub Actions workflow at `.github/workflows/release.yml`
+- [ ] Verify `HOMEBREW_TAP_TOKEN` secret is configured
 
-### Publish
+### Post-Release (Automated checks)
 
-- [ ] Git tag created: `git tag -a v0.1.0 -m "Release v0.1.0"`
-- [ ] Tag pushed: `git push origin v0.1.0`
-- [ ] GitHub release created with binaries
-- [ ] Published to crates.io (optional): `cargo publish`
-- [ ] Release notes written with features and fixes
+- [ ] GitHub Release created automatically with all artifacts
+- [ ] Binaries available for all platforms (Linux, macOS, Windows)
+- [ ] Shell installer script works: `curl ... | sh`
+- [ ] Homebrew formula published to `gedex/homebrew-tap`
+- [ ] Homebrew install works: `brew install gedex/tap/aw`
+- [ ] Optional: Publish to crates.io: `cargo publish -p site-analyzer && cargo publish -p aw`
 
-### Post-Release
+### Manual Verification
 
-- [ ] Installation instructions tested
-- [ ] Binary downloads work from GitHub Releases
+- [ ] Test installation on at least one platform
+- [ ] Verify binary version: `aw --version`
 - [ ] Announcement posted (if applicable)
 - [ ] Documentation links work
 
@@ -393,28 +400,19 @@ Use this checklist before each release:
 
 ### 3. Homebrew (macOS/Linux)
 
-Create a tap:
+**Automated via cargo-dist:**
 
-```ruby
-# Formula/aw.rb
-class Aw < Formula
-  desc "Fast website technology detection tool"
-  homepage "https://github.com/yourusername/site-analyzer"
-  url "https://github.com/yourusername/site-analyzer/archive/v0.1.0.tar.gz"
-  sha256 "..."
+Homebrew formulas are automatically generated and published to `gedex/homebrew-tap` when you push a version tag. The workflow handles:
+- Formula generation with correct checksums
+- Pushing to the tap repository
+- Formula validation with `brew style`
 
-  def install
-    system "cargo", "build", "--release"
-    bin.install "target/release/aw"
-  end
-end
-```
-
-Install:
+Users can install with:
 ```bash
-brew tap yourusername/tap
-brew install aw
+brew install gedex/tap/aw
 ```
+
+**Note:** The `HOMEBREW_TAP_TOKEN` secret must be configured in repository settings for this to work.
 
 ### 4. Debian/Ubuntu Package
 
@@ -525,8 +523,41 @@ xattr -d com.apple.quarantine aw
 
 ## Resources
 
+- **[cargo-dist](https://opensource.axo.dev/cargo-dist/)** - Primary distribution tool (automated releases)
+- [cargo-dist Book](https://opensource.axo.dev/cargo-dist/book/) - Full documentation
 - [Cargo Book - Publishing](https://doc.rust-lang.org/cargo/reference/publishing.html)
-- [cargo-dist](https://github.com/axodotdev/cargo-dist) - Distribution tool
-- [cross](https://github.com/cross-rs/cross) - Cross-compilation tool
-- [GitHub Actions - Rust](https://github.com/actions-rs)
+- [cross](https://github.com/cross-rs/cross) - Cross-compilation tool (manual builds)
 - [Semantic Versioning](https://semver.org/)
+
+## Troubleshooting cargo-dist
+
+### Release workflow fails
+
+Check the GitHub Actions logs at `.github/workflows/release.yml`. Common issues:
+
+- Missing `HOMEBREW_TAP_TOKEN` secret
+- Invalid version tag format (must be `vX.Y.Z`)
+- Build failures on specific platforms
+
+### Test locally before pushing tag
+
+```bash
+# Dry-run the entire release process
+cargo dist plan
+
+# Build all artifacts locally
+cargo dist build
+
+# Check what would be uploaded
+cargo dist manifest
+```
+
+### Regenerate workflows
+
+If you update `dist-workspace.toml`:
+
+```bash
+cargo dist generate
+git add .github/workflows/release.yml
+git commit -m "Update cargo-dist workflows"
+```
