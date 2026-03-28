@@ -26,10 +26,13 @@ git push origin v0.2.0
 ### 3. Automation Takes Over
 
 The GitHub Actions workflow automatically:
+- Runs all tests (`cargo test --workspace`)
 - Builds binaries for all platforms (Linux, macOS Intel/ARM, Windows)
 - Creates a GitHub Release with artifacts
 - Generates shell installer scripts
 - Publishes Homebrew formula to `gedex/homebrew-tap`
+
+**Note:** If tests fail, the release process stops and no artifacts are built.
 
 Monitor the workflow at: https://github.com/gedex/site-analyzer/actions
 
@@ -74,7 +77,7 @@ Before each release:
 
 ### Pre-Release
 
-- [ ] All tests pass: `cargo test --workspace`
+- [ ] All tests pass locally: `cargo test --workspace` (also runs in CI)
 - [ ] Code formatted: `cargo fmt -- --check`
 - [ ] No Clippy warnings: `cargo clippy --all-targets`
 - [ ] Documentation updated (README.md, CHANGELOG.md if exists)
