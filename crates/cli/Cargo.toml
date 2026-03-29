@@ -7,6 +7,9 @@ authors.workspace = true
 license.workspace = true
 repository = "https://github.com/gedex/site-analyzer"
 homepage = "https://github.com/gedex/site-analyzer"
+readme = "../../README.md"
+keywords = ["web", "analyzer", "technology", "detection", "fingerprinting"]
+categories = ["command-line-utilities", "web-programming"]
 
 [[bin]]
 name = "aw"
