@@ -5,6 +5,8 @@ version.workspace = true
 edition.workspace = true
 authors.workspace = true
 license.workspace = true
+repository = "https://github.com/gedex/site-analyzer"
+homepage = "https://github.com/gedex/site-analyzer"
 
 [dependencies]
 tokio.workspace = true

@@ -13,7 +13,7 @@ name = "aw"
 path = "src/main.rs"
 
 [dependencies]
-site-analyzer = { path = "../analyzer" }
+site-analyzer = { version = "0.1.0", path = "../analyzer" }
 tokio.workspace = true
 serde_json.workspace = true
 anyhow.workspace = true
